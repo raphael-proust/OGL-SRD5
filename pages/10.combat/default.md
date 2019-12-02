@@ -77,23 +77,23 @@ Your movement can include jumping, climbing, and swimming. These different modes
 
 #### Breaking Up Your Move
 
-You can break up your movement on your turn, using some of your speed before and after your action. For example, if you have a speed of 30 feet, you can move 10 feet, take your action, and then move 20 feet.
+You can break up your movement on your turn, using some of your speed before and after your action. For example, if you have a speed of 9m, you can move 3m, take your action, and then move 6m.
 
 ##### Moving between Attacks
 
-If you take an action that includes more than one weapon attack, you can break up your movement even further by moving between those attacks. For example, a fighter who can make two attacks with the Extra Attack feature and who has a speed of 25 feet could move 10 feet, make an attack, move 15 feet, and then attack again.
+If you take an action that includes more than one weapon attack, you can break up your movement even further by moving between those attacks. For example, a fighter who can make two attacks with the Extra Attack feature and who has a speed of 7.5m could move 3m, make an attack, move 4.5m, and then attack again.
 
 ##### Using Different Speeds
 
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you’ve already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the *fly* spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the *fly* spell on you, you could fly 6m, then walk 3m, and then leap into the air to fly 9m more.
 
 #### Difficult Terrain
 
-Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briar* choked forests, treacherous staircases—the setting of a typical fight contains difficult terrain.
+Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briar-choked forests, treacherous staircases—the setting of a typical fight contains difficult terrain.
 
-Every foot of movement in difficult terrain costs 1 extra foot. This rule is true even if multiple things in a space count as difficult terrain.
+Every meter of movement in difficult terrain costs 1 extra meter. This rule is true even if multiple things in a space count as difficult terrain.
 
 Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are examples of difficult terrain. The space of another creature, whether hostile or not, also counts as difficult terrain.
 
@@ -101,11 +101,9 @@ Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are exa
 
 Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are prone, a condition described in appendix A.
 
-You can **drop prone** without using any of your speed. **Standing up** takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend
+You can **drop prone** without using any of your speed. **Standing up** takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 9m, you must spend 4.5m of movement to stand up. You can’t stand up if you don’t have enough movement left or if your speed is 0.
 
-15 feet of movement to stand up. You can’t stand up if you don’t have enough movement left or if your speed is 0.
-
-To move while prone, you must **crawl** or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
+To move while prone, you must **crawl** or use magic such as teleportation. Every meter of movement while crawling costs 1 extra meter. Crawling 1m in difficult terrain, therefore, costs 3m of movement.
 
 ### Interacting with Objects Around You
 
@@ -130,7 +128,7 @@ Here are a few examples of the sorts of thing you can do in tandem with your mov
 * put your ear to a door
 * kick a small stone
 * turn a key in a lock
-* tap the floor with a 10-foot pole
+* tap the floor with a 3m pole
 * hand an item to another character
 
 #### Moving Around Other Creatures
@@ -153,24 +151,24 @@ Each creature takes up a different amount of space. The Size Categories table sh
 
 | Size       | Space                  |
 |------------|------------------------|
-| Tiny       | 2½ by 2½ ft.           |
-| Small      | 5 by 5 ft.             |
-| Medium     | 5 by 5 ft.             |
-| Large      | 10 by 10 ft.           |
-| Huge       | 15 by 15 ft.           |
-| Gargantuan | 20 by 20 ft. or larger |
+| Tiny       | 75cm by 75cm           |
+| Small      | 1.5m by 1.5m           |
+| Medium     | 1.5m by 1.5m           |
+| Large      | 3m by 3m               |
+| Huge       | 4.5m by 4.5m           |
+| Gargantuan | 6m by 6m or larger     |
 
 ##### Space
 
-A creature’s space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn’t 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5* foot-wide doorway, other creatures can’t get through unless the hobgoblin lets them.
+A creature’s space is the area in meters that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn’t 1.5m wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 1.5m-wide doorway, other creatures can’t get through unless the hobgoblin lets them.
 
-A creature’s space also reflects the area it needs to fight effectively. For that reason, there’s a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 5-foot radius around another one.
+A creature’s space also reflects the area it needs to fight effectively. For that reason, there’s a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 1.5m radius around another one.
 
 Because larger creatures take up more space, fewer of them can surround a creature. If five Large creatures crowd around a Medium or smaller one, there’s little room for anyone else. In contrast, as many as twenty Medium creatures can surround a Gargantuan one.
 
 ##### Squeezing into a Smaller Space
 
-A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that’s only 5 feet wide. While squeezing through a space, a creature must spend 1 extra foot for every foot it moves there, and it has disadvantage on attack rolls and Dexterity saving throws. Attack rolls against the creature have advantage while it’s in the smaller space.
+A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that’s only 1.5m wide. While squeezing through a space, a creature must spend 1 extra meter for every meter it moves there, and it has disadvantage on attack rolls and Dexterity saving throws. Attack rolls against the creature have advantage while it’s in the smaller space.
 
 ### Actions in Combat
 
@@ -192,9 +190,9 @@ Spellcasters such as wizards and clerics, as well as many monsters, have access 
 
 #### Dash
 
-When you take the Dash action, you gain extra movement for the current turn. The increase equals your speed, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you dash.
+When you take the Dash action, you gain extra movement for the current turn. The increase equals your speed, after applying any modifiers. With a speed of 9m, for example, you can move up to 18m on your turn if you dash.
 
-Any increase or decrease to your speed changes this additional movement by the same amount. If your speed of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you dash.
+Any increase or decrease to your speed changes this additional movement by the same amount. If your speed of 9m is reduced to 4.5m, for instance, you can move up to 9m this turn if you dash.
 
 #### Disengage
 
@@ -208,7 +206,7 @@ When you take the Dodge action, you focus entirely on avoiding attacks. Until th
 
 You can lend your aid to another creature in the completion of a task. When you take the Help action, the creature you aid gains advantage on the next ability check it makes to perform the task you are helping with, provided that it makes the check before the start of your next turn.
 
-Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally’s attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.
+Alternatively, you can aid a friendly creature in attacking a creature within 1.5m of you. You feint, distract the target, or in some other way team up to make your ally’s attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.
 
 #### Hide
 
@@ -286,13 +284,13 @@ Some ranged attacks, such as those made with a longbow or a shortbow, have two r
 
 ##### Ranged Attacks in Close Combat
 
-Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn’t incapacitated.
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 1.5m of a hostile creature who can see you and who isn’t incapacitated.
 
 #### Melee Attacks
 
 Used in hand-to-hand combat, a melee attack allows you to attack a foe within your reach. A melee attack typically uses a handheld weapon such as a sword, a warhammer, or an axe. A typical monster makes a melee attack when it strikes with its claws, horns, teeth, tentacles, or other body part. A few spells also involve making a melee attack.
 
-Most creatures have a 5-foot **reach** and can thus attack targets within 5 feet of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 5 feet, as noted in their descriptions.
+Most creatures have a 1.5m **reach** and can thus attack targets within 1.5m of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 1.5m, as noted in their descriptions.
 
 Instead of using a weapon to make a melee weapon attack, you can use an **unarmed strike**: a punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.
 
@@ -329,7 +327,7 @@ The target of your grapple must be no more than one size larger than you and mus
 
 Using the Attack action, you can make a special melee attack to shove a creature, either to knock it prone or push it away from you. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
 
-The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 5 feet away from you.
+The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 1.5m away from you.
 
 ### Cover
 
@@ -409,7 +407,7 @@ If a creature or an object has **resistance** to a damage type, damage of that t
 
 Resistance and then vulnerability are applied after all other modifiers to damage. For example, a creature has resistance to bludgeoning damage and is hit by an attack that deals 25 bludgeoning damage. The creature is also within a magical aura that reduces all damage by 5. The 25 damage is first reduced by 5 and then halved, so the creature takes 10 damage.
 
-Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance. For example, if a creature has resistance to fire damage as well as resistance to all nonmagical damage, the damage of a nonmagical fire is reduced by half against the creature, not reduced by three* quarters.
+Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance. For example, if a creature has resistance to fire damage as well as resistance to all nonmagical damage, the damage of a nonmagical fire is reduced by half against the creature, not reduced by three-quarters.
 
 #### Healing
 
@@ -483,11 +481,11 @@ A willing creature that is at least one size larger than you and that has an app
 
 #### Mounting and Dismounting
 
-Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can’t mount it if you don’t have 15 feet of movement left or if your speed is 0.
+Once during your move, you can mount a creature that is within 1.5m of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 9m, you must spend 4.5m of movement to mount a horse. Therefore, you can’t mount it if you don’t have 4.5m of movement left or if your speed is 0.
 
-If an effect moves your mount against its will while you’re on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it. If you’re knocked prone while mounted, you must make the same saving throw.
+If an effect moves your mount against its will while you’re on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 1.5m of it. If you’re knocked prone while mounted, you must make the same saving throw.
 
-If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
+If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 1.5m it.
 
 #### Controlling a Mount
 

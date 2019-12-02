@@ -211,7 +211,7 @@ A Strength check can model any attempt to lift, push, pull, or break something, 
 
 ##### Attack Rolls and Damage
 
-You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand* to-hand combat, and some of them can be thrown to make a ranged attack.
+You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-hand combat, and some of them can be thrown to make a ranged attack.
 
 ##### Lifting and Carrying
 
@@ -219,7 +219,7 @@ Your Strength score determines the amount of weight you can bear. The following 
 
 **_Carrying Capacity._** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough that most characters don’t usually have to worry about it.
 
-**_Push, Drag, or Lift._** You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 5 feet.
+**_Push, Drag, or Lift._** You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 1.5m.
 
 **_Size and Strength._** Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature’s carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these weights.
 
@@ -227,9 +227,9 @@ Your Strength score determines the amount of weight you can bear. The following 
 
 The rules for lifting and carrying are intentionally simple. Here is a variant if you are looking for more detailed rules for determining how a character is hindered by the weight of equipment. When you use this variant, ignore the Strength column of the Armor table.
 
-If you carry weight in excess of 5 times your Strength score, you are **encumbered**, which means your speed drops by 10 feet.
+If you carry weight in excess of 5 times your Strength score, you are **encumbered**, which means your speed drops by 3m.
 
-If you carry weight in excess of 10 times your Strength score, up to your maximum carrying capacity, you are instead **heavily encumbered**, which means your speed drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+If you carry weight in excess of 10 times your Strength score, up to your maximum carrying capacity, you are instead **heavily encumbered**, which means your speed drops by 6m and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
 
 #### Dexterity
 
@@ -427,7 +427,7 @@ Sometimes it’s important, though, to know how long it takes to get from one sp
 
 #### Speed
 
-Every character and monster has a speed, which is the distance in feet that the character or monster can walk in 1 round. This number assumes short bursts of energetic movement in the midst of a life* threatening situation.
+Every character and monster has a speed, which is the distance in meters that the character or monster can walk in 1 round. This number assumes short bursts of energetic movement in the midst of a life-threatening situation.
 
 The following rules determine how far a character or monster can move in a minute, an hour, or a day.
 
@@ -449,15 +449,15 @@ Certain special mounts, such as a pegasus or griffon, or special vehicles, such 
 
 | Pace   | Distance per: Minute | Hour    | Day      | Effect                                           |
 |--------|----------------------|---------|----------|--------------------------------------------------|
-| Fast   | 400 feet             | 4 miles | 30 miles | −5 penalty to passive Wisdom (Perception) scores |
-| Normal | 300 feet             | 3 miles | 18 miles | —                                                |
-| Slow   | 200 feet             | 2 miles | 24 miles | Able to use stealth                              |
+| Fast   | 120m                 | 6.4km   | 48 km    | −5 penalty to passive Wisdom (Perception) scores |
+| Normal | 90m                  | 4.8km   | 38.4km   | —                                                |
+| Slow   | 60m                  | 3.2km   | 28.8 km  | Able to use stealth                              |
 
 ##### Difficult Terrain
 
 The travel speeds given in the Travel Pace table assume relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground—all considered difficult terrain.
 
-You move at half speed in difficult terrain— moving 1 foot in difficult terrain costs 2 feet of speed—so you can cover only half the normal distance in a minute, an hour, or a day.
+You move at half speed in difficult terrain— moving 1m in difficult terrain costs 2m of speed—so you can cover only half the normal distance in a minute, an hour, or a day.
 
 #### Special Types of Movement
 
@@ -465,19 +465,19 @@ Movement through dangerous dungeons or wilderness areas often involves more than
 
 ##### Climbing, Swimming, and Crawling
 
-While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing or swimming speed. At the GM’s option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check. Similarly, gaining any distance in rough water might require a successful Strength (Athletics) check.
+While climbing or swimming, each meter of movement costs 1 extra meter (2 extra meter in difficult terrain), unless a creature has a climbing or swimming speed. At the GM’s option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check. Similarly, gaining any distance in rough water might require a successful Strength (Athletics) check.
 
 ##### Jumping
 
 Your Strength determines how far you can jump.
 
-**_Long Jump._** When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each foot you clear on the jump costs a foot of movement.
+**_Long Jump._** When you make a long jump, you cover a distance of 0.3m times your Strength score if you move at least 3m on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each foot you clear on the jump costs a foot of movement.
 
 This rule assumes that the height of your jump doesn’t matter, such as a jump across a stream or chasm. At your GM’s option, you must succeed on a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump’s distance), such as a hedge or low wall. Otherwise, you hit it.
 
 When you land in difficult terrain, you must succeed on a DC 10 Dexterity (Acrobatics) check to land on your feet. Otherwise, you land prone.
 
-**_High Jump._** When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your GM might allow you to make a Strength (Athletics) check to jump higher than you normally can.
+**_High Jump._** When you make a high jump, you leap into the air 0.9m plus 0.3m times your Strength modifier if you move at least 3m on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your GM might allow you to make a Strength (Athletics) check to jump higher than you normally can.
 
 You can extend your arms half your height above yourself during the jump. Thus, you can reach above you a distance equal to the height of the jump plus 1½ times your height.
 
@@ -487,7 +487,7 @@ By its nature, adventuring involves delving into places that are dark, dangerous
 
 #### Falling
 
-A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.
+A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1d6 bludgeoning damage for every 3m it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.
 
 #### Suffocating
 

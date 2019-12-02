@@ -64,7 +64,7 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 * A paralyzed creature is incapacitated (see the condition) and can’t move or speak.
 * The creature automatically fails Strength and Dexterity saving throws.
 * Attack rolls against the creature have advantage.
-* Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+* Any attack that hits the creature is a critical hit if the attacker is within 1.5m of the creature.
 
 ### Petrified
 * A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
@@ -80,7 +80,7 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 ### Prone
 * A prone creature’s only movement option is to crawl, unless it stands up and thereby ends the condition.
 * The creature has disadvantage on attack rolls.
-* An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+* An attack roll against the creature has advantage if the attacker is within 1.5m of the creature. Otherwise, the attack roll has disadvantage.
 
 ### Restrained
 * A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
@@ -97,4 +97,4 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 * The creature drops whatever it’s holding and falls prone.
 * The creature automatically fails Strength and Dexterity saving throws.
 * Attack rolls against the creature have advantage.
-* Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+* Any attack that hits the creature is a critical hit if the attacker is within 1.5m of the creature.

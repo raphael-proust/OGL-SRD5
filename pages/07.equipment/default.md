@@ -6,7 +6,7 @@ title: Equipment
 
 Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
 
-With one gold piece, a character can buy a bedroll, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The old piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don’t usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
+With one gold piece, a character can buy a bedroll, 15m of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The old piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don’t usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
 
 One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer’s work for half a day, a flask of lamp oil, or a night’s rest in a poor inn.
 
@@ -48,7 +48,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 **_Armor Class (AC)._** Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
 
-**_Heavy Armor._** Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If the Armor table shows “Str 13” or “Str 15” in the Strength column for an armor type, the armor reduces the wearer’s speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+**_Heavy Armor._** Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If the Armor table shows “Str 13” or “Str 15” in the Strength column for an armor type, the armor reduces the wearer’s speed by 3m unless the wearer has a Strength score equal to or higher than the listed score.
 
 **_Stealth._** If the Armor table shows “Disadvantage” in the Stealth column, the wearer has disadvantage on Dexterity (Stealth) checks.
 
@@ -135,7 +135,7 @@ The time it takes to don or doff armor depends on the armor’s category.
 
 Your class grants proficiency in certain weapons, reflecting both the class’s focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
 
-The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 5 feet of you, whereas a **ranged weapon** is used to attack a target at a distance.
+The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 1.5m of you, whereas a **ranged weapon** is used to attack a target at a distance.
 
 #### Weapon Proficiency
 
@@ -157,9 +157,9 @@ If you use a weapon that has the ammunition property to make a melee attack, you
 
 **_Loading._** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
 
-**_Range._** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
+**_Range._** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in meters, and the second indicates the weapon’s long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
 
-**_Reach._** This weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it.
+**_Reach._** This weapon adds 1.5m to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it.
 
 **_Special._** A weapon with the special property has unusual rules governing its use, explained in the weapon’s description (see “Special Weapons” later in this section).
 
@@ -175,7 +175,7 @@ Sometimes characters don’t have their weapons and have to attack with whatever
 
 Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM’s option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
 
-An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
+An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 6m and a long range of 18m.
 
 ##### Silvered Weapons
 
@@ -185,7 +185,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 Weapons with special rules are described here.
 
-**_Lance._** You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren’t mounted.
+**_Lance._** You have disadvantage when you use a lance to attack a target within 1.5m of you. Also, a lance requires two hands to wield when you aren’t mounted.
 
 **_Net._** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
 
@@ -197,18 +197,18 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 |------------------------------|-------|-----------------|---------|--------------------------------------------------------|
 | **_Simple Melee Weapons_**   |       |                 |         |                                                        |
 | Club                         | 1 sp  | 1d4 bludgeoning | 2 lb.   | Light                                                  |
-| Dagger                       | 2 gp  | 1d4 piercing    | 1 lb.   | Finesse, light, thrown (range 20/60)                   |
+| Dagger                       | 2 gp  | 1d4 piercing    | 1 lb.   | Finesse, light, thrown (range 6m/18m)                   |
 | Greatclub                    | 2 sp  | 1d8 bludgeoning | 10 lb.  | Two-handed                                             |
-| Handaxe                      | 5 gp  | 1d6 slashing    | 2 lb.   | Light, thrown (range 20/60)                            |
+| Handaxe                      | 5 gp  | 1d6 slashing    | 2 lb.   | Light, thrown (range 6m/18m)                            |
 | Javelin                      | 5 sp  | 1d6 piercing    | 2 lb.   | Thrown (range 30/120)                                  |
-| Light hammer                 | 2 gp  | 1d4 bludgeoning | 2 lb.   | Light, thrown (range 20/60)                            |
+| Light hammer                 | 2 gp  | 1d4 bludgeoning | 2 lb.   | Light, thrown (range 6m/18m)                            |
 | Mace                         | 5 gp  | 1d6 bludgeoning | 4 lb.   | —                                                      |
 | Quarterstaff                 | 2 sp  | 1d6 bludgeoning | 4 lb.   | Versatile (1d8)                                        |
 | Sickle                       | 1 gp  | 1d4 slashing    | 2 lb.   | Light                                                  |
-| Spear                        | 1 gp  | 1d6 piercing    | 3 lb.   | Thrown (range 20/60), versatile (1d8)                  |
+| Spear                        | 1 gp  | 1d6 piercing    | 3 lb.   | Thrown (range 6m/18m), versatile (1d8)                  |
 | **_Simple Ranged Weapons_**  |       |                 |         |                                                        |
 | Crossbow, light              | 25 gp | 1d8 piercing    | 5 lb.   | Ammunition (range 80/320), loading, two-handed         |
-| Dart                         | 5 cp  | 1d4 piercing    | 1/4 lb. | Finesse, thrown (range 20/60)                          |
+| Dart                         | 5 cp  | 1d4 piercing    | 1/4 lb. | Finesse, thrown (range 6m/18m)                          |
 | Shortbow                     | 25 gp | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), two-handed                  |
 | Sling                        | 1 sp  | 1d4 bludgeoning | —       | Ammunition (range 30/120)                              |
 | **_Martial Melee Weapons_**  |       |                 |         |                                                        |
@@ -226,38 +226,38 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 | Rapier                       | 25 gp | 1d8 piercing    | 2 lb.   | Finesse                                                |
 | Scimitar                     | 25 gp | 1d6 slashing    | 3 lb.   | Finesse, light                                         |
 | Shortsword                   | 10 gp | 1d6 piercing    | 2 lb.   | Finesse, light                                         |
-| Trident                      | 5 gp  | 1d6 piercing    | 4 lb.   | Thrown (range 20/60), versatile (1d8)                  |
+| Trident                      | 5 gp  | 1d6 piercing    | 4 lb.   | Thrown (range 6m/18m), versatile (1d8)                  |
 | War pick                     | 5 gp  | 1d8 piercing    | 2 lb.   | —                                                      |
 | Warhammer                    | 15 gp | 1d8 bludgeoning | 2 lb.   | Versatile (1d10)                                       |
 | Whip                         | 2 gp  | 1d4 slashing    | 3 lb.   | Finesse, reach                                         |
 | **_Martial Ranged Weapons_** |       |                 |         |                                                        |
-| Blowgun                      | 10 gp | 1 piercing      | 1 lb.   | Ammunition (range 25/100), loading                     |
-| Crossbow, hand               | 75 gp | 1d6 piercing    | 3 lb.   | Ammunition (range 30/120), light, loading              |
-| Crossbow, heavy              | 50 gp | 1d10 piercing   | 18 lb.  | Ammunition (range 100/400), heavy, loading, two-handed |
-| Longbow                      | 50 gp | 1d8 piercing    | 2 lb.   | Ammunition (range 150/600), heavy, two-handed          |
-| Net                          | 1 gp  | —               | 3 lb.   | Special, thrown (range 5/15)                           |
+| Blowgun                      | 10 gp | 1 piercing      | 1 lb.   | Ammunition (range 7.5m/30m), loading                     |
+| Crossbow, hand               | 75 gp | 1d6 piercing    | 3 lb.   | Ammunition (range 9m/36m), light, loading              |
+| Crossbow, heavy              | 50 gp | 1d10 piercing   | 18 lb.  | Ammunition (range 30m/120m), heavy, loading, two-handed |
+| Longbow                      | 50 gp | 1d8 piercing    | 2 lb.   | Ammunition (range 150/180m), heavy, two-handed          |
+| Net                          | 1 gp  | —               | 3 lb.   | Special, thrown (range 1.5m/4.5m)                           |
 
 ### Adventuring Gear
 
 This section describes items that have special rules or require further explanation.
 
-**_Acid._** As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
+**_Acid._** As an action, you can splash the contents of this vial onto a creature within 1.5m of you or throw the vial up to 6m, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
 
-**_Alchemist’s Fire._** This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+**_Alchemist’s Fire._** This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 6m, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
 
 **_Antitoxin._** A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.
 
 **_Arcane Focus._** An arcane focus is a special item—an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item— designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 
-**_Ball Bearings._** As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn’t need to make the save.
+**_Ball Bearings._** As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 3m on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn’t need to make the save.
 
 **_Block and Tackle._** A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
 
 **_Book._** A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).
 
-**_Caltrops._** As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature’s walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn’t need to make the save.
+**_Caltrops._** As an action, you can spread a bag of caltrops to cover a square area that is 1.5m on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature’s walking speed by 3m until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn’t need to make the save.
 
-**_Candle._** For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
+**_Candle._** For 1 hour, a candle sheds bright light in a 1.5m radius and dim light for an additional 1.5m.
 
 **_Case, Crossbow Bolt._** This wooden case can hold up to twenty crossbow bolts.
 
@@ -265,7 +265,7 @@ This section describes items that have special rules or require further explanat
 
 **_Chain._** A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.
 
-**_Climber’s Kit._** A climber’s kit includes special pitons, boot tips, gloves, and a harness. You can use the climber’s kit as an action to anchor yourself; when you do, you can’t fall more than 25 feet from the point where you anchored yourself, and you can’t climb more than 25 feet away from that point without undoing the anchor.
+**_Climber’s Kit._** A climber’s kit includes special pitons, boot tips, gloves, and a harness. You can use the climber’s kit as an action to anchor yourself; when you do, you can’t fall more than 7.5m from the point where you anchored yourself, and you can’t climb more than 7.5m away from that point without undoing the anchor.
 
 **_Component Pouch._** A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).
 **_Crowbar._** Using a crowbar grants advantage to Strength checks where the crowbar’s leverage can be applied.
@@ -277,14 +277,14 @@ Healer’s Kit. This kit is a leather pouch containing bandages, salves, and spl
 
 **_Holy Symbol._** A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. Appendix PH-B "Fantasy-Historical Pantheons" lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
 
-**_Holy Water._** As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.
+**_Holy Water._** As an action, you can splash the contents of this flask onto a creature within 1.5m of you or throw it up to 6m, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.
 A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.
 
-**_Hunting Trap._** When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
+**_Hunting Trap._** When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 0.9m long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
 
-**_Lamp._** A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
-Lantern, Bullseye. A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
-Lantern, Hooded. A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.
+**_Lamp._** A lamp casts bright light in a 4.5m radius and dim light for an additional 9m. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+Lantern, Bullseye. A bullseye lantern casts bright light in a 18m cone and dim light for an additional 18m. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+Lantern, Hooded. A hooded lantern casts bright light in a 9m radius and dim light for an additional 9m. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 1.5m radius.
 
 **_Lock._** A key is provided with the lock. Without the key, a creature proficient with thieves’ tools can pick this lock with a successful DC 15 Dexterity check. Your GM may decide that better locks are available for higher prices.
 
@@ -294,7 +294,7 @@ Lantern, Hooded. A hooded lantern casts bright light in a 30-foot radius and dim
 
 **_Mess Kit._** This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.
 
-**_Oil._** Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.
+**_Oil._** Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 1.5m of you or throw it up to 6m, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 1.5m-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.
 
 **_Poison, Basic._** You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
 
@@ -317,7 +317,7 @@ Ram, Portable. You can use a portable ram to break down doors. When doing so, yo
 
 **_Tinderbox._** This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.
 
-**_Torch._** A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
+**_Torch._** A torch burns for 1 hour, providing bright light in a 6m radius and dim light for an additional 6m. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 
 **Adventuring Gear (table)**
 
@@ -353,7 +353,7 @@ Ram, Portable. You can use a portable ram to break down doors. When doing so, yo
 | Candle                       | 1 cp     | —            |
 | Case, crossbow bolt          | 1 gp     | 1 lb.        |
 | Case, map or scroll          | 1 gp     | 1 lb.        |
-| Chain (10 feet)              | 5 gp     | 10 lb.       |
+| Chain (3m)                   | 5 gp     | 10 lb.       |
 | Chalk (1 piece)              | 1 cp     | —            |
 | Chest                        | 5 gp     | 25 lb.       |
 | Climber’s kit                | 25 gp    | 12 lb.       |
@@ -384,7 +384,7 @@ Ram, Portable. You can use a portable ram to break down doors. When doing so, yo
 | Ink (1 ounce bottle)         | 10 gp    | —            |
 | Ink pen                      | 2 cp     | —            |
 | Jug or pitcher               | 2 cp     | 4 lb.        |
-| Ladder (10-foot)             | 1 sp     | 25 lb.       |
+| Ladder (3m)                  | 1 sp     | 25 lb.       |
 | Lamp                         | 5 sp     | 1 lb.        |
 | Lantern, bullseye            | 10 gp    | 2 lb.        |
 | Lantern, hooded              | 5 gp     | 2 lb.        |
@@ -400,7 +400,7 @@ Ram, Portable. You can use a portable ram to break down doors. When doing so, yo
 | Pick, miner’s                | 2 gp     | 10 lb.       |
 | Piton                        | 5 cp     | 1/4 lb.      |
 | Poison, basic (vial)         | 100 gp   | —            |
-| Pole (10-foot)               | 5 cp     | 7 lb.        |
+| Pole (3m)                    | 5 cp     | 7 lb.        |
 | Pot, iron                    | 2 gp     | 10 lb.       |
 | Potion of healing 5          | 0 gp     | 1/2 lb.      |
 | Pouch                        | 5 sp     | 1 lb.        |
@@ -408,8 +408,8 @@ Ram, Portable. You can use a portable ram to break down doors. When doing so, yo
 | Ram, portable                | 4 gp     | 35 lb.       |
 | Rations (1 day)              | 5 sp     | 2 lb.        |
 | Robes                        | 1 gp     | 4 lb.        |
-| Rope, hempen (50 feet)       | 1 gp     | 10 lb.       |
-| Rope, silk (50 feet)         | 10 gp    | 5 lb.        |
+| Rope, hempen (15m)           | 1 gp     | 10 lb.       |
+| Rope, silk (15m)             | 10 gp    | 5 lb.        |
 | Sack                         | 1 cp     | 1/2 lb.      |
 | Scale, merchant’s            | 5 gp     | 3 lb.        |
 | Sealing wax                  | 5 sp     | —            |
@@ -431,19 +431,19 @@ Ram, Portable. You can use a portable ram to break down doors. When doing so, yo
 
 | Container        | Capacity                               |
 | ---------------- | -------------------------------------- |
-| Backpack\*       | 1 cubic foot/30 pounds of gear         |
-| Barrel           | 40 gallons liquid, 4 cubic feet solid  |
-| Basket           | 2 cubic feet/40 pounds of gear         |
-| Bottle           | 1½ pints liquid                        |
-| Bucket           | 3 gallons liquid, 1/2 cubic foot solid |
-| Chest            | 12 cubic feet/300 pounds of gear       |
-| Flask or tankard | 1 pint liquid                          |
-| Jug or pitcher   | 1 gallon liquid                        |
-| Pot, iron        | 1 gallon liquid                        |
-| Pouch            | 1/5 cubic foot/6 pounds of gear        |
-| Sack             | 1 cubic foot/30 pounds of gear         |
-| Vial             | 4 ounces liquid                        |
-| Waterskin        | 4 pints liquid                         |
+| Backpack\*       | 30L / 30 pounds of gear                |
+| Barrel           | 150L                                   |
+| Basket           | 60L / 40 pounds of gear                |
+| Bottle           | 750mL                                  |
+| Bucket           | 15L                                    |
+| Chest            | 360L /300 pounds of gear               |
+| Flask or tankard | 500mL                                  |
+| Jug or pitcher   | 4L                                     |
+| Pot, iron        | 4L                                     |
+| Pouch            | 6L /6 pounds of gear                   |
+| Sack             | 30L /30 pounds of gear                 |
+| Vial             | 100mL                                  |
+| Waterskin        | 2L                                     |
 
 \* You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
 
@@ -451,15 +451,15 @@ Ram, Portable. You can use a portable ram to break down doors. When doing so, yo
 >
 > The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
 >
-> **_Burglar’s Pack (16 gp)._** Includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+> **_Burglar’s Pack (16 gp)._** Includes a backpack, a bag of 1,000 ball bearings, 3m of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, and a waterskin. The pack also has 15m of hempen rope strapped to the side of it.
 >
 > **_Diplomat’s Pack (39 gp)._** Includes a chest, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
 >
-> **_Dungeoneer’s Pack (12 gp)._** Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+> **_Dungeoneer’s Pack (12 gp)._** Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 15m of hempen rope strapped to the side of it.
 >
 > **_Entertainer’s Pack (40 gp)._** Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
 >
-> **_Explorer’s Pack (10 gp)._** Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+> **_Explorer’s Pack (10 gp)._** Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 15m of hempen rope strapped to the side of it.
 >
 > **_Priest’s Pack (19 gp)._** Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.
 >
@@ -553,14 +553,14 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 
 | Item           | Cost   | Speed  | Carrying Capacity |
 |----------------|--------|--------|-------------------|
-| Camel          | 50 gp  | 50 ft. | 480 lb.           |
-| Donkey or mule | 8 gp   | 40 ft. | 420 lb.           |
-| Elephant       | 200 gp | 40 ft. | 1,320 lb.         |
-| Horse, draft   | 50 gp  | 40 ft. | 540 lb.           |
-| Horse, riding  | 75 gp  | 60 ft. | 480 lb.           |
-| Mastiff        | 25 gp  | 40 ft. | 195 lb.           |
-| Pony           | 30 gp  | 40 ft. | 225 lb.           |
-| Warhorse       | 400 gp | 60 ft. | 540 lb.           |
+| Camel          | 50 gp  | 15m    | 480 lb.           |
+| Donkey or mule | 8 gp   | 12m    | 420 lb.           |
+| Elephant       | 200 gp | 12m    | 1,320 lb.         |
+| Horse, draft   | 50 gp  | 12m    | 540 lb.           |
+| Horse, riding  | 75 gp  | 18m    | 480 lb.           |
+| Mastiff        | 25 gp  | 12m    | 195 lb.           |
+| Pony           | 30 gp  | 12m    | 225 lb.           |
+| Warhorse       | 400 gp | 18m    | 540 lb.           |
 
 **Tack, Harness, and Drawn Vehicles (table)**
 

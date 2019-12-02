@@ -22,7 +22,7 @@ Most races have tendencies toward certain alignments, described in this entry. T
 
 ##### Size
 
-Characters of most races are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few races are Small (between 2 and 4 feet tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding heavy weapons, as explained in “Equipment.”
+Characters of most races are Medium, a size category including creatures that are roughly 120cm to 240cm tall. Members of a few races are Small (between 60cm and 120cm tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding heavy weapons, as explained in “Equipment.”
 
 ##### Speed
 
@@ -48,11 +48,11 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 **_Alignment._** Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.
 
-**_Size._** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
+**_Size._** Dwarves stand between 120cm and 150cm tall and average about 150 pounds. Your size is Medium.
 
-**_Speed._** Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
+**_Speed._** Your base walking speed is 7.5m. Your speed is not reduced by wearing heavy armor.
 
-**_Darkvision._** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**_Darkvision._** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 18m of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
 **_Dwarven Resilience._** You have advantage on saving throws against poison, and you have resistance against poison damage.
 
@@ -84,11 +84,11 @@ Your elf character has a variety of natural abilities, the result of thousands o
 
 **_Alignment._** Elves love freedom, variety, and self- expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile has made them vicious and dangerous. Drow are more often evil than not.
 
-**_Size._** Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.
+**_Size._** Elves range from under 150cm to over 180cm tall and have slender builds. Your size is Medium.
 
-**_Speed._** Your base walking speed is 30 feet.
+**_Speed._** Your base walking speed is 9m.
 
-**_Darkvision._** Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**_Darkvision._** Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 18m of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
 **_Keen Senses._** You have proficiency in the Perception skill.
 
@@ -124,9 +124,9 @@ Your halfling character has a number of traits in common with all other halfling
 
 **_Alignment._** Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.
 
-**_Size._** Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
+**_Size._** Halflings average about 90cm tall and weigh about 40 pounds. Your size is Small.
 
-**_Speed._** Your base walking speed is 25 feet.
+**_Speed._** Your base walking speed is 7.5m.
 
 **_Lucky._** When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
 
@@ -158,9 +158,9 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **_Alignment._** Humans tend toward no particular alignment. The best and the worst are found among them.
 
-**_Size._** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+**_Size._** Humans vary widely in height and build, from barely 150cm to well over 180cm tall. Regardless of your position in that range, your size is Medium.
 
-**_Speed._** Your base walking speed is 30 feet. **_Languages._** You can speak, read, and write Common and one extra language of your choice.
+**_Speed._** Your base walking speed is 9m. **_Languages._** You can speak, read, and write Common and one extra language of your choice.
 
 Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
 
@@ -176,9 +176,9 @@ Your draconic heritage manifests in a variety of traits you share with other dra
 
 **_Alignment._** Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil. Most dragonborn are good, but those who side with evil can be terrible villains.
 
-**_Size._** Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
+**_Size._** Dragonborn are taller and heavier than humans, standing well over 180cm tall and averaging almost 250 pounds. Your size is Medium.
 
-**_Speed._** Your base walking speed is 30 feet.
+**_Speed._** Your base walking speed is 9m.
 
 **Draconic Ancestry (table)**
 
@@ -219,11 +219,11 @@ Your gnome character has certain characteristics in common with all other gnomes
 
 **_Alignment._** Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious.
 
-**_Size._** Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+**_Size._** Gnomes are between 90cm and 120cm tall and average about 40 pounds. Your size is Small.
 
-**_Speed._** Your base walking speed is 25 feet.
+**_Speed._** Your base walking speed is 7.5m.
 
-**_Darkvision._** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**_Darkvision._** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 18m of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
 **_Gnome Cunning._** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
 
@@ -241,7 +241,7 @@ As a rock gnome, you have a natural inventiveness and hardiness beyond that of o
 
 When you create a device, choose one of the following options:
 
-* _Clockwork Toy._ This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.
+* _Clockwork Toy._ This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 1.5m across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.
 * _Fire Starter._ The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
 * _Music Box._ When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.
 
@@ -258,11 +258,11 @@ Your half-elf character has some qualities in common with elves and some that ar
 **_Alignment._** Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for
 followers. They chafe at rules, resent others’ demands, and sometimes prove unreliable, or at least unpredictable.
 
-**_Size._** Half-elves are about the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium.
+**_Size._** Half-elves are about the same size as humans, ranging from 150cm to 180cm tall. Your size is Medium.
 
-**_Speed._** Your base walking speed is 30 feet.
+**_Speed._** Your base walking speed is 9m.
 
-**_Darkvision._** Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**_Darkvision._** Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 18m of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
 **_Fey Ancestry._** You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
 
@@ -282,11 +282,11 @@ Your half-orc character has certain traits deriving from your orc ancestry.
 
 **_Alignment._** Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among orcs and willing to live out their lives among them are usually evil.
 
-**_Size._** Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.
+**_Size._** Half-orcs are somewhat larger and bulkier than humans, and they range from 150cm to well over 180cm tall. Your size is Medium.
 
-**_Speed._** Your base walking speed is 30 feet.
+**_Speed._** Your base walking speed is 9m.
 
-**_Darkvision._** Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**_Darkvision._** Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 18m of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
 **_Menacing._** You gain proficiency in the Intimidation skill.
 
@@ -310,9 +310,9 @@ Tieflings share certain racial traits as a result of their infernal descent.
 
 **_Size._** Tieflings are about the same size and build as humans. Your size is Medium.
 
-**_Speed._** Your base walking speed is 30 feet.
+**_Speed._** Your base walking speed is 9m.
 
-**_Darkvision._** Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**_Darkvision._** Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 18m of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
 **_Hellish Resistance._** You have resistance to fire damage.
 
