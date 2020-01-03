@@ -105,7 +105,7 @@ This trap is activated when an intruder steps on a hidden pressure plate, releas
 
 The DC is 15 to spot the pressure plate, as well as faint scorch marks on the floor and walls. A spell or other effect that can sense the presence of magic, such as _detect magic_, reveals an aura of evocation magic around the statue.
 
-The trap activates when more than 20 pounds of weight is placed on the pressure plate, causing the statue to release a 9m cone of fire. Each creature in the fire must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+The trap activates when more than 10kg of weight is placed on the pressure plate, causing the statue to release a 9m cone of fire. Each creature in the fire must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
 
 Wedging an iron spike or other object under the pressure plate prevents the trap from activating. A successful _dispel magic_ (DC 13) cast on the statue destroys the trap.
 
@@ -141,7 +141,7 @@ When a creature steps on a hidden pressure plate, poison-tipped darts shoot from
 
 The tiny holes in the walls are obscured by dust and cobwebs, or cleverly hidden amid bas-reliefs, murals, or frescoes that adorn the walls. The DC to spot them is 15. With a successful DC 15 Intelligence (Investigation) check, a character can deduce the presence of the pressure plate from variations in the mortar and stone used to create it, compared to the surrounding floor. Wedging an iron spike or other object under the pressure plate prevents the trap from activating. Stuffing the holes with cloth or wax prevents the darts contained within from launching.
 
-The trap activates when more than 20 pounds of weight is placed on the pressure plate, releasing four darts. Each dart makes a ranged attack with a +8
+The trap activates when more than 10kg of weight is placed on the pressure plate, releasing four darts. Each dart makes a ranged attack with a +8
 
 bonus against a random target within 3m of the pressure plate (vision is irrelevant to this attack roll). (If there are no targets in the area, the darts don’t hit anything.) A target that is hit takes 2 (1d4) piercing damage and must succeed on a DC 15 Constitution saving throw, taking 11 (2d10) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -160,7 +160,7 @@ A successful DC 20 Intelligence (Investigation) check allows a character to dedu
 
 _Mechanical trap_
 
-When 20 or more pounds of pressure are placed on this trap’s pressure plate, a hidden trapdoor in the ceiling opens, releasing a 3m-diameter rolling sphere of solid stone.
+When 10kg or more of pressure are placed on this trap’s pressure plate, a hidden trapdoor in the ceiling opens, releasing a 3m-diameter rolling sphere of solid stone.
 
 With a successful DC 15 Wisdom (Perception) check, a character can spot the trapdoor and pressure plate. A search of the floor accompanied by a successful DC 15 Intelligence (Investigation) check reveals variations in the mortar and stone that betray the pressure plate’s presence. The same check made while inspecting the ceiling notes variations in the stonework that reveal the trapdoor. Wedging an iron spike or other object under the pressure plate prevents the trap from activating.
 

@@ -217,9 +217,9 @@ You add your Strength modifier to your attack roll and your damage roll when att
 
 Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry.
 
-**_Carrying Capacity._** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough that most characters don’t usually have to worry about it.
+**_Carrying Capacity._** Your carrying capacity is your Strength score multiplied by 7.5. This is the weight (in kg) that you can carry, which is high enough that most characters don’t usually have to worry about it.
 
-**_Push, Drag, or Lift._** You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 1.5m.
+**_Push, Drag, or Lift._** You can push, drag, or lift a weight in kg up to twice your carrying capacity (or 15 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 1.5m.
 
 **_Size and Strength._** Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature’s carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these weights.
 
@@ -535,7 +535,7 @@ Characters who don’t eat or drink suffer the effects of exhaustion (see append
 
 ##### Food
 
-A character needs one pound of food per day and can make food last longer by subsisting on half rations. Eating half a pound of food in a day counts as half a day without food.
+A character needs 500g of food per day and can make food last longer by subsisting on half rations. Eating 250g of food in a day counts as half a day without food.
 
 A character can go without food for a number of days equal to 3 + his or her Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of exhaustion.
 

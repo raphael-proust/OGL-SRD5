@@ -48,7 +48,7 @@ While holding this shield, you can speak its command word as a bonus action to c
 
 _Wondrous item, legendary_
 
-This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 Intelligence (Investigation) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster.
+This item first appears to be a Large sealed iron barrel weighing 250kg. The barrel has a hidden catch, which can be found with a successful DC 20 Intelligence (Investigation) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster.
 
 The apparatus of the Crab is a Large object with the following statistics:
 
@@ -142,7 +142,7 @@ Other types of magic ammunition of this kind exist, such as _bolts of slaying_ m
 
 _Wondrous item, rare_
 
-Inside this heavy cloth bag are 3d4 dry beans. The bag weighs 1/2 pound plus 1/4 pound for each bean it contains.
+Inside this heavy cloth bag are 3d4 dry beans. The bag weighs 250g plus 125g for each bean it contains.
 
 If you dump the bag’s contents out on the ground, they explode in a 3m radius, extending from the beans. Each creature in the area, including you, must make a DC 15 Dexterity saving throw, taking 5d4 fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren’t being worn or carried.
 
@@ -178,7 +178,7 @@ If the bag is pierced or torn, it is destroyed, and anything contained within it
 
 _Wondrous item, uncommon_
 
-This bag has an interior space considerably larger than its outside dimensions, roughly 60cm in diameter at the mouth and 120m deep. The bag can hold up to 500 pounds, not exceeding a volume of 2000L. The bag weighs 15 pounds, regardless of its contents. Retrieving an item from the bag requires an action.
+This bag has an interior space considerably larger than its outside dimensions, roughly 60cm in diameter at the mouth and 120m deep. The bag can hold up to 250kg, not exceeding a volume of 2000L. The bag weighs 7.5kg, regardless of its contents. Retrieving an item from the bag requires an action.
 
 If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth, unharmed, but the bag must be put right before it can be used again. Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to suffocate.
 
@@ -188,7 +188,7 @@ Placing a _bag of holding_ inside an extradimensional space created by a _handy 
 
 _Wondrous item, uncommon_
 
-This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.
+This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 250g.
 
 You can use an action to pull the fuzzy object from the bag and throw it up to 6m. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table that corresponds to the bag’s color.
 
@@ -243,7 +243,7 @@ This small black sphere measures 3/4 of an inch in diameter and weighs an ounce.
 
 You can use an action to throw the bead up to 18m. The bead explodes on impact and is destroyed. Each creature within a 3m radius of where the bead landed must succeed on a DC 15 Dexterity saving throw or take 5d4 force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save, or are partially within the area, are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere’s wall. No attack or other effect can.
 
-An enclosed creature can use its action to push against the sphere’s wall, moving the sphere up to half the creature’s walking speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.
+An enclosed creature can use its action to push against the sphere’s wall, moving the sphere up to half the creature’s walking speed. The sphere can be picked up, and its magic causes it to weigh only 500g, regardless of the weight of creatures inside.
 
 #### Belt of Dwarvenkind
 
@@ -330,7 +330,7 @@ _Wondrous item, rare_
 
 While this bowl is filled with water, you can use an action to speak the bowl’s command word and summon a water elemental, as if you had cast the _conjure elemental_ spell. The bowl can’t be used this way again until the next dawn.
 
-The bowl is about 1 foot in diameter and half as deep. It weighs 3 pounds and holds about 3 gallons.
+The bowl is about 1 foot in diameter and half as deep. It weighs 1.5kg and holds about 3 gallons.
 
 #### Bracers of Archery
 
@@ -350,7 +350,7 @@ _Wondrous item, rare_
 
 While a fire burns in this brass brazier, you can use an action to speak the brazier’s command word and summon a fire elemental, as if you had cast the _conjure elemental_ spell. The brazier can’t be used this way again until the next dawn.
 
-The brazier weighs 5 pounds.
+The brazier weighs 2.5kg.
 
 #### Brooch of Shielding
 
@@ -362,7 +362,7 @@ While wearing this brooch, you have resistance to force damage, and you have imm
 
 _Wondrous item, uncommon_
 
-This wooden broom, which weighs 3 pounds, functions like a mundane broom until you stand astride it and speak its command word. It then hovers beneath you and can be ridden in the air. It has a flying speed of 15m. It can carry up to 400 pounds, but its flying speed becomes 9m while carrying over 200 pounds. The broom stops hovering when you land.
+This wooden broom, which weighs 1.5kg, functions like a mundane broom until you stand astride it and speak its command word. It then hovers beneath you and can be ridden in the air. It has a flying speed of 15m. It can carry up to 200kg, but its flying speed becomes 9m while carrying over 100kg. The broom stops hovering when you land.
 
 You can send the broom to travel alone to a destination within 1.6km of you if you speak the command word, name the location, and are familiar with that place. The broom comes back to you when you speak another command word, provided that the broom is still within 1.6km of you.
 
@@ -410,10 +410,10 @@ Four sizes of _carpet of flying_ exist. The GM chooses the size of a given carpe
 
 | d100   | Size          | Capacity | Flying Speed |
 |--------|---------------|----------|--------------|
-| 01–20  | 90cm × 150cm  | 200 lb.  | 24m          |
-| 21–55  | 60cm × 180cm  | 400 lb.  | 18m          |
-| 56–80  | 150cm × 210cm | 600 lb.  | 12m          |
-| 81–100 | 180cm × 270cm | 800 lb.  | 9m           |
+| 01–20  | 90cm × 150cm  | 100kg    | 24m          |
+| 21–55  | 60cm × 180cm  | 200kg    | 18m          |
+| 56–80  | 150cm × 210cm | 300kg    | 12m          |
+| 81–100 | 180cm × 270cm | 400kg    | 9m           |
 
 A carpet can carry up to twice the weight shown on the table, but it flies at half speed if it carries more than its normal capacity.
 
@@ -423,13 +423,13 @@ _Wondrous item, rare_
 
 While incense is burning in this censer, you can use an action to speak the censer’s command word and summon an air elemental, as if you had cast the _conjure elemental_ spell. The censer can’t be used this way again until the next dawn.
 
-This 6-inch-wide, 1-foot-high vessel resembles a chalice with a decorated lid. It weighs 1 pound.
+This 6-inch-wide, 1-foot-high vessel resembles a chalice with a decorated lid. It weighs 500g.
 
 #### Chime of Opening
 
 _Wondrous item, rare_
 
-This hollow metal tube measures about 1 foot long and weighs 1 pound. You can strike it as an action, pointing it at an object within 36m of you that can be opened, such as a door, lid, or lock. The chime issues a clear tone, and one lock or latch on the object opens unless the sound can’t reach the object. If no locks or latches remain, the object itself opens.
+This hollow metal tube measures about 1 foot long and weighs 500g. You can strike it as an action, pointing it at an object within 36m of you that can be opened, such as a door, lid, or lock. The chime issues a clear tone, and one lock or latch on the object opens unless the sound can’t reach the object. If no locks or latches remain, the object itself opens.
 
 The chime can be used ten times. After the tenth time, it cracks and becomes useless.
 
@@ -562,13 +562,13 @@ After the hovering sword attacks for the fourth time, it flies up to 9m and trie
 
 _Wondrous item, uncommon_
 
-This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.
+This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 1kg.
 
 You can use an action to remove the stopper and speak one of three command words, whereupon an amount of fresh water or salt water (your choice) pours out of the flask. The water stops pouring out at the start of your next turn. Choose from the following options:
 
 * “Stream” produces 1 gallon of water.
 * “Fountain” produces 5 gallons of water.
-* “Geyser” produces 30 gallons of water that gushes forth in a geyser 9m long and 1 foot wide. As a bonus action while holding the decanter, you can aim the geyser at a creature you can see within 9m of you. The target must succeed on a DC 13 Strength saving throw or take 1d4 bludgeoning damage and fall prone. Instead of a creature, you can target an object that isn’t being worn or carried and that weighs no more than 200 pounds. The object is either knocked over or pushed up to 4.5m away from you.
+* “Geyser” produces 30 gallons of water that gushes forth in a geyser 9m long and 1 foot wide. As a bonus action while holding the decanter, you can aim the geyser at a creature you can see within 9m of you. The target must succeed on a DC 13 Strength saving throw or take 1d4 bludgeoning damage and fall prone. Instead of a creature, you can target an object that isn’t being worn or carried and that weighs no more than 100kg. The object is either knocked over or pushed up to 4.5m away from you.
 
 #### Deck of Illusions
 
@@ -828,7 +828,7 @@ You gain a +3 bonus to attack and damage rolls made with this magic weapon. It h
 
 _Wondrous item, uncommon_
 
-Each of the quiver’s three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to sixty arrows, bolts, or similar objects. The midsize compartment holds up to eighteen javelins or similar objects. The longest compartment holds up to six long objects, such as bows, quarterstaffs, or spears.
+Each of the quiver’s three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 1kg. The shortest compartment can hold up to sixty arrows, bolts, or similar objects. The midsize compartment holds up to eighteen javelins or similar objects. The longest compartment holds up to six long objects, such as bows, quarterstaffs, or spears.
 
 You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.
 
@@ -836,7 +836,7 @@ You can draw any item the quiver contains as if doing so from a regular quiver o
 
 _Wondrous item, very rare_
 
-This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an efreeti appears in an unoccupied space within 9m of you.
+This painted brass bottle weighs 500g. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an efreeti appears in an unoccupied space within 9m of you.
 
 The first time the bottle is opened, the GM rolls to determine what happens.
 
@@ -869,7 +869,7 @@ You gain a +1 bonus to AC while you wear this armor. You are considered proficie
 
 _Wondrous item, uncommon_
 
-Smoke leaks from the lead-stoppered mouth of this brass bottle, which weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke pours out in a 18m radius from the bottle. The cloud’s area is heavily obscured. Each minute the bottle remains open and within the cloud, the radius increases by 3m until it reaches its maximum radius of 36m.
+Smoke leaks from the lead-stoppered mouth of this brass bottle, which weighs 500g. When you use an action to remove the stopper, a cloud of thick smoke pours out in a 18m radius from the bottle. The cloud’s area is heavily obscured. Each minute the bottle remains open and within the cloud, the radius increases by 3m until it reaches its maximum radius of 36m.
 
 The cloud persists as long as the bottle is open. Closing the bottle requires you to speak its command word as an action. Once the bottle is closed, the cloud disperses after 10 minutes. A moderate wind (11 to 20 miles per hour) can also disperse the smoke after 1 minute, and a strong wind (21 or more miles per hour) can do so after 1 round.
 
@@ -910,7 +910,7 @@ This tiny object looks like a feather. Different types of feather tokens exist, 
 
 **_Anchor_**. You can use an action to touch the token to a boat or ship. For the next 24 hours, the vessel can’t be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.
 
-**_Bird_**. You can use an action to toss the token 1.5m into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a roc, but it obeys your simple commands and can’t attack. It can carry up to 500 pounds while flying at its maximum speed (16 miles an hour for a maximum of 144 miles per day, with a one-hour rest for every 3 hours of flying), or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 hit points. You can dismiss the bird as an action.
+**_Bird_**. You can use an action to toss the token 1.5m into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a roc, but it obeys your simple commands and can’t attack. It can carry up to 250kg while flying at its maximum speed (16 miles an hour for a maximum of 144 miles per day, with a one-hour rest for every 3 hours of flying), or 500kg at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 hit points. You can dismiss the bird as an action.
 
 **_Fan_**. If you are on a boat or ship, you can use an action to toss the token up to 3m in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a wind strong enough to fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as an action.
 
@@ -984,7 +984,7 @@ You can use a bonus action to speak this magic sword’s command word, causing f
 
 _Wondrous item, rare_
 
-This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring you to use an action to speak it.
+This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 2kg and floats. It can be opened to store items inside. This item also has three command words, each requiring you to use an action to speak it.
 
 One command word causes the box to unfold into a boat 3m long, 1.2m wide, and 60cm deep. The boat has one pair of oars, an anchor, a mast, and a lateen sail. The boat can hold up to four Medium creatures comfortably.
 
@@ -1080,7 +1080,7 @@ The hammer also has 5 charges. While attuned to it, you can expend 1 charge and 
 
 _Wondrous item, rare_
 
-This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 20 pounds of material, not exceeding a volume of 60L. The large central pouch can hold up to 240L or 80 pounds of material. The backpack always weighs 5 pounds, regardless of its contents.
+This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 10kg of material, not exceeding a volume of 60L. The large central pouch can hold up to 240L or 40kg of material. The backpack always weighs 2.5kg, regardless of its contents.
 
 Placing an object in the haversack follows the normal rules for interacting with objects. Retrieving an item from the haversack requires you to use an action. When you reach into the haversack for a specific item, the item is always magically on top.
 
@@ -1188,7 +1188,7 @@ These iron horseshoes come in a set of four. While all four shoes are affixed to
 
 _Rod, uncommon_
 
-This flat iron rod has a button on one end. You can use an action to press the button, which causes the rod to become magically fixed in place. Until you or another creature uses an action to push the button again, the rod doesn’t move, even if it is defying gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can use an action to make a DC 30 Strength check, moving the fixed rod up to 3m on a success.
+This flat iron rod has a button on one end. You can use an action to press the button, which causes the rod to become magically fixed in place. Until you or another creature uses an action to push the button again, the rod doesn’t move, even if it is defying gravity. The rod can hold up to 4tons of weight. More weight causes the rod to deactivate and fall. A creature can use an action to make a DC 30 Strength check, moving the fixed rod up to 3m on a success.
 
 #### Instant Fortress
 
@@ -1254,7 +1254,7 @@ While this stone orbits your head, you can cast any spell stored in it. The spel
 
 _Wondrous item, rare_
 
-This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 18m of you. As the sphere moves through the air, it opens into a tangle of metal bands.
+This rusty iron sphere measures 3 inches in diameter and weighs 500g. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 18m of you. As the sphere moves through the air, it opens into a tangle of metal bands.
 
 Make a ranged attack roll with an attack bonus equal to your Dexterity modifier plus your proficiency bonus. On a hit, the target is restrained until you take a bonus action to speak the command word again to release it. Doing so, or missing with the attack, causes the bands to contract and become a sphere once more.
 
@@ -1396,7 +1396,7 @@ This book contains coordination and balance exercises, and its words are charged
 
 _Wondrous item, very rare_
 
-Typically found in 1d4 pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.
+Typically found in 1d4 pots inside a fine wooden box with a brush (weighing 500g in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.
 
 Each pot of paint is sufficient to cover 100 square meters of a surface, which lets you create inanimate objects or terrain features—such as a door, a pit, flowers, trees, cells, rooms, or weapons— that are up to 300000L. It takes 10 minutes to cover 10 square meter.
 
@@ -1416,7 +1416,7 @@ The medallion has 3 charges. While wearing it, you can use an action and expend 
 
 _Wondrous item, very rare_
 
-When this 4-foot-tall mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, 10 hit points, and vulnerability to bludgeoning damage. It shatters and is destroyed when reduced to 0 hit points.
+When this 4-foot-tall mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 25kg, and it has AC 11, 10 hit points, and vulnerability to bludgeoning damage. It shatters and is destroyed when reduced to 0 hit points.
 
 If the mirror is hanging on a vertical surface and you are within 1.5m of it, you can use an action to speak its command word and activate it. It remains activated until you use an action to speak the command word again.
 
@@ -1715,7 +1715,7 @@ You can breathe underwater for 1 hour after drinking this potion. Its cloudy gre
 
 _Wondrous item, uncommon_
 
-This glass jar, 3 inches in diameter, contains 1d4 + 1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound.
+This glass jar, 3 inches in diameter, contains 1d4 + 1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 250g.
 
 As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains 2d8 + 2 hit points, ceases to be poisoned, and is cured of any disease.
 
@@ -2052,7 +2052,7 @@ If you press **button 2**, the rod’s flanged head folds down and two crescent-
 
 If you press **button 3**, the rod’s flanged head folds down, a spear point springs from the rod’s tip, and the rod’s handle lengthens into a 6-foot haft, transforming the rod into a magic spear that grants a +3 bonus to attack and damage rolls made with it.
 
-If you press **button 4**, the rod transforms into a climbing pole up to 15m long, as you specify. In surfaces as hard as granite, a spike at the bottom and three hooks at the top anchor the pole. Horizontal bars 3 inches long fold out from the sides, 1 foot apart, forming a ladder. The pole can bear up to 4,000 pounds. More weight or lack of solid anchoring causes the rod to revert to its normal form.
+If you press **button 4**, the rod transforms into a climbing pole up to 15m long, as you specify. In surfaces as hard as granite, a spike at the bottom and three hooks at the top anchor the pole. Horizontal bars 3 inches long fold out from the sides, 1 foot apart, forming a ladder. The pole can bear up to 2tons. More weight or lack of solid anchoring causes the rod to revert to its normal form.
 
 If you press **button 5**, the rod transforms into a handheld battering ram and grants its user a +10 bonus to Strength checks made to break through doors, barricades, and other barriers.
 
@@ -2084,7 +2084,7 @@ When the time runs out or you use an action to end it, all visitors reappear in 
 
 _Wondrous item, uncommon_
 
-This 18m length of silk rope weighs 3 pounds and can hold up to 3,000 pounds. If you hold one end of the rope and use an action to speak the command word, the rope animates. As a bonus action, you can command the other end to move toward a destination you choose. That end moves 3m on your turn when you first command it and 3m on each of your turns until reaching its destination, up to its maximum length away, or until you tell it to stop. You can also tell the rope to fasten itself securely to an object or to unfasten itself, to knot or unknot itself, or to coil itself for carrying.
+This 18m length of silk rope weighs 1.5kg and can hold up to 1.5tons. If you hold one end of the rope and use an action to speak the command word, the rope animates. As a bonus action, you can command the other end to move toward a destination you choose. That end moves 3m on your turn when you first command it and 3m on each of your turns until reaching its destination, up to its maximum length away, or until you tell it to stop. You can also tell the rope to fasten itself securely to an object or to unfasten itself, to knot or unknot itself, or to coil itself for carrying.
 
 If you tell the rope to knot, large knots appear at 30cm intervals along the rope. While knotted, the rope shortens to a 15m length and grants advantage on checks made to climb it.
 
@@ -2094,7 +2094,7 @@ The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as 
 
 _Wondrous item, rare_
 
-This rope is 9m long and weighs 3 pounds. If you hold one end of the rope and use an action to speak its command word, the other end darts forward to entangle a creature you can see within 6m of you. The target must succeed on a DC 15 Dexterity saving throw or become restrained.
+This rope is 9m long and weighs 1.5kg. If you hold one end of the rope and use an action to speak its command word, the other end darts forward to entangle a creature you can see within 6m of you. The target must succeed on a DC 15 Dexterity saving throw or become restrained.
 
 You can release the creature by using a bonus action to speak a second command word. A target restrained by the rope can use an action to make a DC 15 Strength or Dexterity check (target’s choice). On a success, the creature is no longer restrained by the rope.
 
@@ -2353,7 +2353,7 @@ The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a
 
 _Wondrous item, rare_
 
-If the stone is touching the ground, you can use an action to speak its command word and summon an earth elemental, as if you had cast the _conjure elemental_ spell. The stone can’t be used this way again until the next dawn. The stone weighs 5 pounds.
+If the stone is touching the ground, you can use an action to speak its command word and summon an earth elemental, as if you had cast the _conjure elemental_ spell. The stone can’t be used this way again until the next dawn. The stone weighs 2.5kg.
 
 #### Stone of Good Luck (Luckstone)
 

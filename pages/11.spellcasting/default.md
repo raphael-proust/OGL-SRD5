@@ -2476,7 +2476,7 @@ _3rd-level conjuration_
 
 **Duration:** Instantaneous
 
-You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn’t go bad.
+You create 22.5kg of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn’t go bad.
 
 ##### Create or Destroy Water
 
@@ -3489,7 +3489,7 @@ _1st-level conjuration (ritual)_
 
 **Duration:** 1 hour
 
-This spell creates a circular, horizontal plane of force, 90cm in diameter and 2.5cm thick, that floats 90cm above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration, and can hold up to 500 pounds. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.
+This spell creates a circular, horizontal plane of force, 90cm in diameter and 2.5cm thick, that floats 90cm above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration, and can hold up to 250kg. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.
 
 The disk is immobile while you are within 6m of it. If you move more than 6m away from it, the disk follows you so that it remains within 6m of you. It can move across uneven terrain, up or down stairs, slopes and the like, but it can’t cross an elevation change of 3m or more. For example, the disk can’t move across a 10-foot-deep pit, nor could it leave such a pit if it was created at the bottom.
 
@@ -4319,7 +4319,7 @@ _6th-level conjuration (ritual)_
 
 **Duration:** Until dispelled
 
-You touch an object weighing 10 pounds or less whose longest dimension is 180cm or less. The spell leaves an invisible mark on its surface and invisibly inscribes the name of the item on the sapphire you use as the material component. Each time you cast this spell, you must use a different sapphire.
+You touch an object weighing 5kg or less whose longest dimension is 180cm or less. The spell leaves an invisible mark on its surface and invisibly inscribes the name of the item on the sapphire you use as the material component. Each time you cast this spell, you must use a different sapphire.
 
 At any time thereafter, you can use your action to speak the item’s name and crush the sapphire. The item instantly appears in your hand regardless of physical or planar distances, and the spell ends.
 
@@ -4441,7 +4441,7 @@ _2nd-level transmutation_
 
 **Duration:** Concentration, up to 10 minutes
 
-One creature or object of your choice that you can see within range rises vertically, up to 6m, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.
+One creature or object of your choice that you can see within range rises vertically, up to 6m, and remains suspended there for the duration. The spell can levitate a target that weighs up to 250kg. An unwilling creature that succeeds on a Constitution saving throw is unaffected.
 
 The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target’s altitude by up to 6m in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can use your action to move the target, which must remain within the spell’s range.
 
@@ -4579,7 +4579,7 @@ A spectral, floating hand appears at a point you choose within range. The hand l
 
 You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 9m each time you use it.
 
-The hand can’t attack, activate magic items, or carry more than 10 pounds.
+The hand can’t attack, activate magic items, or carry more than 5kg.
 
 ##### Magic Circle
 
@@ -6411,7 +6411,7 @@ You gain the ability to move or manipulate creatures or objects by thought. When
 
 On subsequent rounds, you can use your action to attempt to maintain your telekinetic grip on the creature by repeating the contest.
 
-**_Object._** You can try to move an object that weighs up to 1,000 pounds. If the object isn’t being worn or carried, you automatically move it up to 9m in any direction, but not beyond the range of this spell.
+**_Object._** You can try to move an object that weighs up to 500kg. If the object isn’t being worn or carried, you automatically move it up to 9m in any direction, but not beyond the range of this spell.
 
 If the object is worn or carried by a creature, you must make an ability check with your spellcasting ability contested by that creature’s Strength check. If you succeed, you pull the object away from that creature and can move it up to 9m in any direction but not beyond the range of this spell.
 

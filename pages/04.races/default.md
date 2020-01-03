@@ -48,7 +48,7 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 **_Alignment._** Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.
 
-**_Size._** Dwarves stand between 120cm and 150cm tall and average about 150 pounds. Your size is Medium.
+**_Size._** Dwarves stand between 120cm and 150cm tall and average about 75kg. Your size is Medium.
 
 **_Speed._** Your base walking speed is 7.5m. Your speed is not reduced by wearing heavy armor.
 
@@ -124,7 +124,7 @@ Your halfling character has a number of traits in common with all other halfling
 
 **_Alignment._** Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.
 
-**_Size._** Halflings average about 90cm tall and weigh about 40 pounds. Your size is Small.
+**_Size._** Halflings average about 90cm tall and weigh about 20kg. Your size is Small.
 
 **_Speed._** Your base walking speed is 7.5m.
 
@@ -176,7 +176,7 @@ Your draconic heritage manifests in a variety of traits you share with other dra
 
 **_Alignment._** Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil. Most dragonborn are good, but those who side with evil can be terrible villains.
 
-**_Size._** Dragonborn are taller and heavier than humans, standing well over 180cm tall and averaging almost 250 pounds. Your size is Medium.
+**_Size._** Dragonborn are taller and heavier than humans, standing well over 180cm tall and averaging almost 125kg. Your size is Medium.
 
 **_Speed._** Your base walking speed is 9m.
 
@@ -219,7 +219,7 @@ Your gnome character has certain characteristics in common with all other gnomes
 
 **_Alignment._** Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious.
 
-**_Size._** Gnomes are between 90cm and 120cm tall and average about 40 pounds. Your size is Small.
+**_Size._** Gnomes are between 90cm and 120cm tall and average about 20kg. Your size is Small.
 
 **_Speed._** Your base walking speed is 7.5m.
 
