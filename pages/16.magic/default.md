@@ -763,7 +763,7 @@ Dragon scale mail is made of the scales of one kind of dragon. Sometimes dragons
 
 While wearing this armor, you gain a +1 bonus to AC, you have advantage on saving throws against the Frightful Presence and breath weapons of dragons, and you have resistance to one damage type that is determined by the kind of dragon that provided the scales (see the table).
 
-Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest dragon within 30 miles of you that is of the same type as the armor. This special action can’t be used again until the next dawn.
+Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest dragon within 48.0km of you that is of the same type as the armor. This special action can’t be used again until the next dawn.
 
 | Dragon | Resistance |
 |--------|------------|
@@ -871,7 +871,7 @@ _Wondrous item, uncommon_
 
 Smoke leaks from the lead-stoppered mouth of this brass bottle, which weighs 500g. When you use an action to remove the stopper, a cloud of thick smoke pours out in a 18m radius from the bottle. The cloud’s area is heavily obscured. Each minute the bottle remains open and within the cloud, the radius increases by 3m until it reaches its maximum radius of 36m.
 
-The cloud persists as long as the bottle is open. Closing the bottle requires you to speak its command word as an action. Once the bottle is closed, the cloud disperses after 10 minutes. A moderate wind (11 to 20 miles per hour) can also disperse the smoke after 1 minute, and a strong wind (21 or more miles per hour) can do so after 1 round.
+The cloud persists as long as the bottle is open. Closing the bottle requires you to speak its command word as an action. Once the bottle is closed, the cloud disperses after 10 minutes. A moderate wind (17.6km to 32.0km per hour) can also disperse the smoke after 1 minute, and a strong wind (33.6km/h or more) can do so after 1 round.
 
 #### Eyes of Charming
 
@@ -910,11 +910,11 @@ This tiny object looks like a feather. Different types of feather tokens exist, 
 
 **_Anchor_**. You can use an action to touch the token to a boat or ship. For the next 24 hours, the vessel can’t be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.
 
-**_Bird_**. You can use an action to toss the token 1.5m into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a roc, but it obeys your simple commands and can’t attack. It can carry up to 250kg while flying at its maximum speed (16 miles an hour for a maximum of 144 miles per day, with a one-hour rest for every 3 hours of flying), or 500kg at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 hit points. You can dismiss the bird as an action.
+**_Bird_**. You can use an action to toss the token 1.5m into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a roc, but it obeys your simple commands and can’t attack. It can carry up to 250kg while flying at its maximum speed (25.6km/h for a maximum of 230.4km per day, with a one-hour rest for every 3 hours of flying), or 500kg at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 hit points. You can dismiss the bird as an action.
 
-**_Fan_**. If you are on a boat or ship, you can use an action to toss the token up to 3m in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a wind strong enough to fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as an action.
+**_Fan_**. If you are on a boat or ship, you can use an action to toss the token up to 3m in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a wind strong enough to fill the sails of one ship, increasing its speed by 8.0km/h for 8 hours. You can dismiss the fan as an action.
 
-**_Swan Boat_**. You can use an action to touch the token to a body of water at least 18m in diameter. The token disappears, and a 15m-long, 6m-wide boat shaped like a swan takes its place. The boat is self-propelled and moves across water at a speed of 6 miles per hour. You can use an action while on the boat to command it to move or to turn up to 90 degrees. The boat can carry up to thirty-two Medium or smaller creatures. A Large creature counts as four Medium creatures, while a Huge creature counts as nine. The boat remains for 24 hours and then disappears. You can dismiss the boat as an action.
+**_Swan Boat_**. You can use an action to touch the token to a body of water at least 18m in diameter. The token disappears, and a 15m-long, 6m-wide boat shaped like a swan takes its place. The boat is self-propelled and moves across water at a speed of 9.6km/h. You can use an action while on the boat to command it to move or to turn up to 90 degrees. The boat can carry up to thirty-two Medium or smaller creatures. A Large creature counts as four Medium creatures, while a Huge creature counts as nine. The boat remains for 24 hours and then disappears. You can dismiss the boat as an action.
 
 **_Tree_**. You must be outdoors to use this token. You can use an action to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs into existence. The tree is 18m tall and has a 1.5m-diameter trunk, and its branches at the top spread out in a 6m radius.
 
@@ -2275,7 +2275,7 @@ This staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. If
 
 **_Spells_**. While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: _giant insect_ (4 charges) or _insect plague_ (5 charges).
 
-**_Insect Cloud_**. While holding the staff, you can use an action and expend 1 charge to cause a swarm of harmless flying insects to spread out in a 9m radius from you. The insects remain for 10 minutes, making the area heavily obscured for creatures other than you. The swarm moves with you, remaining centered on you. A wind of at least 10 miles per hour disperses the swarm and ends the effect.
+**_Insect Cloud_**. While holding the staff, you can use an action and expend 1 charge to cause a swarm of harmless flying insects to spread out in a 9m radius from you. The insects remain for 10 minutes, making the area heavily obscured for creatures other than you. The swarm moves with you, remaining centered on you. A wind of at least 16.0km/h disperses the swarm and ends the effect.
 
 #### Staff of the Magi
 
@@ -2755,6 +2755,6 @@ While you are charmed by the orb, you can’t voluntarily end your attunement to
 
 You can also use an action to cast the _detect magic_ spell from the orb without using any charges.
 
-**_Call Dragons_**. While you control the orb, you can use an action to cause the artifact to issue a telepathic call that extends in all directions for 40 miles. Evil dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as Tiamat are unaffected by this call. Dragons drawn to the orb might be hostile toward you for compelling them against their will. Once you have used this property, it can’t be used again for 1 hour.
+**_Call Dragons_**. While you control the orb, you can use an action to cause the artifact to issue a telepathic call that extends in all directions for 64.0km. Evil dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as Tiamat are unaffected by this call. Dragons drawn to the orb might be hostile toward you for compelling them against their will. Once you have used this property, it can’t be used again for 1 hour.
 
 **_Destroying an Orb_**. An _Orb of Dragonkind_ appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A _disintegrate_ spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.

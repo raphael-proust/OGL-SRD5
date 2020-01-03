@@ -547,7 +547,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 
 **_Vehicle Proficiency._** If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances.
 
-**_Rowed Vessels._** Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 50kg, in case adventurers carry it over land.
+**_Rowed Vessels._** Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 4.8km per hour) to the speed of the vehicle. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 50kg, in case adventurers carry it over land.
 
 **Mounts and Other Animals (table)**
 
@@ -606,13 +606,13 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 | 1 cp   | 500g of wheat                               |
 | 2 cp   | 500g of flour or one chicken                |
 | 5 cp   | 500g of salt                                |
-| 1 sp   | 500g of iron or 1 sq. yd. of canvas         |
-| 5 sp   | 500g of copper or 1 sq. yd. of cotton cloth |
+| 1 sp   | 500g of iron or 1m² of canvas               |
+| 5 sp   | 500g of copper or 1m² of cotton cloth       |
 | 1 gp   | 500g of ginger or one goat                  |
 | 2 gp   | 500g of cinnamon or pepper, or one sheep    |
 | 3 gp   | 500g of cloves or one pig                   |
-| 5 gp   | 500g of silver or 1 sq. yd. of linen        |
-| 10 gp  | 1 sq. yd. of silk or one cow                |
+| 5 gp   | 500g of silver or 1m² of linen              |
+| 10 gp  | 1m² of silk or one cow                      |
 | 15 gp  | 500g of saffron or one ox                   |
 | 50 gp  | 500g of gold                                |
 | 500 gp | 500g of platinum                            |
