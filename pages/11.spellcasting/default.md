@@ -1278,9 +1278,9 @@ _1st-level abjuration (ritual)_
 
 **Duration:** 8 hours
 
-You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is mental or audible.
+You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 6m cube. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is mental or audible.
 
-A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping.
+A mental alarm alerts you with a ping in your mind if you are within 1.6km of the warded area. This ping awakens you if you are sleeping.
 
 An audible alarm produces the sound of a hand bell for 10 seconds within 18m.
 
@@ -1400,13 +1400,13 @@ _5th-level abjuration_
 
 **Casting Time:** 1 action
 
-**Range:** Self (10-foot radius)
+**Range:** Self (3m radius)
 
 **Components:** V, S
 
 **Duration:** Concentration, up to 1 hour
 
-A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.
+A shimmering barrier extends out from you in a 3m radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.
 
 The barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.
 
@@ -1418,13 +1418,13 @@ _8th-level abjuration_
 
 **Casting Time:** 1 action
 
-**Range:** Self (10-foot-radius sphere)
+**Range:** Self (3m-radius sphere)
 
 **Components:** V, S, M (a pinch of powdered iron or iron filings)
 
 **Duration:** Concentration, up to 1 hour
 
-A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can’t be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.
+A 3m-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can’t be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.
 
 Spells and other magical effects, except those created by an artifact or a deity, are suppressed in the sphere and can’t protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn’t function, but the time it spends suppressed counts against its duration.
 
@@ -1456,7 +1456,7 @@ _8th-level enchantment_
 
 **Duration:** 10 days
 
-This spell attracts or repels creatures of your choice. You target something within range, either a Huge or smaller object or creature or an area that is no larger than a 200-foot cube. Then specify a kind of intelligent creature, such as red dragons, goblins, or vampires. You invest the target with an aura that either attracts or repels the specified creatures for the duration. Choose antipathy or sympathy as the aura’s effect.
+This spell attracts or repels creatures of your choice. You target something within range, either a Huge or smaller object or creature or an area that is no larger than a 60m cube. Then specify a kind of intelligent creature, such as red dragons, goblins, or vampires. You invest the target with an aura that either attracts or repels the specified creatures for the duration. Choose antipathy or sympathy as the aura’s effect.
 
 **_Antipathy._** The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 18m of it, the creature must succeed on a Wisdom saving throw or become frightened. The creature remains frightened while it can see the target or is within 18m of it. While frightened by the target, the creature must use its movement to move to the nearest safe spot from which it can’t see the target. If the creature moves more than 18m from the target and can’t see it, the creature is no longer frightened, but the creature becomes frightened again if it regains sight of the target or moves within 18m of it.
 
@@ -1484,7 +1484,7 @@ You create an invisible, magical eye within range that hovers in the air for the
 
 You mentally receive visual information from the eye, which has normal vision and darkvision out to 9m. The eye can look in every direction.
 
-As an action, you can move the eye up to 9m in any direction. There is no limit to how far away from you the eye can move, but it can’t enter another plane of existence. A solid barrier blocks the eye’s movement, but the eye can pass through an opening as small as 1 inch in diameter.
+As an action, you can move the eye up to 9m in any direction. There is no limit to how far away from you the eye can move, but it can’t enter another plane of existence. A solid barrier blocks the eye’s movement, but the eye can pass through an opening as small as 2.5cm in diameter.
 
 ##### Arcane Hand
 
@@ -1582,7 +1582,7 @@ _9th-level necromancy_
 
 You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is unconscious and in a state of suspended animation; it doesn’t need food or air and doesn’t age.
 
-Your astral body resembles your mortal form in almost every way, replicating your game statistics and possessions. The principal difference is the addition of a silvery cord that extends from between your shoulder blades and trails behind you, fading to invisibility after 1 foot. This cord is your tether to your material body. As long as the tether remains intact, you can find your way home. If the cord is cut—something that can happen only when an effect specifically states that it does—your soul and body are separated, killing you instantly.
+Your astral body resembles your mortal form in almost every way, replicating your game statistics and possessions. The principal difference is the addition of a silvery cord that extends from between your shoulder blades and trails behind you, fading to invisibility after 30cm. This cord is your tether to your material body. As long as the tether remains intact, you can find your way home. If the cord is cut—something that can happen only when an effect specifically states that it does—your soul and body are separated, killing you instantly.
 
 Your astral form can freely travel through the Astral Plane and can pass through portals there leading to any other plane. If you enter a new plane or return to the plane you were on when casting this spell, your body and possessions are transported along the silver cord, allowing you to re-enter your body as you enter the new plane. Your astral form is a separate incarnation. Any damage or other effects that apply to it have no effect on your physical body, nor do they persist when you return to it.
 
@@ -1732,7 +1732,7 @@ _4th-level conjuration_
 
 **Duration:** Concentration, up to 1 minute
 
-Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain.
+Squirming, ebony tentacles fill a 6m square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain.
 
 When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a Dexterity saving throw or take 3d6 bludgeoning damage and be restrained by the tentacles until the spell ends. A creature that starts its turn in the area and is already restrained by the tentacles takes 3d6 bludgeoning damage.
 
@@ -1842,13 +1842,13 @@ _1st-level evocation_
 
 **Casting Time:** 1 action
 
-**Range:** Self (15-foot cone)
+**Range:** Self (4.5m cone)
 
 **Components:** V, S
 
 **Duration:** Instantaneous
 
-As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
+As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 4.5m cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
 
 The fire ignites any flammable objects in the area that aren’t being worn or carried.
 
@@ -1868,7 +1868,7 @@ _3rd-level conjuration_
 
 **Duration:** Concentration, up to 10 minutes
 
-A storm cloud appears in the shape of a cylinder that is 3m tall with a 60-foot radius, centered on a point you can see 30m directly above you. The spell fails if you can’t see a point in the air where the storm cloud could appear (for example, if you are in a room that can’t accommodate the cloud).
+A storm cloud appears in the shape of a cylinder that is 3m tall with a 18m radius, centered on a point you can see 30m directly above you. The spell fails if you can’t see a point in the air where the storm cloud could appear (for example, if you are in a room that can’t accommodate the cloud).
 
 When you cast the spell, choose a point you can see within range. A bolt of lightning flashes down from the cloud to that point. Each creature within 1.5m of that point must make a Dexterity saving throw. A creature takes 3d10 lightning damage on a failed save, or half as much damage on a successful one. On each of your turns until the spell ends, you can use your action to call down lightning in this way again, targeting the same point or a different one.
 
@@ -1888,7 +1888,7 @@ _2nd-level enchantment_
 
 **Duration:** Concentration, up to 1 minute
 
-You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects.
+You attempt to suppress strong emotions in a group of people. Each humanoid in a 6m-radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects.
 
 You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
 
@@ -1958,7 +1958,7 @@ _6th-level necromancy_
 
 **Duration:** Instantaneous
 
-A sphere of negative energy ripples out in a 60-foot radius sphere from a point within range. Each creature in that area must make a Constitution saving throw. A target takes 8d6 necrotic damage on a failed save, or half as much damage on a successful one.
+A sphere of negative energy ripples out in a 18m-radius sphere from a point within range. Each creature in that area must make a Constitution saving throw. A target takes 8d6 necrotic damage on a failed save, or half as much damage on a successful one.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.
 
@@ -1968,7 +1968,7 @@ _3rd-level divination_
 
 **Casting Time:** 10 minutes
 
-**Range:** 1 mile
+**Range:** 1.6km
 
 **Components:** V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)
 
@@ -1988,7 +1988,7 @@ _8th-level necromancy_
 
 **Range:** Touch
 
-**Components:** V, S, M (a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water)
+**Components:** V, S, M (a diamond worth at least 1,000 gp and at least 2.5cm² of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water)
 
 **Duration:** Instantaneous
 
@@ -2010,7 +2010,7 @@ _5th-level conjuration_
 
 **Duration:** Concentration, up to 10 minutes
 
-You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured.
+You create a 6m-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured.
 
 When a creature enters the spell’s area for the first time on a turn or starts its turn there, that creature must make a Constitution saving throw. The creature takes 5d8 poison damage on a failed save, or half as much damage on a successful one. Creatures are affected even if they hold their breath or don’t need to breathe.
 
@@ -2024,13 +2024,13 @@ _1st-level illusion_
 
 **Casting Time:** 1 action
 
-**Range:** Self (15-foot cone)
+**Range:** Self (4.5m cone)
 
 **Components:** V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)
 
 **Duration:** 1 round
 
-A dazzling array of flashing, colored light springs from your hand. Roll 6d10; the total is how many hit points of creatures this spell can effect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can’t see).
+A dazzling array of flashing, colored light springs from your hand. Roll 6d10; the total is how many hit points of creatures this spell can effect. Creatures in a 4.5m cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can’t see).
 
 Starting with the creature that has the lowest current hit points, each creature affected by this spell is blinded until the spell ends. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 
@@ -2130,13 +2130,13 @@ _5th-level evocation_
 
 **Casting Time:** 1 action
 
-**Range:** Self (60-foot cone)
+**Range:** Self (18m cone)
 
 **Components:** V, S, M (a small crystal or glass cone)
 
 **Duration:** Instantaneous
 
-A blast of cold air erupts from your hands. Each creature in a 60-foot cone must make a Constitution saving throw. A creature takes 8d8 cold damage on a failed save, or half as much damage on a successful one.
+A blast of cold air erupts from your hands. Each creature in a 18m cone must make a Constitution saving throw. A creature takes 8d8 cold damage on a failed save, or half as much damage on a successful one.
 
 A creature killed by this spell becomes a frozen statue until it thaws.
 
@@ -2154,7 +2154,7 @@ _4th-level enchantment_
 
 **Duration:** Concentration, up to 1 minute
 
-This spell assaults and twists creatures’ minds, spawning delusions and provoking uncontrolled action. Each creature in a 10-foot-radius sphere centered on a point you choose within range must succeed on a Wisdom saving throw when you cast this spell or be affected by it.
+This spell assaults and twists creatures’ minds, spawning delusions and provoking uncontrolled action. Each creature in a 3m-radius sphere centered on a point you choose within range must succeed on a Wisdom saving throw when you cast this spell or be affected by it.
 
 An affected target can’t take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
 
@@ -2226,7 +2226,7 @@ _5th-level conjuration_
 
 **Duration:** Concentration, up to 1 hour
 
-You call forth an elemental servant. Choose an area of air, earth, fire, or water that fills a 10-foot cube within range. An elemental of challenge rating 5 or lower appropriate to the area you chose appears in an unoccupied space within 3m of it. For example, a fire elemental emerges from a bonfire, and an earth elemental rises up from the ground. The elemental disappears when it drops to 0 hit points or when the spell ends.
+You call forth an elemental servant. Choose an area of air, earth, fire, or water that fills a 3m cube within range. An elemental of challenge rating 5 or lower appropriate to the area you chose appears in an unoccupied space within 3m of it. For example, a fire elemental emerges from a bonfire, and an earth elemental rises up from the ground. The elemental disappears when it drops to 0 hit points or when the spell ends.
 
 The elemental is friendly to you and your companions for the duration. Roll initiative for the elemental, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the elemental, it defends itself from hostile creatures but otherwise takes no actions.
 
@@ -2401,7 +2401,7 @@ Until the spell ends, you control any freestanding water inside an area you choo
 
 **_Flood._** You cause the water level of all standing water in the area to rise by as much as 6m. If the area includes a shore, the flooding water spills over onto dry land.
 
-If you choose an area in a large body of water, you instead create a 20-foot tall wave that travels from one side of the area to the other and then crashes down. Any Huge or smaller vehicles in the wave’s path are carried with it to the other side. Any Huge or smaller vehicles struck by the wave have a 25 percent chance of capsizing.
+If you choose an area in a large body of water, you instead create a 6m tall wave that travels from one side of the area to the other and then crashes down. Any Huge or smaller vehicles in the wave’s path are carried with it to the other side. Any Huge or smaller vehicles struck by the wave have a 25 percent chance of capsizing.
 
 The water level remains elevated until the spell ends or you choose a different effect. If this effect produced a wave, the wave repeats on the start of your next turn while the flood effect lasts.
 
@@ -2421,7 +2421,7 @@ _8th-level transmutation_
 
 **Casting Time:** 10 minutes
 
-**Range:** Self (5-mile radius)
+**Range:** Self (8km radius)
 
 **Components:** V, S, M (burning incense and bits of earth and wood mixed in water)
 
@@ -2492,9 +2492,9 @@ _1st-level transmutation_
 
 You either create or destroy water.
 
-**_Create Water._** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range, extinguishing exposed flames in the area.
+**_Create Water._** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 9m cube within range, extinguishing exposed flames in the area.
 
-**_Destroy Water._** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot cube within range.
+**_Destroy Water._** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 9m cube within range.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 1.5m, for each slot level above 1st.
 
@@ -2530,7 +2530,7 @@ _5th-level illusion_
 
 **Duration:** Special
 
-You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.
+You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 1.5m cube, and the object must be of a form and material that you have seen before.
 
 The duration depends on the object’s material. If the object is composed of multiple materials, use the shortest duration.
 
@@ -2576,7 +2576,7 @@ _Evocation cantrip_
 
 **Duration:** Concentration, up to 1 minute
 
-You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.
+You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 3m radius.
 
 As a bonus action on your turn, you can move the lights up to 18m to a new spot within range. A light must be within 6m of another light created by this spell, and a light winks out if it exceeds the spell’s range.
 
@@ -2592,7 +2592,7 @@ _2nd-level evocation_
 
 **Duration:** Concentration, up to 10 minutes
 
-Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it.
+Magical darkness spreads from a point you choose within range to fill a 4.5m-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it.
 
 If the point you choose is on an object you are holding or one that isn’t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.
 
@@ -2624,7 +2624,7 @@ _3rd-level evocation_
 
 **Duration:** 1 hour
 
-A 60-foot-radius sphere of light spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 18m.
+A 18m-radius sphere of light spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 18m.
 
 If you chose a point on an object you are holding or one that isn’t being worn or carried, the light shines from the object and moves with it. Completely covering the affected object with an opaque object, such as a bowl or a helm, blocks the light.
 
@@ -2660,7 +2660,7 @@ _7th-level evocation_
 
 **Duration:** Concentration, up to 1 minute
 
-A beam of yellow light flashes from your pointing finger, then condenses to linger at a chosen point within range as a glowing bead for the duration. When the spell ends, either because your concentration is broken or because you decide to end it, the bead blossoms with a low roar into an explosion of flame that spreads around corners. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A creature takes fire damage equal to the total accumulated damage on a failed save, or half as much damage on a successful one.
+A beam of yellow light flashes from your pointing finger, then condenses to linger at a chosen point within range as a glowing bead for the duration. When the spell ends, either because your concentration is broken or because you decide to end it, the bead blossoms with a low roar into an explosion of flame that spreads around corners. Each creature in a 6m-radius sphere centered on that point must make a Dexterity saving throw. A creature takes fire damage equal to the total accumulated damage on a failed save, or half as much damage on a successful one.
 
 The spell’s base damage is 12d6. If at the end of your turn the bead has not yet detonated, the damage increases by 1d6.
 
@@ -2786,7 +2786,7 @@ _1st-level illusion_
 
 **Duration:** 1 hour
 
-You make yourself—including your clothing, armor, weapons, and other belongings on your person— look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can’t change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
+You make yourself—including your clothing, armor, weapons, and other belongings on your person— look different until the spell ends or until you use your action to dismiss it. You can seem 30cm shorter or taller and can appear thin, fat, or in between. You can’t change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
@@ -2812,7 +2812,7 @@ Dexterity saving throw. On a failed save, the target takes 10d6 + 40 force damag
 
 A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a _true resurrection_ or a _wish_ spell.
 
-This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If the target is a Huge or larger object or creation of force, this spell disintegrates a 10-foot-cube portion of it. A magic item is unaffected by this spell.
+This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If the target is a Huge or larger object or creation of force, this spell disintegrates a 3m cube portion of it. A magic item is unaffected by this spell.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 3d6 for each slot level above 6th.
 
@@ -3003,7 +3003,7 @@ _8th-level evocation_
 
 **Duration:** Concentration, up to 1 minute
 
-You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.
+You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 30m-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.
 
 The ground in the area becomes difficult terrain.
 
@@ -3079,7 +3079,7 @@ _1st-level conjuration_
 
 **Duration:** Concentration, up to 1 minute
 
-Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.
+Grasping weeds and vines sprout from the ground in a 6m square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.
 
 A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
 
@@ -3173,7 +3173,7 @@ _4th-level transmutation_
 
 You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, and clothes from flax or wool.
 
-Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 10-foot cube, or eight connected 5-foot cubes), given a sufficient quantity of raw material. If you are working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Medium (contained within a single 5-foot cube). The quality of objects made by the spell is commensurate with the quality of the raw materials.
+Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 3m cube, or eight connected 1.5m cubes), given a sufficient quantity of raw material. If you are working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Medium (contained within a single 1.5m cube). The quality of objects made by the spell is commensurate with the quality of the raw materials.
 
 Creatures or magic items can’t be created or transmuted by this spell. You also can’t use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan’s tools used to craft such objects.
 
@@ -3189,7 +3189,7 @@ _1st-level evocation_
 
 **Duration:** Concentration, up to 1 minute
 
-Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius.
+Each object in a 6m cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 3m radius.
 
 Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can’t benefit from being invisible.
 
@@ -3233,13 +3233,13 @@ _3rd-level illusion_
 
 **Casting Time:** 1 action
 
-**Range:** Self (30-foot cone)
+**Range:** Self (9m cone)
 
 **Components:** V, S, M (a white feather or the heart of a hen)
 
 **Duration:** Concentration, up to 1 minute
 
-You project a phantasmal image of a creature’s worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened for the duration.
+You project a phantasmal image of a creature’s worst fears. Each creature in a 9m cone must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened for the duration.
 
 While frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn’t have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature.
 
@@ -3295,7 +3295,7 @@ Your steed serves you as a mount, both in combat and out, and you have an instin
 
 When the steed drops to 0 hit points, it disappears, leaving behind no physical form. You can also dismiss your steed at any time as an action, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its hit point maximum.
 
-While your steed is within 1 mile of you, you can communicate with it telepathically.
+While your steed is within 1.6km of you, you can communicate with it telepathically.
 
 You can’t have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear.
 
@@ -3361,7 +3361,7 @@ _3rd-level evocation_
 
 **Duration:** Instantaneous
 
-A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.
+A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 6m-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.
 
 The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried.
 
@@ -3379,7 +3379,7 @@ _4th-level evocation_
 
 **Duration:** 10 minutes
 
-Thin and wispy flames wreathe your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 3m. You can end the spell early by using an action to dismiss it.
+Thin and wispy flames wreathe your body for the duration, shedding bright light in a 3m radius and dim light for an additional 3m. You can end the spell early by using an action to dismiss it.
 
 The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage.
 
@@ -3397,7 +3397,7 @@ _7th-level evocation_
 
 **Duration:** Instantaneous
 
-A storm made up of sheets of roaring flame appears in a location you choose within range. The area of the storm consists of up to ten 10-foot cubes, which you can arrange as you wish. Each cube must have at least one face adjacent to the face of another cube. Each creature in the area must make a Dexterity saving throw. It takes 7d10 fire damage on a failed save, or half as much damage on a successful one.
+A storm made up of sheets of roaring flame appears in a location you choose within range. The area of the storm consists of up to ten 3m cubes, which you can arrange as you wish. Each cube must have at least one face adjacent to the face of another cube. Each creature in the area must make a Dexterity saving throw. It takes 7d10 fire damage on a failed save, or half as much damage on a successful one.
 
 The fire damages objects in the area and ignites flammable objects that aren’t being worn or carried. If you choose, plant life in the area is unaffected by this spell.
 
@@ -3417,7 +3417,7 @@ You evoke a fiery blade in your free hand. The blade is similar in size and shap
 
 You can use your action to make a melee spell attack with the fiery blade. On a hit, the target takes 3d6 fire damage.
 
-The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 3m.
+The flaming blade sheds bright light in a 3m radius and dim light for an additional 3m.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for every two slot levels above 2nd.
 
@@ -3433,7 +3433,7 @@ _5th-level evocation_
 
 **Duration:** Instantaneous
 
-A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot-radius, 40-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.
+A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 3m-radius, 12m-high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.
 
@@ -3449,11 +3449,11 @@ _2nd-level conjuration_
 
 **Duration:** Concentration, up to 1 minute
 
-A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 1.5m of the sphere must make a Dexterity saving throw. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
+A 1.5m-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 1.5m of the sphere must make a Dexterity saving throw. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
 
 As a bonus action, you can move the sphere up to 9m. If you ram the sphere into a creature, that creature must make the saving throw against the sphere’s damage, and the sphere stops moving this turn.
 
-When you move the sphere, you can direct it over barriers up to 1.5m tall and jump it across pits up to 3m wide. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a 20-foot radius and dim light for an additional 6m.
+When you move the sphere, you can direct it over barriers up to 1.5m tall and jump it across pits up to 3m wide. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a 6m radius and dim light for an additional 6m.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
@@ -3491,7 +3491,7 @@ _1st-level conjuration (ritual)_
 
 This spell creates a circular, horizontal plane of force, 90cm in diameter and 2.5cm thick, that floats 90cm above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration, and can hold up to 250kg. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.
 
-The disk is immobile while you are within 6m of it. If you move more than 6m away from it, the disk follows you so that it remains within 6m of you. It can move across uneven terrain, up or down stairs, slopes and the like, but it can’t cross an elevation change of 3m or more. For example, the disk can’t move across a 10-foot-deep pit, nor could it leave such a pit if it was created at the bottom.
+The disk is immobile while you are within 6m of it. If you move more than 6m away from it, the disk follows you so that it remains within 6m of you. It can move across uneven terrain, up or down stairs, slopes and the like, but it can’t cross an elevation change of 3m or more. For example, the disk can’t move across a 3m-deep pit, nor could it leave such a pit if it was created at the bottom.
 
 If you move more than 30m from the disk (typically because it can’t move around an obstacle to follow you), the spell ends.
 
@@ -3523,7 +3523,7 @@ _1st-level conjuration_
 
 **Duration:** Concentration, up to 1 hour
 
-You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 16.0km per hour) disperses it.
+You create a 6m-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 16.0km per hour) disperses it.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 6m for each slot level above 1st.
 
@@ -3561,7 +3561,7 @@ _7th-level evocation_
 
 An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.
 
-A prison in the shape of a cage can be up to 6m on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart.
+A prison in the shape of a cage can be up to 6m on a side and is made from 1cm diameter bars spaced 1cm apart.
 
 A prison in the shape of a box can be up to 3m on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out from the area.
 
@@ -3615,9 +3615,9 @@ _6th-level evocation_
 
 **Duration:** Instantaneous
 
-A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in a 60-foot-radius sphere. Each creature within the area must make a Constitution saving throw. On a failed save, a creature takes 10d6 cold damage. On a successful save, it takes half as much damage.
+A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in a 18m-radius sphere. Each creature within the area must make a Constitution saving throw. On a failed save, a creature takes 10d6 cold damage. On a successful save, it takes half as much damage.
 
-If the globe strikes a body of water or a liquid that is principally water (not including water-based creatures), it freezes the liquid to a depth of 6 inches over an area 9m square. This ice lasts for 1 minute. Creatures that were swimming on the surface of frozen water are trapped in the ice. A trapped creature can use an action to make a Strength check against your spell save DC to break free.
+If the globe strikes a body of water or a liquid that is principally water (not including water-based creatures), it freezes the liquid to a depth of 15cm over an area 9m square. This ice lasts for 1 minute. Creatures that were swimming on the surface of frozen water are trapped in the ice. A trapped creature can use an action to make a Strength check against your spell save DC to break free.
 
 You can refrain from firing the globe after completing the spell, if you wish. A small globe about the size of a sling stone, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 12m) or hurl it with a sling (to the sling’s normal range). It shatters on impact, with the same effect as the normal casting of the spell. You can also set the globe down without shattering it. After 1 minute, if the globe hasn’t already shattered, it explodes.
 
@@ -3739,13 +3739,13 @@ _6th-level abjuration_
 
 **Casting Time:** 1 action
 
-**Range:** Self (10-foot radius)
+**Range:** Self (3m radius)
 
 **Components:** V, S, M (a glass or crystal bead that shatters when the spell ends)
 
 **Duration:** Concentration, up to 1 minute
 
-An immobile, faintly shimmering barrier springs into existence in a 10-foot radius around you and remains for the duration.
+An immobile, faintly shimmering barrier springs into existence in a 3m radius around you and remains for the duration.
 
 Any spell of 5th level or lower cast from outside the barrier can’t affect creatures or objects within it, even if the spell is cast using a higher level spell slot. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such spells.
 
@@ -3773,7 +3773,7 @@ You can further refine the trigger so the spell activates only under certain cir
 
 When you inscribe the glyph, choose _explosive runes_ or a _spell glyph_.
 
-**_Explosive Runes._** When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes 5d8 acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one.
+**_Explosive Runes._** When triggered, the glyph erupts with magical energy in a 6m-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes 5d8 acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one.
 
 **_Spell Glyph._** You can store a prepared spell of 3rd level or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires concentration, it lasts until the end of its full duration.
 
@@ -3791,7 +3791,7 @@ _1st-level conjuration_
 
 **Duration:** 1 minute
 
-Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.
+Slick grease covers the ground in a 3m square centered on a point within range and turns it into difficult terrain for the duration.
 
 When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall prone.
 
@@ -3840,7 +3840,7 @@ _6th-level abjuration_
 
 **Duration:** 24 hours
 
-You create a ward that protects up to 250 square meters of floor space (an area 15m square, or one hundred 5-foot squares or twenty-five 10-foot squares). The warded area can be up to 6m tall, and shaped as you desire. You can ward several stories of a stronghold by dividing the area among them, as long as you can walk into each contiguous area while you are casting the spell.
+You create a ward that protects up to 250 square meters of floor space (an area 15m square, or one hundred 1.5m squares or twenty-five 3m squares). The warded area can be up to 6m tall, and shaped as you desire. You can ward several stories of a stronghold by dividing the area among them, as long as you can walk into each contiguous area while you are casting the spell.
 
 When you cast this spell, you can specify individuals that are unaffected by any or all of the effects that you choose. You can also specify a password that, when spoken aloud, makes the speaker immune to these effects.
 
@@ -3899,7 +3899,7 @@ _2nd-level evocation_
 
 **Casting Time:** 1 action
 
-**Range:** Self (60-foot line)
+**Range:** Self (18m line)
 
 **Components:** V, S, M (a legume seed)
 
@@ -3965,7 +3965,7 @@ _4th-level illusion_
 
 **Duration:** 24 hours
 
-You make natural terrain in a 150-foot cube in range look, sound, and smell like some other sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren’t changed in appearance.
+You make natural terrain in a 45m cube in range look, sound, and smell like some other sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren’t changed in appearance.
 
 The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn’t obvious by touch, a creature carefully examining the illusion can attempt an Intelligence (Investigation) check against your spell save DC to disbelieve it. A creature who discerns the illusion for what it is, sees it as a vague image superimposed on the terrain.
 
@@ -4141,7 +4141,7 @@ _8th-level abjuration_
 
 **Duration:** Concentration, up to 1 minute
 
-Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the spell ends.
+Divine light washes out from you and coalesces in a soft radiance in a 9m radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 1.5m radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the spell ends.
 
 ##### Hypnotic Pattern
 
@@ -4155,7 +4155,7 @@ _3rd-level illusion_
 
 **Duration:** Concentration, up to 1 minute
 
-You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom saving throw. On a failed save, the creature becomes charmed for the duration. While charmed by this spell, the creature is incapacitated and has a speed of 0.
+You create a twisting pattern of colors that weaves through the air inside a 9m cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom saving throw. On a failed save, the creature becomes charmed for the duration. While charmed by this spell, the creature is incapacitated and has a speed of 0.
 
 The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
@@ -4173,7 +4173,7 @@ _4th-level evocation_
 
 **Duration:** Instantaneous
 
-A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high cylinder centered on a point within range. Each creature in the cylinder must make a Dexterity saving throw. A creature takes 2d8 bludgeoning damage and 4d6 cold damage on a failed save, or half as much damage on a successful one.
+A hail of rock-hard ice pounds to the ground in a 6m-radius, 12m-high cylinder centered on a point within range. Each creature in the cylinder must make a Dexterity saving throw. A creature takes 2d8 bludgeoning damage and 4d6 cold damage on a failed save, or half as much damage on a successful one.
 
 Hailstones turn the storm’s area of effect into difficult terrain until the end of your next turn.
 
@@ -4243,7 +4243,7 @@ The special component for this version of the spell is a fine chain of precious 
 
 The special component for this version of the spell is a miniature representation of the prison made from jade.
 
-**_Minimus Containment._** The target shrinks to a height of 1 inch and is imprisoned inside a gemstone or similar object. Light can pass through the gemstone normally (allowing the target to see out and other creatures to see in), but nothing else can pass through, even by means of teleportation or planar travel. The gemstone can’t be cut or broken while the spell remains in effect.
+**_Minimus Containment._** The target shrinks to a height of 2.5cm and is imprisoned inside a gemstone or similar object. Light can pass through the gemstone normally (allowing the target to see out and other creatures to see in), but nothing else can pass through, even by means of teleportation or planar travel. The gemstone can’t be cut or broken while the spell remains in effect.
 
 The special component for this version of the spell is a large, transparent gemstone, such as a corundum, diamond, or ruby.
 
@@ -4267,7 +4267,7 @@ _8th-level conjuration_
 
 **Duration:** Concentration, up to 1 minute
 
-A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 16.0km per hour) disperses it.
+A swirling cloud of smoke shot through with white-hot embers appears in a 6m-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 16.0km per hour) disperses it.
 
 When the cloud appears, each creature in it must make a Dexterity saving throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell’s area for the first time on a turn or ends its turn there.
 
@@ -4301,7 +4301,7 @@ _5th-level conjuration_
 
 **Duration:** Concentration, up to 10 minutes
 
-Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere’s area is difficult terrain.
+Swarming, biting locusts fill a 6m-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere’s area is difficult terrain.
 
 When the area appears, each creature in it must make a Constitution saving throw. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell’s area for the first time on a turn or ends its turn there.
 
@@ -4459,7 +4459,7 @@ _Evocation cantrip_
 
 **Duration:** 1 hour
 
-You touch one object that is no larger than 3m in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 6m. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.
+You touch one object that is no larger than 3m in any dimension. Until the spell ends, the object sheds bright light in a 6m radius and dim light for an additional 6m. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.
 
 If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
 
@@ -4469,7 +4469,7 @@ _3rd-level evocation_
 
 **Casting Time:** 1 action
 
-**Range:** Self (100-foot line)
+**Range:** Self (30m line)
 
 **Components:** V, S, M (a bit of fur and a rod of amber, crystal, or glass)
 
@@ -4593,7 +4593,7 @@ _3rd-level abjuration_
 
 **Duration:** 1 hour
 
-You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.
+You create a 3m-radius, 6m-tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.
 
 Choose one or more of the following types of creatures: celestials, elementals, fey, fiends, or undead. The circle affects a creature of the chosen type in the following ways:
 
@@ -4711,7 +4711,7 @@ _3rd-level illusion_
 
 **Duration:** Concentration, up to 10 minutes
 
-You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot cube. The image appears at a spot that you can see within range and lasts for the duration. It seems completely real, including sounds, smells, and temperature appropriate to the thing depicted. You can’t create sufficient heat or cold to cause damage, a sound loud enough to deal thunder damage or deafen a creature, or a smell that might sicken a creature (like a troglodyte’s stench).
+You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 6m cube. The image appears at a spot that you can see within range and lasts for the duration. It seems completely real, including sounds, smells, and temperature appropriate to the thing depicted. You can’t create sufficient heat or cold to cause damage, a sound loud enough to deal thunder damage or deafen a creature, or a smell that might sicken a creature (like a troglodyte’s stench).
 
 As long as you are within range of the illusion, you can use your action to cause the image to move to any other spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
 
@@ -4731,7 +4731,7 @@ _5th-level evocation_
 
 **Duration:** Instantaneous
 
-A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot-radius sphere centered on that point. Each target regains hit points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 9m-radius sphere centered on that point. Each target regains hit points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.
 
@@ -4835,7 +4835,7 @@ _Transmutation cantrip_
 
 **Duration:** Instantaneous
 
-This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.
+This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 30cm in any dimension, you mend it, leaving no trace of the former damage.
 
 This spell can physically repair a magic item or construct, but the spell can’t restore magic to such an object.
 
@@ -4861,13 +4861,13 @@ _9th-level evocation_
 
 **Casting Time:** 1 action
 
-**Range:** 1 mile
+**Range:** 1.6km
 
 **Components:** V, S
 
 **Duration:** Instantaneous
 
-Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius sphere centered on each point you choose must make a Dexterity saving throw. The sphere spreads around corners. A creature takes 20d6 fire damage and 20d6 bludgeoning damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once.
+Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 12m-radius sphere centered on each point you choose must make a Dexterity saving throw. The sphere spreads around corners. A creature takes 20d6 fire damage and 20d6 bludgeoning damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once.
 
 The spell damages objects in the area and ignites flammable objects that aren’t being worn or carried.
 
@@ -4901,7 +4901,7 @@ You create a sound or an image of an object within range that lasts for the dura
 
 If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
 
-If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.
+If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 1.5m cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.
 
 If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
@@ -4917,7 +4917,7 @@ _7th-level illusion_
 
 **Duration:** 10 days
 
-You make terrain in an area up to 1 mile square look, sound, smell, and even feel like some other sort of terrain. The terrain’s general shape remains the same, however. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road.
+You make terrain in an area up to 1.6km square look, sound, smell, and even feel like some other sort of terrain. The terrain’s general shape remains the same, however. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road.
 
 Similarly, you can alter the appearance of structures, or add them where none are present. The spell doesn’t disguise, conceal, or add creatures.
 
@@ -5015,7 +5015,7 @@ _2nd-level evocation_
 
 **Duration:** Concentration, up to 1 minute
 
-A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.
+A silvery beam of pale light shines down in a 1.5m-radius, 12m-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.
 
 When a creature enters the spell’s area for the first time on a turn or starts its turn there, it is engulfed in ghostly flames that cause searing pain, and it must make a Constitution saving throw. It takes 2d10 radiant damage on a failed save, or half as much damage on a successful one.
 
@@ -5037,7 +5037,7 @@ _6th-level transmutation_
 
 **Duration:** Concentration, up to 2 hours
 
-Choose an area of terrain no larger than 12m on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed half the area’s largest dimension. So, if you affect a 40-foot square, you can create a pillar up to 6m high, raise or lower the square’s elevation by up to 6m, dig a trench up to 6m deep, and so on. It takes 10 minutes for these changes to complete.
+Choose an area of terrain no larger than 12m on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed half the area’s largest dimension. So, if you affect a 12m square, you can create a pillar up to 6m high, raise or lower the square’s elevation by up to 6m, dig a trench up to 6m deep, and so on. It takes 10 minutes for these changes to complete.
 
 At the end of every 10 minutes you spend concentrating on the spell, you can choose a new area of terrain to affect.
 
@@ -5203,11 +5203,11 @@ _3rd-level transmutation_
 
 This spell channels vitality into plants within a specific area. There are two possible uses for the spell, granting either immediate or long-term benefits.
 
-If you cast this spell using 1 action, choose a point within range. All normal plants in a 100-foot radius centered on that point become thick and overgrown. A creature moving through the area must spend 4 meters of movement for every 1 meters it moves.
+If you cast this spell using 1 action, choose a point within range. All normal plants in a 30m radius centered on that point become thick and overgrown. A creature moving through the area must spend 4 meters of movement for every 1 meters it moves.
 
 You can exclude one or more areas of any size within the spell’s area from being affected.
 
-If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.
+If you cast this spell over 8 hours, you enrich the land. All plants in a 800m radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.
 
 ##### Polymorph
 
@@ -5293,8 +5293,8 @@ This spell is a minor magical trick that novice spellcasters use for practice. Y
 
 * You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
 * You instantaneously light or snuff out a candle, a torch, or a small campfire.
-* You instantaneously clean or soil an object no larger than 1 cubic foot.
-* You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+* You instantaneously clean or soil an object no larger than 30cm³.
+* You chill, warm, or flavor up to 30cm³ of nonliving material for 1 hour.
 * You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
 * You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
 
@@ -5306,13 +5306,13 @@ _7th-level evocation_
 
 **Casting Time:** 1 action
 
-**Range:** Self (60-foot cone)
+**Range:** Self (18m cone)
 
 **Components:** V, S
 
 **Duration:** Instantaneous
 
-Eight multicolored rays of light flash from your hand. Each ray is a different color and has a different power and purpose. Each creature in a 60-foot cone must make a Dexterity saving throw. For each target, roll a d8 to determine which color ray affects it.
+Eight multicolored rays of light flash from your hand. Each ray is a different color and has a different power and purpose. Each creature in a 18m cone must make a Dexterity saving throw. For each target, roll a d8 to determine which color ray affects it.
 
 1.  **_Red._** The target takes 10d6 fire damage on a failed save, or half as much damage on a successful one.
 2.  **_Orange._** The target takes 10d6 acid damage on a failed save, or half as much damage on a successful one.
@@ -5335,7 +5335,7 @@ _9th-level abjuration_
 
 **Duration:** 10 minutes
 
-A shimmering, multicolored plane of light forms a vertical opaque wall—up to 27m long, 9m high, and 1 inch thick—centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 9m in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your action and the spell slot are wasted.
+A shimmering, multicolored plane of light forms a vertical opaque wall—up to 27m long, 9m high, and 2.5cm thick—centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 9m in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your action and the spell slot are wasted.
 
 The wall sheds bright light out to a range of 30m and dim light for an additional 30m. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves to within 6m of it or starts its turn there, the creature must succeed on a Constitution saving throw or become blinded for 1 minute.
 
@@ -5388,7 +5388,7 @@ _Conjuration cantrip_
 
 **Duration:** 10 minutes
 
-A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 3m. The spell ends if you dismiss it as an action or if you cast it again.
+A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 3m radius and dim light for an additional 3m. The spell ends if you dismiss it as an action or if you cast it again.
 
 You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 9m of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.
 
@@ -5406,7 +5406,7 @@ _6th-level illusion_
 
 **Duration:** Until dispelled
 
-You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot cube, and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.
+You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs. The illusion is imperceptible until then. It must be no larger than a 9m cube, and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.
 
 When the condition you specify occurs, the illusion springs into existence and performs in the manner you described. Once the illusion finishes performing, it disappears and remains dormant for 10 minutes. After this time, the illusion can be activated again.
 
@@ -5494,7 +5494,7 @@ _1st-level transmutation (ritual)_
 
 **Duration:** Instantaneous
 
-All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
+All nonmagical food and drink within a 1.5m-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
 
 ### Spells (Q)
 
@@ -5687,7 +5687,7 @@ _7th-level transmutation_
 
 **Duration:** Concentration, up to 1 minute
 
-This spell reverses gravity in a 50-foot-radius, 100-foot high cylinder centered on a point within range. All creatures and objects that aren’t somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall.
+This spell reverses gravity in a 15m-radius, 30m high cylinder centered on a point within range. All creatures and objects that aren’t somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall.
 
 If some solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it just as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, for the duration.
 
@@ -5723,7 +5723,7 @@ You touch a length of rope that is up to 18m long. One end of the rope then rise
 
 The extradimensional space can be reached by climbing to the top of the rope. The space can hold as many as eight Medium or smaller creatures. The rope can be pulled into the space, making the rope disappear from view outside the space.
 
-Attacks and spells can’t cross through the entrance into or out of the extradimensional space, but those inside can see out of it as if through a 3-foot-by-5-foot window centered on the rope.
+Attacks and spells can’t cross through the entrance into or out of the extradimensional space, but those inside can see out of it as if through a 0.9m-by-1.5m window centered on the rope.
 
 Anything inside the extradimensional space drops out when the spell ends.
 
@@ -5857,7 +5857,7 @@ _5th-level illusion_
 
 This spell allows you to change the appearance of any number of creatures that you can see within range. You give each target you choose a new, illusory appearance. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell.
 
-The spell disguises physical appearance as well as clothing, armor, weapons, and equipment. You can make each creature seem 1 foot shorter or taller and appear thin, fat, or in between. You can’t change a target’s body type, so you must choose a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you. The spell lasts for the duration, unless you use your action to dismiss it sooner.
+The spell disguises physical appearance as well as clothing, armor, weapons, and equipment. You can make each creature seem 30cm shorter or taller and appear thin, fat, or in between. You can’t change a target’s body type, so you must choose a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you. The spell lasts for the duration, unless you use your action to dismiss it sooner.
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature’s outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel the creature’s head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
@@ -5895,7 +5895,7 @@ By means of this spell, a willing creature or an object can be hidden away, safe
 
 If the target is a creature, it falls into a state of suspended animation. Time ceases to flow for it, and it doesn’t grow older.
 
-You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include “after 1,000 years” or “when the tarrasque awakens.” This spell also ends if the target takes any damage.
+You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1.6km of the target. Examples include “after 1,000 years” or “when the tarrasque awakens.” This spell also ends if the target takes any damage.
 
 ##### Shapechange
 
@@ -5933,7 +5933,7 @@ _2nd-level evocation_
 
 **Duration:** Instantaneous
 
-A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
+A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 3m-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
 
 A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the spell’s area.
 
@@ -6009,7 +6009,7 @@ _2nd-level illusion (ritual)_
 
 **Duration:** Concentration, up to 10 minutes
 
-For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
+For the duration, no sound can be created within or pass through a 6m-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
 
 ##### Silent Image
 
@@ -6023,7 +6023,7 @@ _1st-level illusion_
 
 **Duration:** Concentration, up to 10 minutes
 
-You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.
+You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 4.5m cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.
 
 You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
 
@@ -6081,7 +6081,7 @@ _3rd-level conjuration_
 
 **Duration:** Concentration, up to 1 minute
 
-Until the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder with a 40-foot radius centered on a point you choose within range. The area is heavily obscured, and exposed flames in the area are doused.
+Until the spell ends, freezing rain and sleet fall in a 6m-tall cylinder with a 12m radius centered on a point you choose within range. The area is heavily obscured, and exposed flames in the area are doused.
 
 The ground in the area is covered with slick ice, making it difficult terrain. When a creature enters the spell’s area for the first time on a turn or starts its turn there, it must make a Dexterity saving throw. On a failed save, it falls prone.
 
@@ -6099,7 +6099,7 @@ _3rd-level transmutation_
 
 **Duration:** Concentration, up to 1 minute
 
-You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.
+You alter time around up to six creatures of your choice in a 12m cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.
 
 An affected target’s speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can’t use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature’s abilities or magic items, it can’t make more than one melee or ranged attack during its turn.
 
@@ -6143,7 +6143,7 @@ _3rd-level transmutation_
 
 **Casting Time:** 1 action
 
-**Range:** Self (30-foot radius)
+**Range:** Self (9m radius)
 
 **Components:** V, S
 
@@ -6185,7 +6185,7 @@ _2nd-level transmutation_
 
 **Duration:** Concentration, up to 10 minutes
 
-The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 1.5m it travels.
+The ground in a 6m radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 1.5m it travels.
 
 The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
@@ -6195,7 +6195,7 @@ _3rd-level conjuration_
 
 **Casting Time:** 1 action
 
-**Range:** Self (15-foot radius)
+**Range:** Self (4.5m radius)
 
 **Components:** V, S, M (a holy symbol)
 
@@ -6239,7 +6239,7 @@ _3rd-level conjuration_
 
 **Duration:** Concentration, up to 1 minute
 
-You create a 20-foot-radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is heavily obscured. The cloud lingers in the air for the duration.
+You create a 6m-radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is heavily obscured. The cloud lingers in the air for the duration.
 
 Each creature that is completely within the cloud at the start of its turn must make a Constitution saving throw against poison. On a failed save, the creature spends its action that turn retching and reeling. Creatures that don’t need to breathe or are immune to poison automatically succeed on this saving throw.
 
@@ -6323,17 +6323,17 @@ _6th-level evocation_
 
 **Casting Time:** 1 action
 
-**Range:** Self (60-foot line)
+**Range:** Self (18m line)
 
 **Components:** V, S, M (a magnifying glass)
 
 **Duration:** Concentration, up to 1 minute
 
-A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution saving throw. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn’t blinded by this spell. Undead and oozes have disadvantage on this saving throw.
+A beam of brilliant light flashes out from your hand in a 1.5m-wide, 18m-long line. Each creature in the line must make a Constitution saving throw. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn’t blinded by this spell. Undead and oozes have disadvantage on this saving throw.
 
 You can create a new line of radiance as your action on any turn until the spell ends.
 
-For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 30-foot radius and dim light for an additional 9m. This light is sunlight.
+For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 9m radius and dim light for an additional 9m. This light is sunlight.
 
 ##### Sunburst
 
@@ -6347,7 +6347,7 @@ _8th-level evocation_
 
 **Duration:** Instantaneous
 
-Brilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw. On a failed save, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn’t blinded by this spell. Undead and oozes have disadvantage on this saving throw.
+Brilliant sunlight flashes in a 18m radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw. On a failed save, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn’t blinded by this spell. Undead and oozes have disadvantage on this saving throw.
 
 A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.
 
@@ -6373,7 +6373,7 @@ You decide what triggers the glyph when you cast the spell. For glyphs inscribed
 
 You can further refine the trigger so the spell is activated only under certain circumstances or according to a creature’s physical characteristics (such as height or weight), or physical kind (for example, the ward could be set to affect hags or shapechangers). You can also specify creatures that don’t trigger the glyph, such as those who say a certain password.
 
-When you inscribe the glyph, choose one of the options below for its effect. Once triggered, the glyph glows, filling a 60-foot-radius sphere with dim light for 10 minutes, after which time the spell ends. Each creature in the sphere when the glyph activates is targeted by its effect, as is a creature that enters the sphere for the first time on a turn or ends its turn there.
+When you inscribe the glyph, choose one of the options below for its effect. Once triggered, the glyph glows, filling a 18m-radius sphere with dim light for 10 minutes, after which time the spell ends. Each creature in the sphere when the glyph activates is targeted by its effect, as is a creature that enters the sphere for the first time on a turn or ends its turn there.
 
 **_Death._** Each target must make a Constitution saving throw, taking 10d10 necrotic damage on a failed save, or half as much damage on a successful save.
 
@@ -6445,7 +6445,7 @@ _7th-level conjuration_
 
 **Duration:** Instantaneous
 
-This spell instantly transports you and up to eight willing creatures of your choice that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be able to fit entirely inside a 10-foot cube, and it can’t be held or carried by an unwilling creature.
+This spell instantly transports you and up to eight willing creatures of your choice that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be able to fit entirely inside a 3m cube, and it can’t be held or carried by an unwilling creature.
 
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls d100 and consults the table.
 
@@ -6485,7 +6485,7 @@ _5th-level conjuration_
 
 **Duration:** 1 round
 
-As you cast the spell, you draw a 10-foot-diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 1.5m of the destination circle or in the nearest unoccupied space if that space is occupied.
+As you cast the spell, you draw a 3m-diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 1.5m of the destination circle or in the nearest unoccupied space if that space is occupied.
 
 Many major temples, guilds, and other important places have permanent teleportation circles inscribed somewhere within their confines. Each such circle includes a unique sigil sequence—a string of magical runes arranged in a particular pattern. When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the GM. You can learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.
 
@@ -6518,13 +6518,13 @@ _1st-level evocation_
 
 **Casting Time:** 1 action
 
-**Range:** Self (15-foot cube)
+**Range:** Self (4.5m cube)
 
 **Components:** V, S
 
 **Duration:** Instantaneous
 
-A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 3m away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
+A wave of thunderous force sweeps out from you. Each creature in a 4.5m cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 3m away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
 
 In addition, unsecured objects that are completely within the area of effect are automatically pushed 3m away from you by the spell’s effect, and the spell emits a thunderous boom audible out to 90m.
 
@@ -6552,13 +6552,13 @@ _3rd-level evocation (ritual)_
 
 **Casting Time:** 1 minute
 
-**Range:** Self (10-foot-radius hemisphere)
+**Range:** Self (3m-radius hemisphere)
 
 **Components:** V, S, M (a small crystal bead)
 
 **Duration:** 8 hours
 
-A 10-foot-radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area.
+A 3m-radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area.
 
 Nine creatures of Medium size or smaller can fit inside the dome with you. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects are barred from passing through it. Spells and other magical effects can’t extend through the dome or be cast through it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside.
 
@@ -6736,7 +6736,7 @@ _4th-level evocation_
 
 **Duration:** Concentration, up to 1 minute
 
-You create a wall of fire on a solid surface within range. You can make the wall up to 18m long, 6m high, and 1 foot thick, or a ringed wall up to 6m in diameter, 6m high, and 1 foot thick. The wall is opaque and lasts for the duration.
+You create a wall of fire on a solid surface within range. You can make the wall up to 18m long, 6m high, and 30cm thick, or a ringed wall up to 6m in diameter, 6m high, and 30cm thick. The wall is opaque and lasts for the duration.
 
 When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed save, a creature takes 5d8 fire damage, or half as much damage on a successful save.
 
@@ -6756,7 +6756,7 @@ _5th-level evocation_
 
 **Duration:** Concentration, up to 10 minutes
 
-An invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a sphere with a radius of up to 3m, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick. It lasts for the duration. If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice which side).
+An invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a sphere with a radius of up to 3m, or you can shape a flat surface made up of ten 3m-by-3m panels. Each panel must be contiguous with another panel. In any form, the wall is 1cm thick. It lasts for the duration. If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice which side).
 
 Nothing can physically pass through the wall. It is immune to all damage and can’t be dispelled by _dispel magic_. A _disintegrate_ spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.
 
@@ -6772,11 +6772,11 @@ _6th-level evocation_
 
 **Duration:** Concentration, up to 10 minutes
 
-You create a wall of ice on a solid surface within range. You can form it into a hemispherical dome or a sphere with a radius of up to 3m, or you can shape a flat surface made up of ten 10-foot-square panels. Each panel must be contiguous with another panel. In any form, the wall is 1 foot thick and lasts for the duration.
+You create a wall of ice on a solid surface within range. You can form it into a hemispherical dome or a sphere with a radius of up to 3m, or you can shape a flat surface made up of ten 3m-square panels. Each panel must be contiguous with another panel. In any form, the wall is 30cm thick and lasts for the duration.
 
 If the wall cuts through a creature’s space when it appears, the creature within its area is pushed to one side of the wall and must make a Dexterity saving throw. On a failed save, the creature takes 10d6 cold damage, or half as much damage on a successful save.
 
-The wall is an object that can be damaged and thus breached. It has AC 12 and 30 hit points per 10-foot section, and it is vulnerable to fire damage. Reducing a 10-foot section of wall to 0 hit points destroys it and leaves behind a sheet of frigid air in the space the wall occupied. A creature moving through the sheet of frigid air for the first time on a turn must make a Constitution saving throw. That creature takes 5d6 cold damage on a failed save, or half as much damage on a successful one.
+The wall is an object that can be damaged and thus breached. It has AC 12 and 30 hit points per 3m section, and it is vulnerable to fire damage. Reducing a 3m section of wall to 0 hit points destroys it and leaves behind a sheet of frigid air in the space the wall occupied. A creature moving through the sheet of frigid air for the first time on a turn must make a Constitution saving throw. That creature takes 5d6 cold damage on a failed save, or half as much damage on a successful one.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by 2d6, and the damage from passing through the sheet of frigid air increases by 1d6, for each slot level above 6th.
 
@@ -6792,7 +6792,7 @@ _5th-level evocation_
 
 **Duration:** Concentration, up to 10 minutes
 
-A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot  by-10-foot panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.
+A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 15cm thick and is composed of ten 3m  by-3m panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 3m-by-6m panels that are only 7.5cm thick.
 
 If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.
 
@@ -6800,7 +6800,7 @@ The wall can have any shape you desire, though it can’t occupy the same space 
 
 If you create a span greater than 6m in length, you must halve the size of each panel to create supports. You can crudely shape the wall to create crenellations, battlements, and so on.
 
-The wall is an object made of stone that can be damaged and thus breached. Each panel has AC 15 and 30 hit points per inch of thickness. Reducing a panel to 0 hit points destroys it and might cause connected panels to collapse at the GM’s discretion.
+The wall is an object made of stone that can be damaged and thus breached. Each panel has AC 15 and 30 hit points per 2.5cm of thickness. Reducing a panel to 0 hit points destroys it and might cause connected panels to collapse at the GM’s discretion.
 
 If you maintain your concentration on this spell for its whole duration, the wall becomes permanent and can’t be dispelled. Otherwise, the wall disappears when the spell ends.
 
@@ -6816,7 +6816,7 @@ _6th-level conjuration_
 
 **Duration:** Concentration, up to 10 minutes
 
-You create a wall of tough, pliable, tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 18m long, 3m high, and 1.5m thick or a circle that has a 20-foot diameter and is up to 6m high and 1.5m thick. The wall blocks line of sight.
+You create a wall of tough, pliable, tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 18m long, 3m high, and 1.5m thick or a circle that has a 6m diameter and is up to 6m high and 1.5m thick. The wall blocks line of sight.
 
 When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed save, a creature takes 7d8 piercing damage, or half as much damage on a successful save.
 
@@ -6882,7 +6882,7 @@ _2nd-level conjuration_
 
 **Duration:** Concentration, up to 1 hour
 
-You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.
+You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 6m cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.
 
 If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 1.5m.
 
@@ -6892,7 +6892,7 @@ Dexterity saving throw. On a failed save, the creature is restrained as long as 
 
 A creature restrained by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer restrained.
 
-The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
+The webs are flammable. Any 1.5m cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
 
 ##### Weird
 
@@ -6906,7 +6906,7 @@ _9th-level illusion_
 
 **Duration:** Concentration, up to one minute
 
-Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes frightened for the duration. The illusion calls on the creature’s deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the frightened creature’s turns, it must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends for that creature.
+Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 9m-radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes frightened for the duration. The illusion calls on the creature’s deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the frightened creature’s turns, it must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends for that creature.
 
 ##### Wind Walk
 
@@ -6936,7 +6936,7 @@ _3rd-level evocation_
 
 **Duration:** Concentration, up to 1 minute
 
-A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 15m long, 4.5m high, and 1 foot thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.
+A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 15m long, 4.5m high, and 30cm thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.
 
 When the wall appears, each creature within its area must make a Strength saving throw. A creature takes 3d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
 
@@ -7004,6 +7004,6 @@ _2nd-level enchantment_
 
 **Duration:** 10 minutes
 
-You create a magical zone that guards against deception in a 15-foot-radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell’s area for the first time on a turn or starts its turn there must make a Charisma saving throw. On a failed save, a creature can’t speak a deliberate lie while in the radius. You know whether each creature succeeds or fails on its saving throw.
+You create a magical zone that guards against deception in a 4.5m-radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell’s area for the first time on a turn or starts its turn there must make a Charisma saving throw. On a failed save, a creature can’t speak a deliberate lie while in the radius. You know whether each creature succeeds or fails on its saving throw.
 
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.

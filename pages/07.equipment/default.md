@@ -193,49 +193,49 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 
 **Weapons (table)**
 
-| Name                         | Cost  | Damage          | Weight  | Properties                                             |
-|------------------------------|-------|-----------------|---------|--------------------------------------------------------|
-| **_Simple Melee Weapons_**   |       |                 |         |                                                        |
-| Club                         | 1 sp  | 1d4 bludgeoning | 1kg     | Light                                                  |
+| Name                         | Cost  | Damage          | Weight  | Properties                                              |
+|------------------------------|-------|-----------------|---------|---------------------------------------------------------|
+| **_Simple Melee Weapons_**   |       |                 |         |                                                         |
+| Club                         | 1 sp  | 1d4 bludgeoning | 1kg     | Light                                                   |
 | Dagger                       | 2 gp  | 1d4 piercing    | 500g    | Finesse, light, thrown (range 6m/18m)                   |
-| Greatclub                    | 2 sp  | 1d8 bludgeoning | 5kg     | Two-handed                                             |
+| Greatclub                    | 2 sp  | 1d8 bludgeoning | 5kg     | Two-handed                                              |
 | Handaxe                      | 5 gp  | 1d6 slashing    | 1kg     | Light, thrown (range 6m/18m)                            |
-| Javelin                      | 5 sp  | 1d6 piercing    | 1kg     | Thrown (range 30/120)                                  |
+| Javelin                      | 5 sp  | 1d6 piercing    | 1kg     | Thrown (range 30/120)                                   |
 | Light hammer                 | 2 gp  | 1d4 bludgeoning | 1kg     | Light, thrown (range 6m/18m)                            |
-| Mace                         | 5 gp  | 1d6 bludgeoning | 2kg     | —                                                      |
-| Quarterstaff                 | 2 sp  | 1d6 bludgeoning | 2kg     | Versatile (1d8)                                        |
-| Sickle                       | 1 gp  | 1d4 slashing    | 1kg     | Light                                                  |
+| Mace                         | 5 gp  | 1d6 bludgeoning | 2kg     | —                                                       |
+| Quarterstaff                 | 2 sp  | 1d6 bludgeoning | 2kg     | Versatile (1d8)                                         |
+| Sickle                       | 1 gp  | 1d4 slashing    | 1kg     | Light                                                   |
 | Spear                        | 1 gp  | 1d6 piercing    | 1.5kg   | Thrown (range 6m/18m), versatile (1d8)                  |
-| **_Simple Ranged Weapons_**  |       |                 |         |                                                        |
-| Crossbow, light              | 25 gp | 1d8 piercing    | 2.5kg   | Ammunition (range 80/320), loading, two-handed         |
+| **_Simple Ranged Weapons_**  |       |                 |         |                                                         |
+| Crossbow, light              | 25 gp | 1d8 piercing    | 2.5kg   | Ammunition (range 80/320), loading, two-handed          |
 | Dart                         | 5 cp  | 1d4 piercing    | 125g    | Finesse, thrown (range 6m/18m)                          |
-| Shortbow                     | 25 gp | 1d6 piercing    | 1kg     | Ammunition (range 80/320), two-handed                  |
-| Sling                        | 1 sp  | 1d4 bludgeoning | —       | Ammunition (range 30/120)                              |
-| **_Martial Melee Weapons_**  |       |                 |         |                                                        |
-| Battleaxe                    | 10 gp | 1d8 slashing    | 2kg     | Versatile (1d10)                                       |
-| Flail                        | 10 gp | 1d8 bludgeoning | 1kg     | —                                                      |
-| Glaive                       | 20 gp | 1d10 slashing   | 3kg     | Heavy, reach, two-handed                               |
-| Greataxe                     | 30 gp | 1d12 slashing   | 3.5kg   | Heavy, two-handed                                      |
-| Greatsword                   | 50 gp | 2d6 slashing    | 3kg     | Heavy, two-handed                                      |
-| Halberd                      | 20 gp | 1d10 slashing   | 3kg     | Heavy, reach, two-handed                               |
-| Lance                        | 10 gp | 1d12 piercing   | 3kg     | Reach, special                                         |
-| Longsword                    | 15 gp | 1d8 slashing    | 1.5kg   | Versatile (1d10)                                       |
-| Maul                         | 10 gp | 2d6 bludgeoning | 5kg     | Heavy, two-handed                                      |
-| Morningstar                  | 15 gp | 1d8 piercing    | 2kg     | —                                                      |
-| Pike                         | 5 gp  | 1d10 piercing   | 9kg     | Heavy, reach, two-handed                               |
-| Rapier                       | 25 gp | 1d8 piercing    | 1kg     | Finesse                                                |
-| Scimitar                     | 25 gp | 1d6 slashing    | 1.5kg   | Finesse, light                                         |
-| Shortsword                   | 10 gp | 1d6 piercing    | 1kg     | Finesse, light                                         |
+| Shortbow                     | 25 gp | 1d6 piercing    | 1kg     | Ammunition (range 80/320), two-handed                   |
+| Sling                        | 1 sp  | 1d4 bludgeoning | —       | Ammunition (range 30/120)                               |
+| **_Martial Melee Weapons_**  |       |                 |         |                                                         |
+| Battleaxe                    | 10 gp | 1d8 slashing    | 2kg     | Versatile (1d10)                                        |
+| Flail                        | 10 gp | 1d8 bludgeoning | 1kg     | —                                                       |
+| Glaive                       | 20 gp | 1d10 slashing   | 3kg     | Heavy, reach, two-handed                                |
+| Greataxe                     | 30 gp | 1d12 slashing   | 3.5kg   | Heavy, two-handed                                       |
+| Greatsword                   | 50 gp | 2d6 slashing    | 3kg     | Heavy, two-handed                                       |
+| Halberd                      | 20 gp | 1d10 slashing   | 3kg     | Heavy, reach, two-handed                                |
+| Lance                        | 10 gp | 1d12 piercing   | 3kg     | Reach, special                                          |
+| Longsword                    | 15 gp | 1d8 slashing    | 1.5kg   | Versatile (1d10)                                        |
+| Maul                         | 10 gp | 2d6 bludgeoning | 5kg     | Heavy, two-handed                                       |
+| Morningstar                  | 15 gp | 1d8 piercing    | 2kg     | —                                                       |
+| Pike                         | 5 gp  | 1d10 piercing   | 9kg     | Heavy, reach, two-handed                                |
+| Rapier                       | 25 gp | 1d8 piercing    | 1kg     | Finesse                                                 |
+| Scimitar                     | 25 gp | 1d6 slashing    | 1.5kg   | Finesse, light                                          |
+| Shortsword                   | 10 gp | 1d6 piercing    | 1kg     | Finesse, light                                          |
 | Trident                      | 5 gp  | 1d6 piercing    | 2kg     | Thrown (range 6m/18m), versatile (1d8)                  |
-| War pick                     | 5 gp  | 1d8 piercing    | 1kg     | —                                                      |
-| Warhammer                    | 15 gp | 1d8 bludgeoning | 1kg     | Versatile (1d10)                                       |
-| Whip                         | 2 gp  | 1d4 slashing    | 1.5kg   | Finesse, reach                                         |
-| **_Martial Ranged Weapons_** |       |                 |         |                                                        |
-| Blowgun                      | 10 gp | 1 piercing      | 500g    | Ammunition (range 7.5m/30m), loading                     |
-| Crossbow, hand               | 75 gp | 1d6 piercing    | 1.5kg   | Ammunition (range 9m/36m), light, loading              |
+| War pick                     | 5 gp  | 1d8 piercing    | 1kg     | —                                                       |
+| Warhammer                    | 15 gp | 1d8 bludgeoning | 1kg     | Versatile (1d10)                                        |
+| Whip                         | 2 gp  | 1d4 slashing    | 1.5kg   | Finesse, reach                                          |
+| **_Martial Ranged Weapons_** |       |                 |         |                                                         |
+| Blowgun                      | 10 gp | 1 piercing      | 500g    | Ammunition (range 7.5m/30m), loading                    |
+| Crossbow, hand               | 75 gp | 1d6 piercing    | 1.5kg   | Ammunition (range 9m/36m), light, loading               |
 | Crossbow, heavy              | 50 gp | 1d10 piercing   | 9kg     | Ammunition (range 30m/120m), heavy, loading, two-handed |
 | Longbow                      | 50 gp | 1d8 piercing    | 1kg     | Ammunition (range 150/180m), heavy, two-handed          |
-| Net                          | 1 gp  | —               | 1.5kg   | Special, thrown (range 1.5m/4.5m)                           |
+| Net                          | 1 gp  | —               | 1.5kg   | Special, thrown (range 1.5m/4.5m)                       |
 
 ### Adventuring Gear
 
@@ -706,17 +706,17 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 
 **Services (table)**
 
-| Service Pay       | Pay           |
-|-------------------|---------------|
-| **_Coach cab_**   |               |
-| - Between towns   | 3 cp per mile |
-| - Within a city   | 1 cp          |
-| **_Hireling_**    |               |
-| - Skilled         | 2 gp per day  |
-| - Untrained       | 2 sp per day  |
-| Messenger         | 2 cp per mile |
-| Road or gate toll | 1 cp          |
-| Ship’s passage    | 1 sp per mile |
+| Service Pay       | Pay          |
+|-------------------|--------------|
+| **_Coach cab_**   |              |
+| - Between towns   | 2 cp per km  |
+| - Within a city   | 1 cp         |
+| **_Hireling_**    |              |
+| - Skilled         | 2 gp per day |
+| - Untrained       | 2 sp per day |
+| Messenger         | 1 cp per km  |
+| Road or gate toll | 1 cp         |
+| Ship’s passage    | 8 cp per km  |
 
 #### Spellcasting Services
 

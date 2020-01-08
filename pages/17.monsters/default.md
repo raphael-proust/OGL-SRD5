@@ -411,7 +411,7 @@ _Large aberration, lawful evil_
 
 **_Enslave (3/Day)_**. The aboleth targets one creature it can see within 9m of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth’s control and can’t take reactions, and the aboleth and the target can communicate telepathically with each other over any distance.
 
-Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.
+Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1.6km away from the aboleth.
 
 **Legendary Actions**
 
@@ -4091,7 +4091,7 @@ _Large elemental, neutral_
 
 **Challenge** 5 (1,800 XP)
 
-**_Air Form_**. The elemental can enter a hostile creature’s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+**_Air Form_**. The elemental can enter a hostile creature’s space and stop there. It can move through a space as narrow as 2.5cm wide without squeezing.
 
 **Actions**
 
@@ -4167,7 +4167,7 @@ _Large elemental, neutral_
 
 **Challenge** 5 (1,800 XP)
 
-**_Fire Form_**. The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 1.5m of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature’s space and stop there. The first time it enters a creature’s space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
+**_Fire Form_**. The elemental can move through a space as narrow as 2.5cm wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 1.5m of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature’s space and stop there. The first time it enters a creature’s space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
 
 **_Illumination_**. The elemental sheds bright light in a 9m radius and dim light in an additional 9m.
 
@@ -4205,7 +4205,7 @@ _Large elemental, neutral_
 
 **Challenge** 5 (1,800 XP)
 
-**_Water Form_**. The elemental can enter a hostile creature’s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+**_Water Form_**. The elemental can enter a hostile creature’s space and stop there. It can move through a space as narrow as 2.5cm wide without squeezing.
 
 **_Freeze_**. If the elemental takes cold damage, it partially freezes; its speed is reduced by 6m until the end of its next turn.
 
@@ -6846,11 +6846,11 @@ _Large ooze, unaligned_
 
 **Challenge** 4 (1,100 XP)
 
-**_Amorphous_**. The pudding can move through a space as narrow as 1 inch wide without squeezing.
+**_Amorphous_**. The pudding can move through a space as narrow as 2.5cm wide without squeezing.
 
 **_Corrosive Form_**. A creature that touches the pudding or hits it with a melee attack while within 1.5m of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage.
 
-The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
+The pudding can eat through 5cm-thick, nonmagical wood or metal in 1 round.
 
 **_Spider Climb_**. The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -6932,11 +6932,11 @@ _Medium ooze, unaligned_
 
 **Challenge** 1/2 (100 XP)
 
-**_Amorphous_**. The ooze can move through a space as narrow as 1 inch wide without squeezing.
+**_Amorphous_**. The ooze can move through a space as narrow as 2.5cm wide without squeezing.
 
 **_Corrode Metal_**. Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.
 
-The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
+The ooze can eat through 5cm-thick, nonmagical metal in 1 round.
 
 **_False Appearance_**. While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
 
@@ -6970,7 +6970,7 @@ _Large ooze, unaligned_
 
 **Challenge** 2 (450 XP)
 
-**_Amorphous_**. The jelly can move through a space as narrow as 1 inch wide without squeezing.
+**_Amorphous_**. The jelly can move through a space as narrow as 2.5cm wide without squeezing.
 
 **_Spider Climb_**. The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -7494,7 +7494,7 @@ _Medium undead, chaotic evil_
 
 **Challenge** 1/2 (100 XP)
 
-**_Amorphous_**. The shadow can move through a space as narrow as 1 inch wide without squeezing.
+**_Amorphous_**. The shadow can move through a space as narrow as 2.5cm wide without squeezing.
 
 **_Shadow Stealth_**. While in dim light or darkness, the shadow can take the Hide action as a bonus action.
 
@@ -8125,7 +8125,7 @@ At will: _detect evil and good_, _druidcraft_, _pass without trace_
 
 **_Healing Touch (3/Day)_**. The unicorn touches another creature with its horn. The target magically regains 11 (2d8 + 2) hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target.
 
-**_Teleport (1/Day)_**. The unicorn magically teleports itself and up to three willing creatures it can see within 1.5m of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
+**_Teleport (1/Day)_**. The unicorn magically teleports itself and up to three willing creatures it can see within 1.5m of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1.6km away.
 
 **Legendary Actions**
 

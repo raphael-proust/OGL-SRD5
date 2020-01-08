@@ -983,25 +983,25 @@ You start with the following equipment, in addition to the equipment granted by 
 | Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmored Movement | Features                                         |
 |-------|-------------------|--------------|-----------|--------------------|--------------------------------------------------|
 | 1st   | +2                | 1d4          | —         | -                  | Unarmored Defense, Martial Arts                  |
-| 2nd   | +2                | 1d4          | 2         | +10 ft.            | Ki, Unarmored Movement                           |
-| 3rd   | +2                | 1d4          | 3         | +10 ft.            | Monastic Tradition, Deflect Missiles             |
-| 4th   | +2                | 1d4          | 4         | +10 ft.            | Ability Score Improvement, Slow Fall             |
-| 5th   | +3                | 1d6          | 5         | +10 ft.            | Extra Attack, Stunning Strike                    |
-| 6th   | +3                | 1d6          | 6         | +15 ft.            | Ki-Empowered Strikes, Monastic Tradition Feature |
-| 7th   | +3                | 1d6          | 7         | +15 ft.            | Evasion, Stillness of Mind                       |
-| 8th   | +3                | 1d6          | 8         | +15 ft.            | Ability Score Improvement                        |
-| 9th   | +4                | 1d6          | 9         | +15 ft.            | Unarmored Movement improvement                   |
-| 10th  | +4                | 1d6          | 10        | +20 ft.            | Purity of Body                                   |
-| 11th  | +4                | 1d8          | 11        | +20 ft.            | Monastic Tradition Feature                       |
-| 12th  | +4                | 1d8          | 12        | +20 ft.            | Ability Score Improvement                        |
-| 13th  | +5                | 1d8          | 13        | +20 ft.            | Tongue of the Sun and Moon                       |
-| 14th  | +5                | 1d8          | 14        | +25 ft.            | Diamond Soul                                     |
-| 15th  | +5                | 1d8          | 15        | +25 ft.            | Timeless Body                                    |
-| 16th  | +5                | 1d8          | 16        | +25 ft.            | Ability Score Improvement                        |
-| 17th  | +6                | 1d10         | 17        | +25 ft.            | Monastic Tradition Feature                       |
-| 18th  | +6                | 1d10         | 18        | +30 ft.            | Empty Body                                       |
-| 19th  | +6                | 1d10         | 19        | +30 ft.            | Ability Score Improvement                        |
-| 20th  | +6                | 1d10         | 20        | +30 ft.            | Perfect Self                                     |
+| 2nd   | +2                | 1d4          | 2         | +3m                | Ki, Unarmored Movement                           |
+| 3rd   | +2                | 1d4          | 3         | +3m                | Monastic Tradition, Deflect Missiles             |
+| 4th   | +2                | 1d4          | 4         | +3m                | Ability Score Improvement, Slow Fall             |
+| 5th   | +3                | 1d6          | 5         | +3m                | Extra Attack, Stunning Strike                    |
+| 6th   | +3                | 1d6          | 6         | +4.5m              | Ki-Empowered Strikes, Monastic Tradition Feature |
+| 7th   | +3                | 1d6          | 7         | +4.5m              | Evasion, Stillness of Mind                       |
+| 8th   | +3                | 1d6          | 8         | +4.5m              | Ability Score Improvement                        |
+| 9th   | +4                | 1d6          | 9         | +4.5m              | Unarmored Movement improvement                   |
+| 10th  | +4                | 1d6          | 10        | +6m                | Purity of Body                                   |
+| 11th  | +4                | 1d8          | 11        | +6m                | Monastic Tradition Feature                       |
+| 12th  | +4                | 1d8          | 12        | +6m                | Ability Score Improvement                        |
+| 13th  | +5                | 1d8          | 13        | +6m                | Tongue of the Sun and Moon                       |
+| 14th  | +5                | 1d8          | 14        | +7.5m              | Diamond Soul                                     |
+| 15th  | +5                | 1d8          | 15        | +7.5m              | Timeless Body                                    |
+| 16th  | +5                | 1d8          | 16        | +7.5m              | Ability Score Improvement                        |
+| 17th  | +6                | 1d10         | 17        | +7.5m              | Monastic Tradition Feature                       |
+| 18th  | +6                | 1d10         | 18        | +9m                | Empty Body                                       |
+| 19th  | +6                | 1d10         | 19        | +9m                | Ability Score Improvement                        |
+| 20th  | +6                | 1d10         | 20        | +9m                | Perfect Self                                     |
 
 #### Unarmored Defense
 
@@ -1385,7 +1385,7 @@ Beginning at 15th level, you are always under the effects of a *protection from 
 
 ###### Holy Nimbus
 
-At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 9m beyond that.
+At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 9m radius, and dim light shines 9m beyond that.
 
 Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.
 
@@ -1538,7 +1538,7 @@ At 3rd level, you choose an archetype that you strive to emulate: Hunter or Beas
 
 #### Primeval Awareness
 
-Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 9.6km if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn’t reveal the creatures’ location or number.
+Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1.6km of you (or within up to 9.6km if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn’t reveal the creatures’ location or number.
 
 #### Ability Score Improvement
 

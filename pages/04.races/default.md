@@ -182,18 +182,18 @@ Your draconic heritage manifests in a variety of traits you share with other dra
 
 **Draconic Ancestry (table)**
 
-| Dragon       | Damage Type       | Breath Weapon                |
-|--------------|-------------------|------------------------------|
-| Black        | Acid              | 5 by 30 ft. line (Dex. save) |
-| Blue         | Lightning         | 5 by 30 ft. line (Dex. save) |
-| Brass        | Fire              | 5 by 30 ft. line (Dex. save) |
-| Bronze       | Lightning         | 5 by 30 ft. line (Dex. save) |
-| Copper       | Acid              | 5 by 30 ft. line (Dex. save) |
-| Gold         | Fire              | 15 ft. cone (Dex. save)      |
-| Green        | Poison            | 15 ft. cone (Con. save)      |
-| Red          | Fire              | 15 ft. cone (Dex. save)      |
-| Silver       | Cold              | 15 ft. cone (Con. save)      |
-| White        | Cold              | 15 ft. cone (Con. save)      |
+| Dragon       | Damage Type       | Breath Weapon               |
+|--------------|-------------------|-----------------------------|
+| Black        | Acid              | 1.5m by 9m line (Dex. save) |
+| Blue         | Lightning         | 1.5m by 9m line (Dex. save) |
+| Brass        | Fire              | 1.5m by 9m line (Dex. save) |
+| Bronze       | Lightning         | 1.5m by 9m line (Dex. save) |
+| Copper       | Acid              | 1.5m by 9m line (Dex. save) |
+| Gold         | Fire              | 4.5m cone (Dex. save)       |
+| Green        | Poison            | 4.5m cone (Con. save)       |
+| Red          | Fire              | 4.5m cone (Dex. save)       |
+| Silver       | Cold              | 4.5m cone (Con. save)       |
+| White        | Cold              | 4.5m cone (Con. save)       |
 
 **_Draconic Ancestry._** You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
 

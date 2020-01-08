@@ -170,7 +170,7 @@ This bag superficially resembles a _bag of holding_ but is a feeding orifice for
 
 The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a 50 percent chance that the creature is pulled inside the bag. A creature inside the bag can use its action to try to escape with a successful DC 15 Strength check. Another creature can use its action to reach into the bag to pull a creature out, doing so with a successful DC 20 Strength check (provided it isn’t pulled inside the bag first). Any creature that starts its turn inside the bag is devoured, its body destroyed.
 
-Inanimate objects can be stored in the bag, which can hold a cubic foot of such material. However, once each day, the bag swallows any objects inside it and spits them out into another plane of existence. The GM determines the time and plane.
+Inanimate objects can be stored in the bag, which can hold 30cm³ of such material. However, once each day, the bag swallows any objects inside it and spits them out into another plane of existence. The GM determines the time and plane.
 
 If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.
 
@@ -239,7 +239,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can’t be used 
 
 _Wondrous item, rare_
 
-This small black sphere measures 3/4 of an inch in diameter and weighs 30g. Typically, 1d4 + 4 _beads of force_ are found together.
+This small black sphere measures 1cm in diameter and weighs 30g. Typically, 1d4 + 4 _beads of force_ are found together.
 
 You can use an action to throw the bead up to 18m. The bead explodes on impact and is destroyed. Each creature within a 3m radius of where the bead landed must succeed on a DC 15 Dexterity saving throw or take 5d4 force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save, or are partially within the area, are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere’s wall. No attack or other effect can.
 
@@ -330,7 +330,7 @@ _Wondrous item, rare_
 
 While this bowl is filled with water, you can use an action to speak the bowl’s command word and summon a water elemental, as if you had cast the _conjure elemental_ spell. The bowl can’t be used this way again until the next dawn.
 
-The bowl is about 1 foot in diameter and half as deep. It weighs 1.5kg and holds about 3 gallons.
+The bowl is about 30cm in diameter and half as deep. It weighs 1.5kg and holds about 3 gallons.
 
 #### Bracers of Archery
 
@@ -423,13 +423,13 @@ _Wondrous item, rare_
 
 While incense is burning in this censer, you can use an action to speak the censer’s command word and summon an air elemental, as if you had cast the _conjure elemental_ spell. The censer can’t be used this way again until the next dawn.
 
-This 6-inch-wide, 1-foot-high vessel resembles a chalice with a decorated lid. It weighs 500g.
+This 15cm-wide, 30cm-high vessel resembles a chalice with a decorated lid. It weighs 500g.
 
 #### Chime of Opening
 
 _Wondrous item, rare_
 
-This hollow metal tube measures about 1 foot long and weighs 500g. You can strike it as an action, pointing it at an object within 36m of you that can be opened, such as a door, lid, or lock. The chime issues a clear tone, and one lock or latch on the object opens unless the sound can’t reach the object. If no locks or latches remain, the object itself opens.
+This hollow metal tube measures about 30cm long and weighs 500g. You can strike it as an action, pointing it at an object within 36m of you that can be opened, such as a door, lid, or lock. The chime issues a clear tone, and one lock or latch on the object opens unless the sound can’t reach the object. If no locks or latches remain, the object itself opens.
 
 The chime can be used ten times. After the tenth time, it cracks and becomes useless.
 
@@ -487,7 +487,7 @@ While wearing this cloak with its hood up, you can breathe underwater, and you h
 
 _Wondrous item, very rare or legendary (requires attunement)_
 
-The typical _crystal ball_, a very rare item, is about 6 inches in diameter. While touching it, you can cast the _scrying_ spell (save DC 17) with it.
+The typical _crystal ball_, a very rare item, is about 15cm in diameter. While touching it, you can cast the _scrying_ spell (save DC 17) with it.
 
 The following _crystal ball_ variants are legendary items and have additional properties.
 
@@ -501,7 +501,7 @@ The following _crystal ball_ variants are legendary items and have additional pr
 
 _Wondrous item, rare (requires attunement)_
 
-This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains 1d20 expended charges daily at dawn.
+This cube is about 2.5cm across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains 1d20 expended charges daily at dawn.
 
 You can use an action to press one of the cube’s faces, expending a number of charges based on the chosen face, as shown in the Cube of Force Faces table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens. Otherwise, a barrier of invisible force springs into existence, forming a cube 4.5m on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use an action to press the cube’s sixth face, or the cube runs out of charges. You can change the barrier’s effect by pressing a different face of the cube and expending the requisite number of charges, resetting the duration.
 
@@ -532,7 +532,7 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 
 _Wondrous item, legendary_
 
-This cube is 3 inches across and radiates palpable magical energy. The six sides of the cube are each keyed to a different plane of existence, one of which is the Material Plane. The other sides are linked to planes determined by the GM.
+This cube is 7.5cm across and radiates palpable magical energy. The six sides of the cube are each keyed to a different plane of existence, one of which is the Material Plane. The other sides are linked to planes determined by the GM.
 
 You can use an action to press one side of the cube to cast the _gate_ spell with it, opening a portal to the plane keyed to that side. Alternatively, if you use an action to press one side twice, you can cast the _plane shift_ spell (save DC 17) with the cube and transport the targets to the plane keyed to that side.
 
@@ -568,7 +568,7 @@ You can use an action to remove the stopper and speak one of three command words
 
 * “Stream” produces 1 gallon of water.
 * “Fountain” produces 5 gallons of water.
-* “Geyser” produces 30 gallons of water that gushes forth in a geyser 9m long and 1 foot wide. As a bonus action while holding the decanter, you can aim the geyser at a creature you can see within 9m of you. The target must succeed on a DC 13 Strength saving throw or take 1d4 bludgeoning damage and fall prone. Instead of a creature, you can target an object that isn’t being worn or carried and that weighs no more than 100kg. The object is either knocked over or pushed up to 4.5m away from you.
+* “Geyser” produces 30 gallons of water that gushes forth in a geyser 9m long and 30cm wide. As a bonus action while holding the decanter, you can aim the geyser at a creature you can see within 9m of you. The target must succeed on a DC 13 Strength saving throw or take 1d4 bludgeoning damage and fall prone. Instead of a creature, you can target an object that isn’t being worn or carried and that weighs no more than 100kg. The object is either knocked over or pushed up to 4.5m away from you.
 
 #### Deck of Illusions
 
@@ -883,7 +883,7 @@ These crystal lenses fit over the eyes. They have 3 charges. While wearing them,
 
 _Wondrous item, uncommon_
 
-These crystal lenses fit over the eyes. While wearing them, you can see much better than normal out to a range of 1 foot. You have advantage on Intelligence (Investigation) checks that rely on sight while searching an area or studying an object within that range.
+These crystal lenses fit over the eyes. While wearing them, you can see much better than normal out to a range of 30cm. You have advantage on Intelligence (Investigation) checks that rely on sight while searching an area or studying an object within that range.
 
 #### Eyes of the Eagle
 
@@ -962,7 +962,7 @@ _Large beast, unaligned_
 * The _goat of travail_ becomes a giant goat for up to 3 hours. Once it has been used, it can’t be used again until 30 days have passed.
 * The _goat of terror_ becomes a giant goat for up to 3 hours. The goat can’t attack, but you can remove its horns and use them as weapons. One horn becomes a _+1 lance_, and the other becomes a _+2 longsword_. Removing a horn requires an action, and the weapons disappear and the horns return whenthegoatrevertstofigurineform.Inaddition, the goat radiates a 9m-radius aura of terror while you are riding it. Any creature hostile to you that starts its turn in the aura must succeed on a DC 15 Wisdom saving throw or be frightened of the goat for 1 minute, or until the goat reverts to figurine form. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it successfully saves against the effect, a creature is immune to the goat’s aura for the next 24 hours. Once the figurine has been used, it can’t be used again until 15 days have passed.
 
-**_Marble Elephant (Rare)_**. This marble statuette is about 4 inches high and long. It can become an elephant for up to 24 hours. Once it has been used, it can’t be used again until 7 days have passed.
+**_Marble Elephant (Rare)_**. This marble statuette is about 10cm high and long. It can become an elephant for up to 24 hours. Once it has been used, it can’t be used again until 7 days have passed.
 
 **_Obsidian Steed (Very Rare)_**. This polished obsidian horse can become a nightmare for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can’t be used again until 5 days have passed.
 
@@ -978,13 +978,13 @@ If you have a good alignment, the figurine has a 10 percent chance each time you
 
 _Weapon (any sword), rare (requires attunement)_
 
-You can use a bonus action to speak this magic sword’s command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 12m. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
+You can use a bonus action to speak this magic sword’s command word, causing flames to erupt from the blade. These flames shed bright light in a 12m radius and dim light for an additional 12m. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
 
 #### Folding Boat
 
 _Wondrous item, rare_
 
-This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 2kg and floats. It can be opened to store items inside. This item also has three command words, each requiring you to use an action to speak it.
+This object appears as a wooden box that measures 30cm long, 15cm wide, and 15cm deep. It weighs 2kg and floats. It can be opened to store items inside. This item also has three command words, each requiring you to use an action to speak it.
 
 One command word causes the box to unfold into a boat 3m long, 1.2m wide, and 60cm deep. The boat has one pair of oars, an anchor, a mast, and a lateen sail. The boat can hold up to four Medium creatures comfortably.
 
@@ -1020,7 +1020,7 @@ This prism has 50 charges. While you are holding it, you can use an action to sp
 
 * The first command word causes the gem to shed bright light in a 9m radius and dim light for an additional 9m. This effect doesn’t expend a charge. It lasts until you use a bonus action to repeat the command word or until you use another function of the gem.
 * The second command word expends 1 charge and causes the gem to fire a brilliant beam of light at one creature you can see within 18m of you. The creature must succeed on a DC 15 Constitution saving throw or become blinded for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-* The third command word expends 5 charges and causes the gem to flare with blinding light in a 30-foot cone originating from it. Each creature in the cone must make a saving throw as if struck by the beam created with the second command word.
+* The third command word expends 5 charges and causes the gem to flare with blinding light in a 9m cone originating from it. Each creature in the cone must make a saving throw as if struck by the beam created with the second command word.
 
 When all of the gem’s charges are expended, the gem becomes a nonmagical jewel worth 50 gp.
 
@@ -1174,7 +1174,7 @@ If you blow the horn without meeting its requirement, the summoned berserkers at
 
 _Wondrous item, very rare_
 
-These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above the ground. This effect means the creature can cross or stand above nonsolid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. In addition, the creature can move at normal speed for up to 12 hours a day without suffering exhaustion from a forced march.
+These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 10cm above the ground. This effect means the creature can cross or stand above nonsolid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. In addition, the creature can move at normal speed for up to 12 hours a day without suffering exhaustion from a forced march.
 
 #### Horseshoes of Speed
 
@@ -1194,7 +1194,7 @@ This flat iron rod has a button on one end. You can use an action to press the b
 
 _Wondrous item, rare_
 
-You can use an action to place this 1-inch metal cube on the ground and speak its command word. The cube rapidly grows into a fortress that remains until you use an action to speak the command word that dismisses it, which works only if the fortress is empty.
+You can use an action to place this 2.5cm metal cube on the ground and speak its command word. The cube rapidly grows into a fortress that remains until you use an action to speak the command word that dismisses it, which works only if the fortress is empty.
 
 The fortress is a square tower, 6m on a side and 9m high, with arrow slits on all sides and a battlement atop it. Its interior is divided into two floors, with a ladder running along one wall to connect them. The ladder ends at a trapdoor leading to the roof. When activated, the tower has a small door on the side facing you. The door opens only at your command, which you can speak as a bonus action. It is immune to the _knock_ spell and similar magic, such as that of a _chime of opening_.
 
@@ -1254,7 +1254,7 @@ While this stone orbits your head, you can cast any spell stored in it. The spel
 
 _Wondrous item, rare_
 
-This rusty iron sphere measures 3 inches in diameter and weighs 500g. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 18m of you. As the sphere moves through the air, it opens into a tangle of metal bands.
+This rusty iron sphere measures 7.5cm in diameter and weighs 500g. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 18m of you. As the sphere moves through the air, it opens into a tangle of metal bands.
 
 Make a ranged attack roll with an attack bonus equal to your Dexterity modifier plus your proficiency bonus. On a hit, the target is restrained until you take a bonus action to speak the command word again to release it. Doing so, or missing with the attack, causes the bands to contract and become a sphere once more.
 
@@ -1416,7 +1416,7 @@ The medallion has 3 charges. While wearing it, you can use an action and expend 
 
 _Wondrous item, very rare_
 
-When this 4-foot-tall mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 25kg, and it has AC 11, 10 hit points, and vulnerability to bludgeoning damage. It shatters and is destroyed when reduced to 0 hit points.
+When this 1.2m-tall mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 25kg, and it has AC 11, 10 hit points, and vulnerability to bludgeoning damage. It shatters and is destroyed when reduced to 0 hit points.
 
 If the mirror is hanging on a vertical surface and you are within 1.5m of it, you can use an action to speak its command word and activate it. It remains activated until you use an action to speak the command word again.
 
@@ -1553,7 +1553,7 @@ _Wondrous item, uncommon (requires attunement)_
 
 You must be proficient with wind instruments to use these pipes. While you are attuned to the pipes, ordinary rats and giant rats are indifferent toward you and will not attack you unless you threaten or harm them.
 
-The pipes have 3 charges. If you play the pipes as an action, you can use a bonus action to expend 1 to 3 charges, calling forth one swarm of rats with each expended charge, provided that enough rats are within half a mile of you to be called in this fashion (as determined by the GM). If there aren’t enough rats to form a swarm, the charge is wasted. Called swarms move toward the music by the shortest available route but aren’t under your control otherwise. The pipes regain 1d3 expended charges daily at dawn.
+The pipes have 3 charges. If you play the pipes as an action, you can use a bonus action to expend 1 to 3 charges, calling forth one swarm of rats with each expended charge, provided that enough rats are within 800m of you to be called in this fashion (as determined by the GM). If there aren’t enough rats to form a swarm, the charge is wasted. Called swarms move toward the music by the shortest available route but aren’t under your control otherwise. The pipes regain 1d3 expended charges daily at dawn.
 
 Whenever a swarm of rats that isn’t under another creature’s control comes within 9m of you while you are playing the pipes, you can make a Charisma check contested by the swarm’s Wisdom check. If you lose the contest, the swarm behaves as it normally would and can’t be swayed by the pipes’ music for the next 24 hours. If you win the contest, the swarm is swayed by the pipes’ music and becomes friendly to you and your companions for as long as you continue to play the pipes each round as an action. A friendly swarm obeys your commands. If you issue no commands to a friendly swarm, it defends itself but otherwise takes no actions. If a friendly swarm starts its turn and can’t hear the pipes’ music, your control over that swarm ends, and the swarm behaves as it normally would and can’t be swayed by the pipes’ music for the next 24 hours.
 
@@ -1715,7 +1715,7 @@ You can breathe underwater for 1 hour after drinking this potion. Its cloudy gre
 
 _Wondrous item, uncommon_
 
-This glass jar, 3 inches in diameter, contains 1d4 + 1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 250g.
+This glass jar, 7.5cm in diameter, contains 1d4 + 1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 250g.
 
 As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains 2d8 + 2 hit points, ceases to be poisoned, and is cured of any disease.
 
@@ -1860,7 +1860,7 @@ The ring has 6 charges for the following other properties. The ring regains 1d6 
 
 **_Faerie Fire_**. You can expend 1 charge as an action to cast _faerie fire_ from the ring.
 
-**_Ball Lightning_**. You can expend 2 charges as an action to create one to four 3-foot-diameter spheres of lightning. The more spheres you create, the less powerful each sphere is individually.
+**_Ball Lightning_**. You can expend 2 charges as an action to create one to four 0.9m-diameter spheres of lightning. The more spheres you create, the less powerful each sphere is individually.
 
 Each sphere appears in an unoccupied space you can see within 36m of you. The spheres last as long as you concentrate (as if concentrating on a spell), up to 1 minute. Each sphere sheds dim light in a 9m radius.
 
@@ -2050,9 +2050,9 @@ If you press **button 1**, the rod becomes a _flame tongue_, as a fiery blade sp
 
 If you press **button 2**, the rod’s flanged head folds down and two crescent-shaped blades spring out, transforming the rod into a magic battleaxe that grants a +3 bonus to attack and damage rolls made with it.
 
-If you press **button 3**, the rod’s flanged head folds down, a spear point springs from the rod’s tip, and the rod’s handle lengthens into a 6-foot haft, transforming the rod into a magic spear that grants a +3 bonus to attack and damage rolls made with it.
+If you press **button 3**, the rod’s flanged head folds down, a spear point springs from the rod’s tip, and the rod’s handle lengthens into a 1.8m haft, transforming the rod into a magic spear that grants a +3 bonus to attack and damage rolls made with it.
 
-If you press **button 4**, the rod transforms into a climbing pole up to 15m long, as you specify. In surfaces as hard as granite, a spike at the bottom and three hooks at the top anchor the pole. Horizontal bars 3 inches long fold out from the sides, 1 foot apart, forming a ladder. The pole can bear up to 2tons. More weight or lack of solid anchoring causes the rod to revert to its normal form.
+If you press **button 4**, the rod transforms into a climbing pole up to 15m long, as you specify. In surfaces as hard as granite, a spike at the bottom and three hooks at the top anchor the pole. Horizontal bars 7.5cm long fold out from the sides, 30cm apart, forming a ladder. The pole can bear up to 2 tons. More weight or lack of solid anchoring causes the rod to revert to its normal form.
 
 If you press **button 5**, the rod transforms into a handheld battering ram and grants its user a +10 bonus to Strength checks made to break through doors, barricades, and other barriers.
 
@@ -2143,7 +2143,7 @@ _Wondrous item, legendary_
 
 This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with _oil of slipperiness._ When found, a container contains 1d6 + 1 ounces.
 
-One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of _universal solvent_ or _oil of etherealness_, or with a _wish_ spell.
+One ounce of the glue can cover a 0.3m square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of _universal solvent_ or _oil of etherealness_, or with a _wish_ spell.
 
 #### Spell Scroll
 
@@ -2183,7 +2183,7 @@ While holding this shield, you have advantage on saving throws against spells an
 
 _Wondrous item, legendary_
 
-This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.
+This 0.6m-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.
 
 The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Unless an artifact is susceptible to damage from a _sphere of annihilation_, it passes through the sphere unscathed. Anything else that touches the sphere but isn’t wholly engulfed and obliterated by it takes 4d10 force damage.
 
@@ -2385,7 +2385,7 @@ When you attack an object with this magic sword and hit, maximize your weapon da
 
 When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 4d6 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target’s limbs, with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead.
 
-In addition, you can speak the sword’s command word to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 3m. Speaking the command word again or sheathing the sword puts out the light.
+In addition, you can speak the sword’s command word to cause the blade to shed bright light in a 3m radius and dim light for an additional 3m. Speaking the command word again or sheathing the sword puts out the light.
 
 #### Sword of Wounding
 
@@ -2453,7 +2453,7 @@ This trident is a magic weapon. It has 3 charges. While you carry it, you can us
 
 _Wondrous item, legendary_
 
-This tube holds milky liquid with a strong alcohol smell. You can use an action to pour the contents of the tube onto a surface within reach. The liquid instantly dissolves up to 1 square foot of adhesive it touches, including _sovereign glue._
+This tube holds milky liquid with a strong alcohol smell. You can use an action to pour the contents of the tube onto a surface within reach. The liquid instantly dissolves up to 30cm² of adhesive it touches, including _sovereign glue._
 
 ### Magic Items (V)
 
@@ -2739,7 +2739,7 @@ As the wizard towers fell in later ages, the orbs were destroyed or faded into l
 
 Each orb contains the essence of an evil dragon, a presence that resents any attempt to coax magic from it. Those lacking in force of personality might find themselves enslaved to an orb.
 
-An orb is an etched crystal globe about 10 inches in diameter. When used, it grows to about 20 inches in diameter, and mist swirls inside it.
+An orb is an etched crystal globe about 25cm in diameter. When used, it grows to about 50cm in diameter, and mist swirls inside it.
 
 While attuned to an orb, you can use an action to peer into the orb’s depths and speak its command word. You must then make a DC 15 Charisma check. On a successful check, you control the orb for as long as you remain attuned to it. On a failed check, you become charmed by the orb for as long as you remain attuned to it.
 

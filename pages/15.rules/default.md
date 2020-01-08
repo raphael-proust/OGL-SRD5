@@ -77,7 +77,7 @@ _Mechanical trap_
 
 This trap uses a trip wire to collapse the supports keeping an unstable section of a ceiling in place.
 
-The trip wire is 3 inches off the ground and stretches between two support beams. The DC to spot the trip wire is 10. A successful DC 15 Dexterity check using thieves’ tools disables the trip wire harmlessly. A character without thieves’ tools can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.
+The trip wire is 7.5cm off the ground and stretches between two support beams. The DC to spot the trip wire is 10. A successful DC 15 Dexterity check using thieves’ tools disables the trip wire harmlessly. A character without thieves’ tools can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.
 
 Anyone who inspects the beams can easily determine that they are merely wedged in place. As an action, a character can knock over a beam, causing the trap to trigger.
 
@@ -91,7 +91,7 @@ _Mechanical trap_
 
 This trap uses a trip wire to release a net suspended from the ceiling.
 
-The trip wire is 3 inches off the ground and stretches between two columns or trees. The net is hidden by cobwebs or foliage. The DC to spot the trip wire and net is 10. A successful DC 15 Dexterity check using thieves’ tools breaks the trip wire harmlessly. A character without thieves’ tools can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.
+The trip wire is 7.5cm off the ground and stretches between two columns or trees. The net is hidden by cobwebs or foliage. The DC to spot the trip wire and net is 10. A successful DC 15 Dexterity check using thieves’ tools breaks the trip wire harmlessly. A character without thieves’ tools can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.
 
 When the trap is triggered, the net is released, covering a 3m-square area. Those in the area are trapped under the net and restrained, and those that fail a DC 10 Strength saving throw are also knocked prone. A creature can use its action to make a DC 10
 
@@ -151,7 +151,7 @@ _Mechanical trap_
 
 A poisoned needle is hidden within a treasure chest’s lock, or in something else that a creature might open. Opening the chest without the proper key causes the needle to spring out, delivering a dose of poison.
 
-When the trap is triggered, the needle extends 3 inches straight out from the lock. A creature within range takes 1 piercing damage and 11
+When the trap is triggered, the needle extends 7.5cm straight out from the lock. A creature within range takes 1 piercing damage and 11
 (2d10) poison damage, and must succeed on a DC 15 Constitution saving throw or be poisoned for 1 hour.
 
 A successful DC 20 Intelligence (Investigation) check allows a character to deduce the trap’s presence from alterations made to the lock to accommodate the needle. A successful DC 15 Dexterity check using thieves’ tools disarms the trap, removing the needle from the lock. Unsuccessfully attempting to pick the lock triggers the trap.

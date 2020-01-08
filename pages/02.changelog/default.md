@@ -81,10 +81,12 @@ title: Changelog
 :fa-check-square: Conversion to SI units.
 - Some values changed to be closer to a round number.
 - Character heights are given in centimeters (with 30cm for 1 feet)
-- Distances, ranges, sizes for area of effect, etc. are given in meters or kilometers (with 1.5m for 5 feet or 1.6km for 1 mile)
+- Distances, ranges, sizes for area of effect, etc. are given in meters or kilometers (with 2.5cm for 1 inch, 1.5m for 5 feet or 1.6km for 1 mile)
 - Volumes are given in liters (with 30L for 1 cubic foot or 4L for 1 gallon or 0.5L for 1 pint or 0.025L for 1 floz) (remember that 1L is a cube of 10cm in every direction)
 - Areas are given in square meters (1 square meter for 10 square feet or 1 square yard)
 - Weight is given in kilograms or grams (with 1kg for 2 pounds, and 30g for 1 ounce)
+- Some conversions are more approximative: the price of services per miles of travel, dimensions below 1 inch.
+- Conversions for prices of trade goods have been scaled to give rounder figures.
 
 ## Coming Soon!
 
