@@ -381,7 +381,7 @@ Ram, Portable. You can use a portable ram to break down doors. When doing so, yo
 | Holy water (flask)           | 25 gp    | 500g         |
 | Hourglass                    | 25 gp    | 500g         |
 | Hunting trap                 | 5 gp     | 12.5kg       |
-| Ink (1 ounce bottle)         | 10 gp    | —            |
+| Ink (25mL bottle)            | 10 gp    | —            |
 | Ink pen                      | 2 cp     | —            |
 | Jug or pitcher               | 2 cp     | 2kg          |
 | Ladder (3m)                  | 1 sp     | 12.5kg       |
