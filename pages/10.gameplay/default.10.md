@@ -244,9 +244,9 @@ You add your Strength modifier to your attack roll and your damage roll when att
 
 Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry.
 
-***Carrying Capacity***. Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough that most characters don't usually have to worry about it.
+***Carrying Capacity***. Your carrying capacity is your Strength score multiplied by 7.5. This is the weight (in kg) that you can carry, which is high enough that most characters don't usually have to worry about it.
 
-***Push, Drag, or Lift***. You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 5 feet.
+***Push, Drag, or Lift***. You can push, drag, or lift a weight in kg up to twice your carrying capacity (or 15 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 1.5m.
 
 ***Size and Strength***. Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature's carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these weights.
 
@@ -254,9 +254,9 @@ Your Strength score determines the amount of weight you can bear. The following 
 
 The rules for lifting and carrying are intentionally simple. Here is a variant if you are looking for more detailed rules for determining how a character is hindered by the weight of equipment. When you use this variant, ignore the Strength column of the Armor table.
 
-If you carry weight in excess of 5 times your Strength score, you are **encumbered**, which means your speed drops by 10 feet.
+If you carry weight in excess of 2.5 times your Strength score, you are **encumbered**, which means your speed drops by 3.0m.
 
-If you carry weight in excess of 10 times your Strength score, up to your maximum carrying capacity, you are instead **heavily encumbered**, which means your speed drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+If you carry weight in excess of 5 times your Strength score, up to your maximum carrying capacity, you are instead **heavily encumbered**, which means your speed drops by 6.0m and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
 
 ## Dexterity
 
@@ -452,7 +452,7 @@ The result of a successful or failed saving throw is also detailed in the effect
 
 In situations where keeping track of the passage of time is important, the GM determines the time a task requires. The GM might use a different time scale depending on the context of the situation at hand. In a dungeon environment, the adventurers' movement happens on a scale of **minutes**. It takes them about a minute to creep down a long hallway, another minute to check for traps on the door at the end of the hall, and a good ten minutes to search the chamber beyond for anything interesting or valuable.
 
-In a city or wilderness, a scale of **hours** is often more appropriate. Adventurers eager to reach the lonely tower at the heart of the forest hurry across those fifteen miles in just under four hours' time.
+In a city or wilderness, a scale of **hours** is often more appropriate. Adventurers eager to reach the lonely tower at the heart of the forest hurry across those 24.0km in just under four hours' time.
 
 For long journeys, a scale of **days** works best.
 
@@ -464,13 +464,13 @@ In combat and other fast-paced situations, the game relies on **rounds**, a 6-se
 
 Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope-all sorts of movement play a key role in fantasy gaming adventures.
 
-The GM can summarize the adventurers' movement without calculating exact distances or travel times: "You travel through the forest and find the dungeon entrance late in the evening of the third day." Even in a dungeon, particularly a large dungeon or a cave network, the GM can summarize movement between encounters: "After killing the guardian at the entrance to the ancient dwarven stronghold, you consult your map, which leads you through miles of echoing corridors to a chasm bridged by a narrow stone arch."
+The GM can summarize the adventurers' movement without calculating exact distances or travel times: "You travel through the forest and find the dungeon entrance late in the evening of the third day." Even in a dungeon, particularly a large dungeon or a cave network, the GM can summarize movement between encounters: "After killing the guardian at the entrance to the ancient dwarven stronghold, you consult your map, which leads you through kilometers of echoing corridors to a chasm bridged by a narrow stone arch."
 
 Sometimes it's important, though, to know how long it takes to get from one spot to another, whether the answer is in days, hours, or minutes. The rules for determining travel time depend on two factors: the speed and travel pace of the creatures moving and the terrain they're moving over.
 
 ### Speed
 
-Every character and monster has a speed, which is the distance in feet that the character or monster can walk in 1 round. This number assumes short bursts of energetic movement in the midst of a life-threatening situation.
+Every character and monster has a speed, which is the distance in meters that the character or monster can walk in 1 round. This number assumes short bursts of energetic movement in the midst of a life-threatening situation.
 
 The following rules determine how far a character or monster can move in a minute, an hour, or a day.
 
@@ -482,7 +482,7 @@ While traveling, a group of adventurers can move at a normal, fast, or slow pace
 
 For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion (see appendix A).
 
-***Mounts and Vehicles***. For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
+***Mounts and Vehicles***. For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 12.8km to 16.0km, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
 
 Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel, and they don't suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
 
@@ -492,15 +492,15 @@ Certain special mounts, such as a pegasus or griffon, or special vehicles, such 
 
 | **Pace** | **Distance per: Minute** | **Hour** | **Day**  | **Effect**                                       |
 | -------- | ------------------------ | -------- | -------- | ------------------------------------------------ |
-| Fast     | 400 feet                 | 4 miles  | 30 miles | -5 penalty to passive Wisdom (Perception) scores |
-| Normal   | 300 feet                 | 3 miles  | 18 miles | -                                                |
-| Slow     | 200 feet                 | 2 miles  | 24 miles | Able to use stealth                              |
+| Fast     | 120.0m                 | 6.4km  | 48.0km | -5 penalty to passive Wisdom (Perception) scores |
+| Normal   | 90.0m                 | 4.8km  | 28.8km | -                                                |
+| Slow     | 60.0m                 | 3.2km  | 38.4km | Able to use stealth                              |
 
 #### Difficult Terrain
 
 The travel speeds given in the Travel Pace table assume relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground-all considered difficult terrain.
 
-You move at half speed in difficult terrain- moving 1 foot in difficult terrain costs 2 feet of speed-so you can cover only half the normal distance in a minute, an hour, or a day.
+You move at half speed in difficult terrain- moving 1 meter in difficult terrain costs 2 meters of speed-so you can cover only half the normal distance in a minute, an hour, or a day.
 
 ### Special Types of Movement
 
@@ -508,19 +508,19 @@ Movement through dangerous dungeons or wilderness areas often involves more than
 
 #### Climbing, Swimming, and Crawling
 
-While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing or swimming speed. At the GM's option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check. Similarly, gaining any distance in rough water might require a successful Strength (Athletics) check.
+While climbing or swimming, each meter of movement costs 1 extra meter (2 extra meters in difficult terrain), unless a creature has a climbing or swimming speed. At the GM's option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check. Similarly, gaining any distance in rough water might require a successful Strength (Athletics) check.
 
 #### Jumping
 
 Your Strength determines how far you can jump.
 
-***Long Jump***. When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each foot you clear on the jump costs a foot of movement.
+***Long Jump***. When you make a long jump, you cover 0.3m times your Strength score if you move at least 3.0m on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each meter you clear on the jump costs a meter of movement.
 
 This rule assumes that the height of your jump doesn't matter, such as a jump across a stream or chasm. At your GM's option, you must succeed on a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit it.
 
 When you land in difficult terrain, you must succeed on a DC 10 Dexterity (Acrobatics) check to land on your feet. Otherwise, you land prone.
 
-***High Jump***. When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your GM might allow you to make a Strength (Athletics) check to jump higher than you normally can.
+***High Jump***. When you make a high jump, you leap into the air 0.3m times 3 + your Strength modifier if you move at least 3.0m on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each meter you clear on the jump costs a meter of movement. In some circumstances, your GM might allow you to make a Strength (Athletics) check to jump higher than you normally can.
 
 You can extend your arms half your height above yourself during the jump. Thus, you can reach above you a distance equal to the height of the jump plus 1½ times your height.
 
@@ -530,7 +530,7 @@ By its nature, adventuring involves delving into places that are dark, dangerous
 
 ### Falling
 
-A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.
+A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1d6 bludgeoning damage for every 3.0m it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.
 
 ### Suffocating
 
@@ -578,7 +578,7 @@ Characters who don't eat or drink suffer the effects of exhaustion (see appendix
 
 #### Food
 
-A character needs one pound of food per day and can make food last longer by subsisting on half rations. Eating half a pound of food in a day counts as half a day without food.
+A character needs 0.5kg of food per day and can make food last longer by subsisting on half rations. Eating 0.25kg of food in a day counts as half a day without food.
 
 A character can go without food for a number of days equal to 3 + his or her Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of exhaustion.
 
@@ -586,7 +586,7 @@ A normal day of eating resets the count of days without food to zero.
 
 #### Water
 
-A character needs one gallon of water per day, or two gallons per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion at the end of the day. A character with access to even less water automatically suffers one level of exhaustion at the end of the day.
+A character needs 4.0L of water per day, or 8.0L per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion at the end of the day. A character with access to even less water automatically suffers one level of exhaustion at the end of the day.
 
 If the character already has one or more levels of exhaustion, the character takes two levels in either case.
 
@@ -760,23 +760,23 @@ Your movement can include jumping, climbing, and swimming. These different modes
 
 ### Breaking Up Your Move
 
-You can break up your movement on your turn, using some of your speed before and after your action. For example, if you have a speed of 30 feet, you can move 10 feet, take your action, and then move 20 feet.
+You can break up your movement on your turn, using some of your speed before and after your action. For example, if you have a speed of 9.0m, you can move 3.0m, take your action, and then move 6.0m.
 
 #### Moving between Attacks
 
-If you take an action that includes more than one weapon attack, you can break up your movement even further by moving between those attacks. For example, a fighter who can make two attacks with the Extra Attack feature and who has a speed of 25 feet could move 10 feet, make an attack, move 15 feet, and then attack again.
+If you take an action that includes more than one weapon attack, you can break up your movement even further by moving between those attacks. For example, a fighter who can make two attacks with the Extra Attack feature and who has a speed of 7.5m could move 3.0m, make an attack, move 4.5m, and then attack again.
 
 #### Using Different Speeds
 
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the *fly* spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a speed of 9.0m and a flying speed of 18.0m because a wizard cast the *fly* spell on you, you could fly 6.0m, then walk 3.0m, and then leap into the air to fly 9.0m more.
 
 ### Difficult Terrain
 
 Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briar-choked forests, treacherous staircases-the setting of a typical fight contains difficult terrain.
 
-Every foot of movement in difficult terrain costs 1 extra foot. This rule is true even if multiple things in a space count as difficult terrain.
+Every meter of movement in difficult terrain costs 1 extra meter. This rule is true even if multiple things in a space count as difficult terrain.
 
 Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are examples of difficult terrain. The space of another creature, whether hostile or not, also counts as difficult terrain.
 
@@ -784,9 +784,9 @@ Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are exa
 
 Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are prone, a condition described in appendix A.
 
-You can **drop prone** without using any of your speed. **Standing up** takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.
+You can **drop prone** without using any of your speed. **Standing up** takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 9.0m, you must spend 4.5m of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.
 
-To move while prone, you must **crawl** or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
+To move while prone, you must **crawl** or use magic such as teleportation. Every meter of movement while crawling costs 1 extra meter. Crawling 1 meter in difficult terrain, therefore, costs 3 meter of movement.
 
 ## Interacting with Objects Around You
 
@@ -830,7 +830,7 @@ Here are a few examples of the sorts of thing you can do in tandem with your mov
 
   - turn a key in a lock
 
-  - tap the floor with a 10-foot pole
+  - tap the floor with a 3.0m pole
 
   - hand an item to another character
 
@@ -854,24 +854,24 @@ Each creature takes up a different amount of space. The Size Categories table sh
 
 | **Size**   | **Space**              |
 | ---------- | ---------------------- |
-| Tiny       | 2½ by 2½ ft.           |
-| Small      | 5 by 5 ft.             |
-| Medium     | 5 by 5 ft.             |
-| Large      | 10 by 10 ft.           |
-| Huge       | 15 by 15 ft.           |
-| Gargantuan | 20 by 20 ft. or larger |
+| Tiny       | 0.75m by 0.75m           |
+| Small      | 1.5m by 1.5m             |
+| Medium     | 1.5m by 1.5m             |
+| Large      | 3.0m by 3.0m           |
+| Huge       | 4.5m by 4.5m           |
+| Gargantuan | 6.0m by 6.0m or larger |
 
 #### Space
 
-A creature's space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn't 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5-foot wide doorway, other creatures can't get through unless the hobgoblin lets them.
+A creature's space is the area in meters that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn't 1.5m wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 1.5m wide doorway, other creatures can't get through unless the hobgoblin lets them.
 
-A creature's space also reflects the area it needs to fight effectively. For that reason, there's a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 5-foot radius around another one.
+A creature's space also reflects the area it needs to fight effectively. For that reason, there's a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 1.5m radius around another one.
 
 Because larger creatures take up more space, fewer of them can surround a creature. If four Large creatures crowd around a Medium or smaller one, there's little room for anyone else. In contrast, as many as twenty Medium creatures can surround a Gargantuan one.
 
 #### Squeezing into a Smaller Space
 
-A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that's only 5 feet wide. While squeezing through a space, a creature must spend 1 extra foot for every foot it moves there, and it has disadvantage on attack rolls and Dexterity saving throws. Attack rolls against the creature have advantage while it's in the smaller space.
+A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that's only 1.5m wide. While squeezing through a space, a creature must spend 1 extra meter for every meter it moves there, and it has disadvantage on attack rolls and Dexterity saving throws. Attack rolls against the creature have advantage while it's in the smaller space.
 
 ## Actions in Combat
 
@@ -893,9 +893,9 @@ Spellcasters such as wizards and clerics, as well as many monsters, have access 
 
 ### Dash
 
-When you take the Dash action, you gain extra movement for the current turn. The increase equals your speed, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you dash.
+When you take the Dash action, you gain extra movement for the current turn. The increase equals your speed, after applying any modifiers. With a speed of 9.0m, for example, you can move up to 18.0m on your turn if you dash.
 
-Any increase or decrease to your speed changes this additional movement by the same amount. If your speed of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you dash.
+Any increase or decrease to your speed changes this additional movement by the same amount. If your speed of 9.0m is reduced to 4.5m, for instance, you can move up to 9.0m this turn if you dash.
 
 ### Disengage
 
@@ -909,7 +909,7 @@ When you take the Dodge action, you focus entirely on avoiding attacks. Until th
 
 You can lend your aid to another creature in the completion of a task. When you take the Help action, the creature you aid gains advantage on the next ability check it makes to perform the task you are helping with, provided that it makes the check before the start of your next turn.
 
-Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally's attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.
+Alternatively, you can aid a friendly creature in attacking a creature within 1.5m of you. You feint, distract the target, or in some other way team up to make your ally's attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.
 
 ### Hide
 
@@ -989,13 +989,13 @@ Some ranged attacks, such as those made with a longbow or a shortbow, have two r
 
 #### Ranged Attacks in Close Combat
 
-Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated.
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 1.5m of a hostile creature who can see you and who isn't incapacitated.
 
 ### Melee Attacks
 
 Used in hand-to-hand combat, a melee attack allows you to attack a foe within your reach. A melee attack typically uses a handheld weapon such as a sword, a warhammer, or an axe. A typical monster makes a melee attack when it strikes with its claws, horns, teeth, tentacles, or other body part. A few spells also involve making a melee attack.
 
-Most creatures have a 5-foot **reach** and can thus attack targets within 5 feet of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 5 feet, as noted in their descriptions.
+Most creatures have a 1.5m **reach** and can thus attack targets within 1.5m of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 1.5m, as noted in their descriptions.
 
 Instead of using a weapon to make a melee weapon attack, you can use an **unarmed strike**: a punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.
 
@@ -1031,7 +1031,7 @@ The target of your grapple must be no more than one size larger than you and mus
 
 Using the Attack action, you can make a special melee attack to shove a creature, either to knock it prone or push it away from you. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
 
-The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). You succeed automatically if the target is incapacitated. If you succeed, you either knock the target prone or push it 5 feet away from you.
+The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). You succeed automatically if the target is incapacitated. If you succeed, you either knock the target prone or push it 1.5m away from you.
 
 ## Cover
 
@@ -1185,11 +1185,11 @@ A willing creature that is at least one size larger than you and that has an app
 
 ### Mounting and Dismounting
 
-Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can't mount it if you don't have 15 feet of movement left or if your speed is 0.
+Once during your move, you can mount a creature that is within 1.5m of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 9.0m, you must spend 4.5m of movement to mount a horse. Therefore, you can't mount it if you don't have 4.5m of movement left or if your speed is 0.
 
-If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it. If you're knocked prone while mounted, you must make the same saving throw.
+If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 1.5m of it. If you're knocked prone while mounted, you must make the same saving throw.
 
-If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
+If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 1.5m it.
 
 ### Controlling a Mount
 

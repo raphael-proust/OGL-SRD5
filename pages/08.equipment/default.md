@@ -8,7 +8,7 @@ title: Equipment
 
 Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
 
-With one gold piece, a character can buy a bedroll, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
+With one gold piece, a character can buy a bedroll, 15.0m of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
 
 One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer's work for half a day, a flask of lamp oil, or a night's rest in a poor inn.
 
@@ -16,7 +16,7 @@ One silver piece is worth ten copper pieces, which are common among laborers and
 
 In addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.
 
-A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
+A standard coin weighs about 10g, so one hundred coins weigh 1kg.
 
 **Table** **35 - Equipment: Standard Exchange Rates**
 
@@ -50,7 +50,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 ***Armor Class (AC)***. Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
 
-***Heavy Armor***. Heavier armor interferes with the wearer's ability to move quickly, stealthily, and freely. If the Armor table shows "Str 13" or "Str 15" in the Strength column for an armor type, the armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+***Heavy Armor***. Heavier armor interferes with the wearer's ability to move quickly, stealthily, and freely. If the Armor table shows "Str 13" or "Str 15" in the Strength column for an armor type, the armor reduces the wearer's speed by 3.0m unless the wearer has a Strength score equal to or higher than the listed score.
 
 ***Stealth***. If the Armor table shows "Disadvantage" in the Stealth column, the wearer has disadvantage on Dexterity (Stealth) checks.
 
@@ -99,22 +99,22 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 | **Armor**          | **Cost** | **Armor Class (AC)**      | **Strength** | **Stealth**  | **Weight** |
 | ------------------ | -------- | ------------------------- | ------------ | ------------ | ---------- |
 | ***Light Armor***  |          |                           |              |              |            |
-| Padded             | 5 gp     | 11 + Dex modifier         | -            | Disadvantage | 8 lb.      |
-| Leather            | 10 gp    | 11 + Dex modifier         | -            | -            | 10 lb.     |
-| Studded leather    | 45 gp    | 12 + Dex modifier         | -            | -            | 13 lb.     |
+| Padded             | 5 gp     | 11 + Dex modifier         | -            | Disadvantage | 4.0kg      |
+| Leather            | 10 gp    | 11 + Dex modifier         | -            | -            | 5.0kg     |
+| Studded leather    | 45 gp    | 12 + Dex modifier         | -            | -            | 6.5kg     |
 | ***Medium Armor*** |          |                           |              |              |            |
-| Hide               | 10 gp    | 12 + Dex modifier (max 2) | -            | -            | 12 lb.     |
-| Chain shirt        | 50 gp    | 13 + Dex modifier (max 2) | -            | -            | 20 lb.     |
-| Scale mail         | 50 gp    | 14 + Dex modifier (max 2) | -            | Disadvantage | 45 lb.     |
-| Breastplate        | 400 gp   | 14 + Dex modifier (max 2) | -            | -            | 20 lb.     |
-| Half plate         | 750 gp   | 15 + Dex modifier (max 2) | -            | Disadvantage | 40 lb.     |
+| Hide               | 10 gp    | 12 + Dex modifier (max 2) | -            | -            | 6.0kg     |
+| Chain shirt        | 50 gp    | 13 + Dex modifier (max 2) | -            | -            | 10.0kg     |
+| Scale mail         | 50 gp    | 14 + Dex modifier (max 2) | -            | Disadvantage | 22.5kg     |
+| Breastplate        | 400 gp   | 14 + Dex modifier (max 2) | -            | -            | 10.0kg     |
+| Half plate         | 750 gp   | 15 + Dex modifier (max 2) | -            | Disadvantage | 20.0kg     |
 | ***Heavy Armor***  |          |                           |              |              |            |
-| Ring mail          | 30 gp    | 14                        | -            | Disadvantage | 40 lb.     |
-| Chain mail         | 75 gp    | 16                        | Str 13       | Disadvantage | 55 lb.     |
-| Splint             | 200 gp   | 17                        | Str 15       | Disadvantage | 60 lb.     |
-| Plate              | 1,500 gp | 18                        | Str 15       | Disadvantage | 65 lb.     |
+| Ring mail          | 30 gp    | 14                        | -            | Disadvantage | 20.0kg     |
+| Chain mail         | 75 gp    | 16                        | Str 13       | Disadvantage | 27.5kg     |
+| Splint             | 200 gp   | 17                        | Str 15       | Disadvantage | 30.0kg     |
+| Plate              | 1,500 gp | 18                        | Str 15       | Disadvantage | 32.5kg     |
 | ***Shield***       |          |                           |              |              |            |
-| Shield             | 10 gp    | +2                        | -            | -            | 6 lb.      |
+| Shield             | 10 gp    | +2                        | -            | -            | 3.0kg      |
 
 ## Getting Into and Out of Armor
 
@@ -137,7 +137,7 @@ The time it takes to don or doff armor depends on the armor's category.
 
 Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
 
-The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 5 feet of you, whereas a **ranged weapon** is used to attack a target at a distance.
+The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 1.5m of you, whereas a **ranged weapon** is used to attack a target at a distance.
 
 ## Weapon Proficiency
 
@@ -161,9 +161,9 @@ If you use a weapon that has the ammunition property to make a melee attack, you
 
 ***Loading***. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
 
-***Range***. A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
+***Range***. A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in meters, and the second indicates the weapon's long range also in meters. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
 
-***Reach***. This weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it (see chapter 9).
+***Reach***. This weapon adds 1.5m to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it (see chapter 9).
 
 ***Special***. A weapon with the special property has unusual rules governing its use, explained in the weapon's description (see "Special Weapons" later in this section).
 
@@ -179,7 +179,7 @@ Sometimes characters don't have their weapons and have to attack with whatever i
 
 Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM's option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
 
-An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
+An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 6.0m and a long range of 18.0m.
 
 #### Silvered Weapons
 
@@ -189,7 +189,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 Weapons with special rules are described here.
 
-***Lance***. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
+***Lance***. You have disadvantage when you use a lance to attack a target within 1.5m of you. Also, a lance requires two hands to wield when you aren't mounted.
 
 ***Net***. A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
 
@@ -200,68 +200,68 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 | **Name**                     | **Cost** | **Damage**      | **Weight** | **Properties**                                         |
 | ---------------------------- | -------- | --------------- | ---------- | ------------------------------------------------------ |
 | ***Simple Melee Weapons***   |          |                 |            |                                                        |
-| Club                         | 1 sp     | 1d4 bludgeoning | 2 lb.      | Light                                                  |
-| Dagger                       | 2 gp     | 1d4 piercing    | 1 lb.      | Finesse, light, thrown (range 20/60)                   |
-| Greatclub                    | 2 sp     | 1d8 bludgeoning | 10 lb.     | Two-handed                                             |
-| Handaxe                      | 5 gp     | 1d6 slashing    | 2 lb.      | Light, thrown (range 20/60)                            |
-| Javelin                      | 5 sp     | 1d6 piercing    | 2 lb.      | Thrown (range 30/120)                                  |
-| Light hammer                 | 2 gp     | 1d4 bludgeoning | 2 lb.      | Light, thrown (range 20/60)                            |
-| Mace                         | 5 gp     | 1d6 bludgeoning | 4 lb.      | -                                                      |
-| Quarterstaff                 | 2 sp     | 1d6 bludgeoning | 4 lb.      | Versatile (1d8)                                        |
-| Sickle                       | 1 gp     | 1d4 slashing    | 2 lb.      | Light                                                  |
-| Spear                        | 1 gp     | 1d6 piercing    | 3 lb.      | Thrown (range 20/60), versatile (1d8)                  |
+| Club                         | 1 sp     | 1d4 bludgeoning | 1.0kg      | Light                                                  |
+| Dagger                       | 2 gp     | 1d4 piercing    | 0.5kg      | Finesse, light, thrown (range 6.0m/18.0m)                   |
+| Greatclub                    | 2 sp     | 1d8 bludgeoning | 5.0kg     | Two-handed                                             |
+| Handaxe                      | 5 gp     | 1d6 slashing    | 1.0kg      | Light, thrown (range 6.0m/18.0m)                            |
+| Javelin                      | 5 sp     | 1d6 piercing    | 1.0kg      | Thrown (range 9.0m/36.0m)                                  |
+| Light hammer                 | 2 gp     | 1d4 bludgeoning | 1.0kg      | Light, thrown (range 6.0m/18.0m)                            |
+| Mace                         | 5 gp     | 1d6 bludgeoning | 2.0kg      | -                                                      |
+| Quarterstaff                 | 2 sp     | 1d6 bludgeoning | 2.0kg      | Versatile (1d8)                                        |
+| Sickle                       | 1 gp     | 1d4 slashing    | 1.0kg      | Light                                                  |
+| Spear                        | 1 gp     | 1d6 piercing    | 1.5kg      | Thrown (range 6.0m/18.0m), versatile (1d8)                  |
 | ***Simple Ranged Weapons***  |          |                 |            |                                                        |
-| Crossbow, light              | 25 gp    | 1d8 piercing    | 5 lb.      | Ammunition (range 80/320), loading, two-handed         |
-| Dart                         | 5 cp     | 1d4 piercing    | 1/4 lb.    | Finesse, thrown (range 20/60)                          |
-| Shortbow                     | 25 gp    | 1d6 piercing    | 2 lb.      | Ammunition (range 80/320), two-handed                  |
-| Sling                        | 1 sp     | 1d4 bludgeoning | -          | Ammunition (range 30/120)                              |
+| Crossbow, light              | 25 gp    | 1d8 piercing    | 2.5kg      | Ammunition (range 24.0m/96.0m), loading, two-handed         |
+| Dart                         | 5 cp     | 1d4 piercing    | 0.125kg    | Finesse, thrown (range 6.0m/18.0m)                          |
+| Shortbow                     | 25 gp    | 1d6 piercing    | 1.0kg      | Ammunition (range 24.0m/96.0m), two-handed                  |
+| Sling                        | 1 sp     | 1d4 bludgeoning | -          | Ammunition (range 9.0m/36.0m)                              |
 | ***Martial Melee Weapons***  |          |                 |            |                                                        |
-| Battleaxe                    | 10 gp    | 1d8 slashing    | 4 lb.      | Versatile (1d10)                                       |
-| Flail                        | 10 gp    | 1d8 bludgeoning | 2 lb.      | -                                                      |
-| Glaive                       | 20 gp    | 1d10 slashing   | 6 lb.      | Heavy, reach, two-handed                               |
-| Greataxe                     | 30 gp    | 1d12 slashing   | 7 lb.      | Heavy, two-handed                                      |
-| Greatsword                   | 50 gp    | 2d6 slashing    | 6 lb.      | Heavy, two-handed                                      |
-| Halberd                      | 20 gp    | 1d10 slashing   | 6 lb.      | Heavy, reach, two-handed                               |
-| Lance                        | 10 gp    | 1d12 piercing   | 6 lb.      | Reach, special                                         |
-| Longsword                    | 15 gp    | 1d8 slashing    | 3 lb.      | Versatile (1d10)                                       |
-| Maul                         | 10 gp    | 2d6 bludgeoning | 10 lb.     | Heavy, two-handed                                      |
-| Morningstar                  | 15 gp    | 1d8 piercing    | 4 lb.      | -                                                      |
-| Pike                         | 5 gp     | 1d10 piercing   | 18 lb.     | Heavy, reach, two-handed                               |
-| Rapier                       | 25 gp    | 1d8 piercing    | 2 lb.      | Finesse                                                |
-| Scimitar                     | 25 gp    | 1d6 slashing    | 3 lb.      | Finesse, light                                         |
-| Shortsword                   | 10 gp    | 1d6 piercing    | 2 lb.      | Finesse, light                                         |
-| Trident                      | 5 gp     | 1d6 piercing    | 4 lb.      | Thrown (range 20/60), versatile (1d8)                  |
-| War pick                     | 5 gp     | 1d8 piercing    | 2 lb.      | -                                                      |
-| Warhammer                    | 15 gp    | 1d8 bludgeoning | 2 lb.      | Versatile (1d10)                                       |
-| Whip                         | 2 gp     | 1d4 slashing    | 3 lb.      | Finesse, reach                                         |
+| Battleaxe                    | 10 gp    | 1d8 slashing    | 2.0kg      | Versatile (1d10)                                       |
+| Flail                        | 10 gp    | 1d8 bludgeoning | 1.0kg      | -                                                      |
+| Glaive                       | 20 gp    | 1d10 slashing   | 3.0kg      | Heavy, reach, two-handed                               |
+| Greataxe                     | 30 gp    | 1d12 slashing   | 3.5kg      | Heavy, two-handed                                      |
+| Greatsword                   | 50 gp    | 2d6 slashing    | 3.0kg      | Heavy, two-handed                                      |
+| Halberd                      | 20 gp    | 1d10 slashing   | 3.0kg      | Heavy, reach, two-handed                               |
+| Lance                        | 10 gp    | 1d12 piercing   | 3.0kg      | Reach, special                                         |
+| Longsword                    | 15 gp    | 1d8 slashing    | 1.5kg      | Versatile (1d10)                                       |
+| Maul                         | 10 gp    | 2d6 bludgeoning | 5.0kg     | Heavy, two-handed                                      |
+| Morningstar                  | 15 gp    | 1d8 piercing    | 2.0kg      | -                                                      |
+| Pike                         | 5 gp     | 1d10 piercing   | 9.0kg     | Heavy, reach, two-handed                               |
+| Rapier                       | 25 gp    | 1d8 piercing    | 1.0kg      | Finesse                                                |
+| Scimitar                     | 25 gp    | 1d6 slashing    | 1.5kg      | Finesse, light                                         |
+| Shortsword                   | 10 gp    | 1d6 piercing    | 1.0kg      | Finesse, light                                         |
+| Trident                      | 5 gp     | 1d6 piercing    | 2.0kg      | Thrown (range 6.0m/18.0m), versatile (1d8)                  |
+| War pick                     | 5 gp     | 1d8 piercing    | 1.0kg      | -                                                      |
+| Warhammer                    | 15 gp    | 1d8 bludgeoning | 1.0kg      | Versatile (1d10)                                       |
+| Whip                         | 2 gp     | 1d4 slashing    | 1.5kg      | Finesse, reach                                         |
 | ***Martial Ranged Weapons*** |          |                 |            |                                                        |
-| Blowgun                      | 10 gp    | 1 piercing      | 1 lb.      | Ammunition (range 25/100), loading                     |
-| Crossbow, hand               | 75 gp    | 1d6 piercing    | 3 lb.      | Ammunition (range 30/120), light, loading              |
-| Crossbow, heavy              | 50 gp    | 1d10 piercing   | 18 lb.     | Ammunition (range 100/400), heavy, loading, two-handed |
-| Longbow                      | 50 gp    | 1d8 piercing    | 2 lb.      | Ammunition (range 150/600), heavy, two-handed          |
-| Net                          | 1 gp     | -               | 3 lb.      | Special, thrown (range 5/15)                           |
+| Blowgun                      | 10 gp    | 1 piercing      | 0.5kg      | Ammunition (range 7.5m/30.0m), loading                     |
+| Crossbow, hand               | 75 gp    | 1d6 piercing    | 1.5kg      | Ammunition (range 9.0m/36.0m), light, loading              |
+| Crossbow, heavy              | 50 gp    | 1d10 piercing   | 9.0kg     | Ammunition (range 30.0m/120.0m), heavy, loading, two-handed |
+| Longbow                      | 50 gp    | 1d8 piercing    | 1.0kg      | Ammunition (range 45.0m/180.0m), heavy, two-handed          |
+| Net                          | 1 gp     | -               | 1.5kg      | Special, thrown (range 1.5m/4.5m)                           |
 
 # Adventuring Gear
 
 This section describes items that have special rules or require further explanation.
 
-***Acid***. As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
+***Acid***. As an action, you can splash the contents of this vial onto a creature within 1.5m of you or throw the vial up to 6.0m, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
 
-***Alchemist's Fire***. This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+***Alchemist's Fire***. This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 6.0m, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
 
 ***Antitoxin***. A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.
 
 ***Arcane Focus***. An arcane focus is a special item-an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item- designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 
-***Ball Bearings***. As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the save.
+***Ball Bearings***. As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 3.0m on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the save.
 
 ***Block and Tackle***. A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
 
 ***Book***. A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).
 
-***Caltrops***. As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature's walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn't need to make the save.
+***Caltrops***. As an action, you can spread a bag of caltrops to cover a square area that is 1.5m on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature's walking speed by 3.0m until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn't need to make the save.
 
-***Candle***. For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
+***Candle***. For 1 hour, a candle sheds bright light in a 1.5m radius and dim light for an additional 1.5m.
 
 ***Case, Crossbow Bolt***. This wooden case can hold up to twenty crossbow bolts.
 
@@ -269,7 +269,7 @@ This section describes items that have special rules or require further explanat
 
 ***Chain***. A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.
 
-***Climber's Kit***. A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.
+***Climber's Kit***. A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 7.5m from the point where you anchored yourself, and you can't climb more than 7.5m away from that point without undoing the anchor.
 
 ***Component Pouch***. A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).
 
@@ -281,11 +281,11 @@ This section describes items that have special rules or require further explanat
 
 ***Holy Symbol***. A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. Appendix PH-B "Fantasy-Historical Pantheons" lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
 
-***Holy Water***. As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage. A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.
+***Holy Water***. As an action, you can splash the contents of this flask onto a creature within 1.5m of you or throw it up to 6.0m, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage. A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.
 
-***Hunting Trap***. When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
+***Hunting Trap***. When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 0.9m long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
 
-***Lamp***. A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. Lantern, Bullseye. A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. Lantern, Hooded. A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.
+***Lamp***. A lamp casts bright light in a 4.5m radius and dim light for an additional 9.0m. Once lit, it burns for 6 hours on a flask (0.5L) of oil. Lantern, Bullseye. A bullseye lantern casts bright light in a 18.0m cone and dim light for an additional 18.0m. Once lit, it burns for 6 hours on a flask (0.5L) of oil. Lantern, Hooded. A hooded lantern casts bright light in a 9.0m radius and dim light for an additional 9.0m. Once lit, it burns for 6 hours on a flask (0.5L) of oil. As an action, you can lower the hood, reducing the light to dim light in a 1.5m radius.
 
 ***Lock***. A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your GM may decide that better locks are available for higher prices.
 
@@ -295,7 +295,7 @@ This section describes items that have special rules or require further explanat
 
 ***Mess Kit***. This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.
 
-***Oil***. Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.
+***Oil***. Oil usually comes in a clay flask that holds 0.5L. As an action, you can splash the oil in this flask onto a creature within 1.5m of you or throw it up to 6.0m, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 1.5m square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.
 
 ***Poison, Basic***. You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
 
@@ -307,7 +307,7 @@ This section describes items that have special rules or require further explanat
 
 ***Rope***. Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.
 
-***Scale, Merchant's***. A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.
+***Scale, Merchant's***. A scale includes a small balance, pans, and a suitable assortment of weights up to 1.0kg. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.
 
 ***Spellbook***. Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.
 
@@ -317,21 +317,21 @@ This section describes items that have special rules or require further explanat
 
 ***Tinderbox***. This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch-or anything else with abundant, exposed fuel-takes an action. Lighting any other fire takes 1 minute.
 
-***Torch***. A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
+***Torch***. A torch burns for 1 hour, providing bright light in a 6.0m radius and dim light for an additional 6.0m. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 
 **Equipment Packs**
 
 > The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
 >
-> **Burglar's Pack (16 gp)**. Includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+> **Burglar's Pack (16 gp)**. Includes a backpack, a bag of 1,000 ball bearings, 3.0m of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, and a waterskin. The pack also has 15.0m of hempen rope strapped to the side of it.
 >
 > **Diplomat's Pack (39 gp)**. Includes a chest, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
 >
-> **Dungeoneer's Pack (12 gp)**. Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+> **Dungeoneer's Pack (12 gp)**. Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 15.0m of hempen rope strapped to the side of it.
 >
 > **Entertainer's Pack (40 gp)**. Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
 >
-> **Explorer's Pack (10 gp)**. Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+> **Explorer's Pack (10 gp)**. Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 15.0m of hempen rope strapped to the side of it.
 >
 > **Priest's Pack (19 gp)**. Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.
 >
@@ -341,129 +341,129 @@ This section describes items that have special rules or require further explanat
 
 | **Item**                     | **Cost** | **Weight**   |
 | ---------------------------- | -------- | ------------ |
-| Abacus                       | 2 gp     | 2 lb.        |
-| Acid (vial)                  | 25 gp    | 1 lb.        |
-| Alchemist's fire (flask)     | 50 gp    | 1 lb.        |
+| Abacus                       | 2 gp     | 1.0kg        |
+| Acid (vial)                  | 25 gp    | 0.5kg        |
+| Alchemist's fire (flask)     | 50 gp    | 0.5kg        |
 | ***Ammunition***             |          |              |
-| *- Arrows (20)*              | 1 gp     | 1 lb.        |
-| *- Blowgun needles (50)*     | 1 gp     | 1 lb.        |
-| *- Crossbow bolts (20)*      | 1 gp     | 1½ lb.       |
-| *- Sling bullets (20)*       | 4 cp     | 1½ lb.       |
+| *- Arrows (20)*              | 1 gp     | 0.5kg        |
+| *- Blowgun needles (50)*     | 1 gp     | 0.5kg        |
+| *- Crossbow bolts (20)*      | 1 gp     | 0.75kg       |
+| *- Sling bullets (20)*       | 4 cp     | 0.75kg       |
 | Antitoxin (vial)             | 50 gp    | -            |
 | ***Arcane focus***           |          |              |
-| *- Crystal*                  | 10 gp    | 1 lb.        |
-| *- Orb*                      | 20 gp    | 3 lb.        |
-| *- Rod*                      | 10 gp    | 2 lb.        |
-| *- Staff*                    | 5 gp     | 4 lb.        |
-| *- Wand*                     | 10 gp    | 1 lb.        |
-| Backpack                     | 2 gp     | 5 lb.        |
-| Ball bearings (bag of 1,000) | 1 gp     | 2 lb.        |
-| Barrel                       | 2 gp     | 70 lb.       |
-| Basket                       | 4 sp     | 2 lb.        |
-| Bedroll                      | 1 gp     | 7 lb.        |
+| *- Crystal*                  | 10 gp    | 0.5kg        |
+| *- Orb*                      | 20 gp    | 1.5kg        |
+| *- Rod*                      | 10 gp    | 1.0kg        |
+| *- Staff*                    | 5 gp     | 2.0kg        |
+| *- Wand*                     | 10 gp    | 0.5kg        |
+| Backpack                     | 2 gp     | 2.5kg        |
+| Ball bearings (bag of 1,000) | 1 gp     | 1.0kg        |
+| Barrel                       | 2 gp     | 35.0kg       |
+| Basket                       | 4 sp     | 1.0kg        |
+| Bedroll                      | 1 gp     | 3.5kg        |
 | Bell                         | 1 gp     | -            |
-| Blanket                      | 5 sp     | 3 lb.        |
-| Block and tackle             | 1 gp     | 5 lb.        |
-| Book                         | 25 gp    | 5 lb.        |
-| Bottle, glass                | 2 gp     | 2 lb.        |
-| Bucket                       | 5 cp     | 2 lb.        |
-| Caltrops (bag of 20)         | 1 gp     | 2 lb.        |
+| Blanket                      | 5 sp     | 1.5kg        |
+| Block and tackle             | 1 gp     | 2.5kg        |
+| Book                         | 25 gp    | 2.5kg        |
+| Bottle, glass                | 2 gp     | 1.0kg        |
+| Bucket                       | 5 cp     | 1.0kg        |
+| Caltrops (bag of 20)         | 1 gp     | 1.0kg        |
 | Candle                       | 1 cp     | -            |
-| Case, crossbow bolt          | 1 gp     | 1 lb.        |
-| Case, map or scroll          | 1 gp     | 1 lb.        |
-| Chain (10 feet)              | 5 gp     | 10 lb.       |
+| Case, crossbow bolt          | 1 gp     | 0.5kg        |
+| Case, map or scroll          | 1 gp     | 0.5kg        |
+| Chain (3.0m)              | 5 gp     | 5.0kg       |
 | Chalk (1 piece)              | 1 cp     | -            |
-| Chest                        | 5 gp     | 25 lb.       |
-| Climber's kit                | 25 gp    | 12 lb.       |
-| Clothes, common              | 5 sp     | 3 lb.        |
-| Clothes, costume             | 5 gp     | 4 lb.        |
-| Clothes, fine                | 15 gp    | 6 lb.        |
-| Clothes, traveler's          | 2 gp     | 4 lb.        |
-| Component pouch              | 25 gp    | 2 lb.        |
-| Crowbar                      | 2 gp     | 5 lb.        |
+| Chest                        | 5 gp     | 12.5kg       |
+| Climber's kit                | 25 gp    | 6.0kg       |
+| Clothes, common              | 5 sp     | 1.5kg        |
+| Clothes, costume             | 5 gp     | 2.0kg        |
+| Clothes, fine                | 15 gp    | 3.0kg        |
+| Clothes, traveler's          | 2 gp     | 2.0kg        |
+| Component pouch              | 25 gp    | 1.0kg        |
+| Crowbar                      | 2 gp     | 2.5kg        |
 | ***Druidic focus***          |          |              |
 | *- Sprig of mistletoe*       | 1 gp     | -            |
 | *- Totem*                    | 1 gp     | -            |
-| *- Wooden staff*             | 5 gp     | 4 lb.        |
-| *- Yew wand*                 | 10 gp    | 1 lb.        |
-| Fishing tackle               | 1 gp     | 4 lb.        |
-| Flask or tankard             | 2 cp     | 1 lb.        |
-| Grappling hook               | 2 gp     | 4 lb.        |
-| Hammer                       | 1 gp     | 3 lb.        |
-| Hammer, sledge               | 2 gp     | 10 lb.       |
-| Healer's kit                 | 5 gp     | 3 lb.        |
+| *- Wooden staff*             | 5 gp     | 2.0kg        |
+| *- Yew wand*                 | 10 gp    | 0.5kg        |
+| Fishing tackle               | 1 gp     | 2.0kg        |
+| Flask or tankard             | 2 cp     | 0.5kg        |
+| Grappling hook               | 2 gp     | 2.0kg        |
+| Hammer                       | 1 gp     | 1.5kg        |
+| Hammer, sledge               | 2 gp     | 5.0kg       |
+| Healer's kit                 | 5 gp     | 1.5kg        |
 | ***Holy symbol***            |          |              |
-| *- Amulet*                   | 5 gp     | 1 lb.        |
+| *- Amulet*                   | 5 gp     | 0.5kg        |
 | *- Emblem*                   | 5 gp     | -            |
-| *- Reliquary*                | 5 gp     | 2 lb.        |
-| Holy water (flask)           | 25 gp    | 1 lb.        |
-| Hourglass                    | 25 gp    | 1 lb.        |
-| Hunting trap                 | 5 gp     | 25 lb.       |
-| Ink (1 ounce bottle)         | 10 gp    | -            |
+| *- Reliquary*                | 5 gp     | 1.0kg        |
+| Holy water (flask)           | 25 gp    | 0.5kg        |
+| Hourglass                    | 25 gp    | 0.5kg        |
+| Hunting trap                 | 5 gp     | 12.5kg       |
+| Ink (25.0mL bottle)         | 10 gp    | -            |
 | Ink pen                      | 2 cp     | -            |
-| Jug or pitcher               | 2 cp     | 4 lb.        |
-| Ladder (10-foot)             | 1 sp     | 25 lb.       |
-| Lamp                         | 5 sp     | 1 lb.        |
-| Lantern, bullseye            | 10 gp    | 2 lb.        |
-| Lantern, hooded              | 5 gp     | 2 lb.        |
-| Lock                         | 10 gp    | 1 lb.        |
+| Jug or pitcher               | 2 cp     | 2.0kg        |
+| Ladder (3.0m)             | 1 sp     | 12.5kg       |
+| Lamp                         | 5 sp     | 0.5kg        |
+| Lantern, bullseye            | 10 gp    | 1.0kg        |
+| Lantern, hooded              | 5 gp     | 1.0kg        |
+| Lock                         | 10 gp    | 0.5kg        |
 | Magnifying glass             | 100 gp   | -            |
-| Manacles                     | 2 gp     | 6 lb.        |
-| Mess kit                     | 2 sp     | 1 lb.        |
-| Mirror, steel                | 5 gp     | 1/2 lb.      |
-| Oil (flask)                  | 1 sp     | 1 lb.        |
+| Manacles                     | 2 gp     | 3.0kg        |
+| Mess kit                     | 2 sp     | 0.5kg        |
+| Mirror, steel                | 5 gp     | 0.25kg      |
+| Oil (flask)                  | 1 sp     | 0.5kg        |
 | Paper (one sheet)            | 2 sp     | -            |
 | Parchment (one sheet)        | 1 sp     | -            |
 | Perfume (vial)               | 5 gp     | -            |
-| Pick, miner's                | 2 gp     | 10 lb.       |
-| Piton                        | 5 cp     | 1/4 lb.      |
+| Pick, miner's                | 2 gp     | 5.0kg       |
+| Piton                        | 5 cp     | 0.125kg      |
 | Poison, basic (vial)         | 100 gp   | -            |
-| Pole (10-foot)               | 5 cp     | 7 lb.        |
-| Pot, iron                    | 2 gp     | 10 lb.       |
-| Potion of healing 5          | 0 gp     | 1/2 lb.      |
-| Pouch                        | 5 sp     | 1 lb.        |
-| Quiver                       | 1 gp     | 1 lb.        |
-| Ram, portable                | 4 gp     | 35 lb.       |
-| Rations (1 day)              | 5 sp     | 2 lb.        |
-| Robes                        | 1 gp     | 4 lb.        |
-| Rope, hempen (50 feet)       | 1 gp     | 10 lb.       |
-| Rope, silk (50 feet)         | 10 gp    | 5 lb.        |
-| Sack                         | 1 cp     | 1/2 lb.      |
-| Scale, merchant's            | 5 gp     | 3 lb.        |
+| Pole (3.0m)               | 5 cp     | 3.5kg        |
+| Pot, iron                    | 2 gp     | 5.0kg       |
+| Potion of healing 5          | 0 gp     | 0.25kg      |
+| Pouch                        | 5 sp     | 0.5kg        |
+| Quiver                       | 1 gp     | 0.5kg        |
+| Ram, portable                | 4 gp     | 17.5kg       |
+| Rations (1 day)              | 5 sp     | 1.0kg        |
+| Robes                        | 1 gp     | 2.0kg        |
+| Rope, hempen (15.0m)       | 1 gp     | 5.0kg       |
+| Rope, silk (15.0m)         | 10 gp    | 2.5kg        |
+| Sack                         | 1 cp     | 0.25kg      |
+| Scale, merchant's            | 5 gp     | 1.5kg        |
 | Sealing wax                  | 5 sp     | -            |
-| Shovel                       | 2 gp     | 5 lb.        |
+| Shovel                       | 2 gp     | 2.5kg        |
 | Signal whistle               | 5 cp     | -            |
 | Signet ring                  | 5 gp     | -            |
 | Soap                         | 2 cp     | -            |
-| Spellbook                    | 50 gp    | 3 lb.        |
-| Spikes, iron (10)            | 1 gp     | 5 lb.        |
-| Spyglass                     | 1,000 gp | 1 lb.        |
-| Tent, two-person             | 2 gp     | 20 lb.       |
-| Tinderbox                    | 5 sp     | 1 lb.        |
-| Torch                        | 1 cp     | 1 lb.        |
+| Spellbook                    | 50 gp    | 1.5kg        |
+| Spikes, iron (10)            | 1 gp     | 2.5kg        |
+| Spyglass                     | 1,000 gp | 0.5kg        |
+| Tent, two-person             | 2 gp     | 10.0kg       |
+| Tinderbox                    | 5 sp     | 0.5kg        |
+| Torch                        | 1 cp     | 0.5kg        |
 | Vial                         | 1 gp     | -            |
-| Waterskin                    | 2 sp     | 5 lb. (full) |
-| Whetstone                    | 1 cp     | 1 lb.        |
+| Waterskin                    | 2 sp     | 2.5kg (full) |
+| Whetstone                    | 1 cp     | 0.5kg        |
 
 **Table** **40 - Equipment: Container Capacity**
 
 | **Container**    | **Capacity**                           |
 | ---------------- | -------------------------------------- |
-| Backpack*        | 1 cubic foot/30 pounds of gear         |
-| Barrel           | 40 gallons liquid, 4 cubic feet solid  |
-| Basket           | 2 cubic feet/40 pounds of gear         |
-| Bottle           | 1½ pints liquid                        |
-| Bucket           | 3 gallons liquid, 1/2 cubic foot solid |
-| Chest            | 12 cubic feet/300 pounds of gear       |
-| Flask or tankard | 1 pint liquid                          |
-| Jug or pitcher   | 1 gallon liquid                        |
-| Pot, iron        | 1 gallon liquid                        |
-| Pouch            | 1/5 cubic foot/6 pounds of gear        |
-| Sack             | 1 cubic foot/30 pounds of gear         |
-| Vial             | 4 ounces liquid                        |
-| Waterskin        | 4 pints liquid                         |
+| Backpack*        | 30.0L/15.0kg of gear         |
+| Barrel           | 160.0L liquid, 120.0L solid  |
+| Basket           | 60.0L/20.0kg of gear         |
+| Bottle           | 0.75L liquid                        |
+| Bucket           | 12.0L liquid, 15.0L solid |
+| Chest            | 360.0L/150.0kg of gear       |
+| Flask or tankard | 0.5L liquid                          |
+| Jug or pitcher   | 4.0L liquid                        |
+| Pot, iron        | 4.0L liquid                        |
+| Pouch            | 6.0L/3.0kg of gear        |
+| Sack             | 30.0L/15.0kg of gear         |
+| Vial             | 100.0mL liquid                        |
+| Waterskin        | 2.0L liquid                         |
 
-***** You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
+\* You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
 
 # Tools
 
@@ -474,46 +474,46 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 | **Item**                    | **Cost** | **Weight** |
 | --------------------------- | -------- | ---------- |
 | ***Artisan's tools***       |          |            |
-| *- Alchemist's supplies*    | 50 gp    | 8 lb.      |
-| *- Brewer's supplies*       | 20 gp    | 9 lb.      |
-| *- Calligrapher's supplies* | 10 gp    | 5 lb.      |
-| *- Carpenter's tools*       | 8 gp     | 6 lb.      |
-| *- Cartographer's tools*    | 15 gp    | 6 lb.      |
-| *- Cobbler's tools*         | 5 gp     | 5 lb.      |
-| *- Cook's utensils*         | 1 gp     | 8 lb.      |
-| *- Glassblower's tools*     | 30 gp    | 5 lb.      |
-| *- Jeweler's tools*         | 25 gp    | 2 lb.      |
-| *- Leatherworker's tools*   | 5 gp     | 5 lb.      |
-| *- Mason's tools*           | 10 gp    | 8 lb.      |
-| *- Painter's supplies*      | 10 gp    | 5 lb.      |
-| *- Potter's tools*          | 10 gp    | 3 lb.      |
-| *- Smith's tools*           | 20 gp    | 8 lb.      |
-| *- Tinker's tools*          | 50 gp    | 10 lb.     |
-| *- Weaver's tools*          | 1 gp     | 5 lb.      |
-| *- Woodcarver's tools*      | 1 gp     | 5 lb.      |
-| Disguise kit                | 25 gp    | 3 lb.      |
-| Forgery kit                 | 15 gp    | 5 lb.      |
+| *- Alchemist's supplies*    | 50 gp    | 4.0kg      |
+| *- Brewer's supplies*       | 20 gp    | 4.5kg      |
+| *- Calligrapher's supplies* | 10 gp    | 2.5kg      |
+| *- Carpenter's tools*       | 8 gp     | 3.0kg      |
+| *- Cartographer's tools*    | 15 gp    | 3.0kg      |
+| *- Cobbler's tools*         | 5 gp     | 2.5kg      |
+| *- Cook's utensils*         | 1 gp     | 4.0kg      |
+| *- Glassblower's tools*     | 30 gp    | 2.5kg      |
+| *- Jeweler's tools*         | 25 gp    | 1.0kg      |
+| *- Leatherworker's tools*   | 5 gp     | 2.5kg      |
+| *- Mason's tools*           | 10 gp    | 4.0kg      |
+| *- Painter's supplies*      | 10 gp    | 2.5kg      |
+| *- Potter's tools*          | 10 gp    | 1.5kg      |
+| *- Smith's tools*           | 20 gp    | 4.0kg      |
+| *- Tinker's tools*          | 50 gp    | 5.0kg     |
+| *- Weaver's tools*          | 1 gp     | 2.5kg      |
+| *- Woodcarver's tools*      | 1 gp     | 2.5kg      |
+| Disguise kit                | 25 gp    | 1.5kg      |
+| Forgery kit                 | 15 gp    | 2.5kg      |
 | ***Gaming set***            |          |            |
 | *- Dice set*                | 1 sp     | -          |
 | *- Playing card set*        | 5 sp     | -          |
-| Herbalism kit               | 5 gp     | 3 lb.      |
+| Herbalism kit               | 5 gp     | 1.5kg      |
 | ***Musical instrument***    |          |            |
-| *- Bagpipes*                | 30 gp    | 6 lb.      |
-| *- Drum*                    | 6 gp     | 3 lb.      |
-| *- Dulcimer*                | 25 gp    | 10 lb.     |
-| *- Flute*                   | 2 gp     | 1 lb.      |
-| *- Lute*                    | 35 gp    | 2 lb.      |
-| *- Lyre*                    | 30 gp    | 2 lb.      |
-| *- Horn*                    | 3 gp     | 2 lb.      |
-| *- Pan flute*               | 12 gp    | 2 lb.      |
-| *- Shawm*                   | 2 gp     | 1 lb.      |
-| *- Viol*                    | 30 gp    | 1 lb.      |
-| Navigator's tools           | 25 gp    | 2 lb.      |
-| Poisoner's kit              | 50 gp    | 2 lb.      |
-| Thieves' tools              | 25 gp    | 1 lb.      |
+| *- Bagpipes*                | 30 gp    | 3.0kg      |
+| *- Drum*                    | 6 gp     | 1.5kg      |
+| *- Dulcimer*                | 25 gp    | 5.0kg     |
+| *- Flute*                   | 2 gp     | 0.5kg      |
+| *- Lute*                    | 35 gp    | 1.0kg      |
+| *- Lyre*                    | 30 gp    | 1.0kg      |
+| *- Horn*                    | 3 gp     | 1.0kg      |
+| *- Pan flute*               | 12 gp    | 1.0kg      |
+| *- Shawm*                   | 2 gp     | 0.5kg      |
+| *- Viol*                    | 30 gp    | 0.5kg      |
+| Navigator's tools           | 25 gp    | 1.0kg      |
+| Poisoner's kit              | 50 gp    | 1.0kg      |
+| Thieves' tools              | 25 gp    | 0.5kg      |
 | Vehicles (land or water)    | *        | *          |
 
-***** See the "Mounts and Vehicles" section.
+\* See the "Mounts and Vehicles" section.
 
 ***Artisan's Tools***. These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
 
@@ -547,40 +547,40 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 
 ***Vehicle Proficiency***. If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances.
 
-***Rowed Vessels***. Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
+***Rowed Vessels***. Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 4.8km/h) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 50.0kg, in case adventurers carry it over land.
 
 **Table** **42 - Equipment: Mounts and Other Animals**
 
 | **Item**       | **Cost** | **Speed** | **Carrying Capacity** |
 | -------------- | -------- | --------- | --------------------- |
-| Camel          | 50 gp    | 50 ft.    | 480 lb.               |
-| Donkey or mule | 8 gp     | 40 ft.    | 420 lb.               |
-| Elephant       | 200 gp   | 40 ft.    | 1,320 lb.             |
-| Horse, draft   | 50 gp    | 40 ft.    | 540 lb.               |
-| Horse, riding  | 75 gp    | 60 ft.    | 480 lb.               |
-| Mastiff        | 25 gp    | 40 ft.    | 195 lb.               |
-| Pony           | 30 gp    | 40 ft.    | 225 lb.               |
-| Warhorse       | 400 gp   | 60 ft.    | 540 lb.               |
+| Camel          | 50 gp    | 15.0m    | 240.0kg               |
+| Donkey or mule | 8 gp     | 12.0m    | 210.0kg               |
+| Elephant       | 200 gp   | 12.0m    | 660.0kg             |
+| Horse, draft   | 50 gp    | 12.0m    | 270.0kg               |
+| Horse, riding  | 75 gp    | 18.0m    | 240.0kg               |
+| Mastiff        | 25 gp    | 12.0m    | 97.5kg               |
+| Pony           | 30 gp    | 12.0m    | 112.5kg               |
+| Warhorse       | 400 gp   | 18.0m    | 270.0kg               |
 
 **Table** **43 - Equipment: Tack, Harness, and Drawn Vehicles**
 
 | **Item**           | **Cost** | **Weight** |
 | ------------------ | -------- | ---------- |
 | Barding            | ×4       | ×2         |
-| Bit and bridle     | 2 gp     | 1 lb.      |
-| Carriage           | 100 gp   | 600 lb.    |
-| Cart               | 15 gp    | 200 lb.    |
-| Chariot            | 250 gp   | 100 lb.    |
-| Feed (per day)     | 5 cp     | 10 lb.     |
+| Bit and bridle     | 2 gp     | 0.5kg      |
+| Carriage           | 100 gp   | 300.0kg    |
+| Cart               | 15 gp    | 100.0kg    |
+| Chariot            | 250 gp   | 50.0kg    |
+| Feed (per day)     | 5 cp     | 5.0kg     |
 | ***Saddle***       |          |            |
-| *- Exotic*         | 60 gp    | 40 lb.     |
-| *- Military*       | 20 gp    | 30 lb.     |
-| *- Pack*           | 5 gp     | 15 lb.     |
-| *- Riding*         | 10 gp    | 25 lb.     |
-| Saddlebags         | 4 gp     | 8 lb.      |
-| Sled               | 20 gp    | 300 lb.    |
+| *- Exotic*         | 60 gp    | 20.0kg     |
+| *- Military*       | 20 gp    | 15.0kg     |
+| *- Pack*           | 5 gp     | 7.5kg     |
+| *- Riding*         | 10 gp    | 12.5kg     |
+| Saddlebags         | 4 gp     | 4.0kg      |
+| Sled               | 20 gp    | 150.0kg    |
 | Stabling (per day) | 5 sp     | -          |
-| Wagon              | 35 gp    | 400 lb.    |
+| Wagon              | 35 gp    | 200.0kg    |
 
 **Table** **44 - Equipment: Waterborne Vehicles**
 
@@ -603,19 +603,21 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 
 | **Cost** | **Goods**                                    |
 | -------- | -------------------------------------------- |
-| 1 cp     | 1 lb. of wheat                               |
-| 2 cp     | 1 lb. of flour or one chicken                |
-| 5 cp     | 1 lb. of salt                                |
-| 1 sp     | 1 lb. of iron or 1 sq. yd. of canvas         |
-| 5 sp     | 1 lb. of copper or 1 sq. yd. of cotton cloth |
-| 1 gp     | 1 lb. of ginger or one goat                  |
-| 2 gp     | 1 lb. of cinnamon or pepper, or one sheep    |
-| 3 gp     | 1 lb. of cloves or one pig                   |
-| 5 gp     | 1 lb. of silver or 1 sq. yd. of linen        |
-| 10 gp    | 1 sq. yd. of silk or one cow                 |
-| 15 gp    | 1 lb. of saffron or one ox                   |
-| 50 gp    | 1 lb. of gold                                |
-| 500 gp   | 1 lb. of platinum                            |
+| 2 cp     | 1kg of wheat or one chicken                |
+| 4 cp     | 1kg of flour                               |
+| 1 sp     | 1kg of salt or 1m² of canvas               |
+| 2 sp     | 1kg of iron or 1m² of cotton cloth         |
+| 1 gp     | 1kg of copper or one goat                  |
+| 2 gp     | 1kg of ginger or one sheep                  |
+| 3 gp     | one pig                   |
+| 4 gp     | 1kg of cinnamon or pepper                  |
+| 5 gp     | 1m² of linen        |
+| 6 gp     | 1kg of cloves                              |
+| 10 gp     | 1kg of silver, 1m² of silk or one cow             |
+| 15 gp    | one ox                                 |
+| 30 gp    | 1kg of saffron                             |
+| 100 gp    | 1kg of gold                                |
+| 1000 gp   | 1kg of platinum                            |
 
 # Expenses
 
@@ -709,14 +711,14 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 | **Service Pay**   | **Pay**       |
 | ----------------- | ------------- |
 | ***Coach cab***   |               |
-| *- Between towns* | 3 cp per mile |
+| *- Between towns* | 2 cp per km |
 | *- Within a city* | 1 cp          |
 | ***Hireling***    |               |
 | *- Skilled*       | 2 gp per day  |
 | *- Untrained*     | 2 sp per day  |
-| Messenger         | 2 cp per mile |
+| Messenger         | 1 cp per km |
 | Road or gate toll | 1 cp          |
-| Ship's passage    | 1 sp per mile |
+| Ship's passage    | 6 cp per km |
 
 ## Spellcasting Services
 

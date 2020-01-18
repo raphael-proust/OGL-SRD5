@@ -10,7 +10,7 @@ This section contains statistics for various humanoid non-player characters (NPC
 
 There are many easy ways to customize the NPCs in this appendix for your home campaign.
 
-***Racial Traits***. You can add racial traits to an NPC. For example, a halfling druid might have a speed of 25 feet and the Lucky trait. Adding racial traits to an NPC doesn't alter its challenge rating. For more on racial traits, see the *Player's Handbook*.
+***Racial Traits***. You can add racial traits to an NPC. For example, a halfling druid might have a speed of 7.5m and the Lucky trait. Adding racial traits to an NPC doesn't alter its challenge rating. For more on racial traits, see the *Player's Handbook*.
 
 ***Spell Swaps***. One way to customize an NPC spellcaster is to replace one or more of its spells. You can substitute any spell on the NPC's spell list with a different spell of the same level from the same spell list. Swapping spells in this manner doesn't alter an NPC's challenge rating.
 
@@ -26,7 +26,7 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 
 **Hit Points** 9 (2d8)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -48,7 +48,7 @@ Cantrips (at will): *light, sacred flame, thaumaturgy*
 
 ###### Actions
 
-***Club***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+***Club***. *Melee Weapon Attack:* +2 to hit, reach 1.5m, one target. *Hit:* 2 (1d4) bludgeoning damage.
 
 **Acolytes** are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities.
 
@@ -60,7 +60,7 @@ Cantrips (at will): *light, sacred flame, thaumaturgy*
 
 **Hit Points** 99 (18d8 + 18)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -106,7 +106,7 @@ Cantrips (at will): *fire bolt, light, mage hand, prestidigitation, shocking gra
 
 ###### Actions
 
-***Dagger***. *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
+***Dagger***. *Melee or Ranged Weapon Attack:* +6 to hit, reach 1.5m or range 6.0m/18.0m, one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
 **Archmages** are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their magic without interruption.
 
@@ -120,7 +120,7 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 
 **Hit Points** 78 (12d8 + 24)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -142,15 +142,15 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 
 ***Evasion***. If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-***Sneak Attack***. Once per turn, the assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.
+***Sneak Attack***. Once per turn, the assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 1.5m of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.
 
 ###### Actions
 
 ***Multiattack***. The assassin makes two shortsword attacks.
 
-***Shortsword***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+***Shortsword***. *Melee Weapon Attack:* +6 to hit, reach 1.5m, one target. *Hit:* 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 
-***Light Crossbow***. *Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+***Light Crossbow***. *Ranged Weapon Attack:* +6 to hit, range 24.0m/96.0m, one target. *Hit:* 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 
 Trained in the use of poison, **assassins** are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
 
@@ -162,7 +162,7 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 **Hit Points** 11 (2d8 + 2)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -176,9 +176,9 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 ###### Actions
 
-***Scimitar***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
+***Scimitar***. *Melee Weapon Attack:* +3 to hit, reach 1.5m, one target. *Hit:* 4 (1d6 + 1) slashing damage.
 
-***Light Crossbow***. *Ranged Weapon Attack:* +3 to hit, range 80 ft./320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
+***Light Crossbow***. *Ranged Weapon Attack:* +3 to hit, range 24.0m/96.0m, one target. *Hit:* 5 (1d8 + 1) piercing damage.
 
 **Bandits** rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
 
@@ -192,7 +192,7 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 **Hit Points** 65 (10d8 + 20)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -212,9 +212,9 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 ***Multiattack***. The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
 
-***Scimitar***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
+***Scimitar***. *Melee Weapon Attack:* +5 to hit, reach 1.5m, one target. *Hit:* 6 (1d6 + 3) slashing damage.
 
-***Dagger***. *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d4 + 2) piercing damage.
+***Dagger***. *Melee or Ranged Weapon Attack:* +5 to hit, reach 1.5m or range 6.0m/18.0m, one target. *Hit:* 5 (1d4 + 2) piercing damage.
 
 ###### Reactions
 
@@ -234,7 +234,7 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 
 **Hit Points** 67 (9d8 + 27)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -250,7 +250,7 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 
 ###### Actions
 
-***Greataxe***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12 + 3) slashing damage.
+***Greataxe***. *Melee Weapon Attack:* +5 to hit, reach 1.5m, one target. *Hit:* 9 (1d12 + 3) slashing damage.
 
 Hailing from uncivilized lands, unpredictable **berserkers** come together in war parties and seek conflict wherever they can find it.
 
@@ -262,7 +262,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 **Hit Points** 4 (1d8)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -276,7 +276,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 ###### Actions
 
-***Club***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+***Club***. *Melee Weapon Attack:* +2 to hit, reach 1.5m, one target. *Hit:* 2 (1d4) bludgeoning damage.
 
 **Commoners** include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 
@@ -288,7 +288,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 **Hit Points** 9 (2d8)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -306,7 +306,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 ###### Actions
 
-***Scimitar***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (1d6 + 1) slashing damage.
+***Scimitar***. *Melee Weapon Attack:* +3 to hit, reach 1.5m, one creature. *Hit:* 4 (1d6 + 1) slashing damage.
 
 **Cultists** swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
 
@@ -318,7 +318,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 **Hit Points** 33 (6d8 + 6)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -346,7 +346,7 @@ Cantrips (at will): *light, sacred flame, thaumaturgy*
 
 ***Multiattack***. The fanatic makes two melee attacks.
 
-***Dagger***. *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage.
+***Dagger***. *Melee or Ranged Weapon Attack:* +4 to hit, reach 1.5m or range 6.0m/18.0m, one creature. *Hit:* 4 (1d4 + 2) piercing damage.
 
 **Fanatics** are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else.
 
@@ -358,7 +358,7 @@ Cantrips (at will): *light, sacred flame, thaumaturgy*
 
 **Hit Points** 27 (5d8 + 5)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -382,7 +382,7 @@ Cantrips (at will): *druidcraft, produce flame, shillelagh*
 
 ###### Actions
 
-***Quarterstaff***. *Melee Weapon Attack:* +2 to hit (+4 to hit with *shillelagh*), reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with *shillelagh*.
+***Quarterstaff***. *Melee Weapon Attack:* +2 to hit (+4 to hit with *shillelagh*), reach 1.5m, one target. *Hit:* 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with *shillelagh*.
 
 **Druids** dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are **tribal shamans** who heal the sick, pray to animal spirits, and provide spiritual guidance.
 
@@ -394,7 +394,7 @@ Cantrips (at will): *druidcraft, produce flame, shillelagh*
 
 **Hit Points** 112 (15d8 + 45)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -418,9 +418,9 @@ Cantrips (at will): *druidcraft, produce flame, shillelagh*
 
 ***Multiattack***. The gladiator makes three melee attacks or two ranged attacks.
 
-***Spear***. *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. and range 20/60 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
+***Spear***. *Melee or Ranged Weapon Attack:* +7 to hit, reach 1.5m and range 6.0m/18.0m, one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
 
-***Shield Bash***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+***Shield Bash***. *Melee Weapon Attack:* +7 to hit, reach 1.5m, one creature. *Hit:* 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
 ###### Reactions
 
@@ -436,7 +436,7 @@ Cantrips (at will): *druidcraft, produce flame, shillelagh*
 
 **Hit Points** 11 (2d8 + 2)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -452,7 +452,7 @@ Cantrips (at will): *druidcraft, produce flame, shillelagh*
 
 ###### Actions
 
-***Spear***. *Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+***Spear***. *Melee or Ranged Weapon Attack:* +3 to hit, reach 1.5m or range 6.0m/18.0m, one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 **Guards** include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.
 
@@ -464,7 +464,7 @@ Cantrips (at will): *druidcraft, produce flame, shillelagh*
 
 **Hit Points** 52 (8d8 + 16)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -484,11 +484,11 @@ Cantrips (at will): *druidcraft, produce flame, shillelagh*
 
 ***Multiattack***. The knight makes two melee attacks.
 
-***Greatsword***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
+***Greatsword***. *Melee Weapon Attack:* +5 to hit, reach 1.5m, one target. *Hit:* 10 (2d6 + 3) slashing damage.
 
-***Heavy Crossbow***. *Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:* 5 (1d10) piercing damage.
+***Heavy Crossbow***. *Ranged Weapon Attack:* +2 to hit, range 30.0m/120.0m, one target. *Hit:* 5 (1d10) piercing damage.
 
-***Leadership (Recharges after a Short or Long Rest)***. For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
+***Leadership (Recharges after a Short or Long Rest)***. For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 9.0m of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
 
 ###### Reactions
 
@@ -504,7 +504,7 @@ Cantrips (at will): *druidcraft, produce flame, shillelagh*
 
 **Hit Points** 40 (9d8)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -536,7 +536,7 @@ Cantrips (at will): *fire bolt, light, mage hand, prestidigitation*
 
 ###### Actions
 
-***Dagger***. *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d4 + 1) piercing damage.
+***Dagger***. *Melee or Ranged Weapon Attack:* +5 to hit, reach 1.5m or range 6.0m/18.0m, one target. *Hit:* 4 (1d4 + 1) piercing damage.
 
 **Mages** spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
 
@@ -548,7 +548,7 @@ Cantrips (at will): *fire bolt, light, mage hand, prestidigitation*
 
 **Hit Points** 9 (2d8)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -564,7 +564,7 @@ Cantrips (at will): *fire bolt, light, mage hand, prestidigitation*
 
 ###### Actions
 
-***Rapier***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
+***Rapier***. *Melee Weapon Attack:* +3 to hit, reach 1.5m, one target. *Hit:* 5 (1d8 + 1) piercing damage.
 
 ###### Reactions
 
@@ -582,7 +582,7 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 
 **Hit Points** 27 (5d8 + 5)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -610,7 +610,7 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 
 ###### Actions
 
-***Mace***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage.
+***Mace***. *Melee Weapon Attack:* +2 to hit, reach 1.5m, one target. *Hit:* 3 (1d6) bludgeoning damage.
 
 **Priests** bring the teachings of their gods to the common folk. They are the spiritual leaders of temples and shrines and often hold positions of influence in their communities. Evil priests might work openly under a tyrant, or they might be the leaders of religious sects hidden in the shadows of good society, overseeing depraved rites.
 
@@ -624,7 +624,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 **Hit Points** 16 (3d8 + 3)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -644,9 +644,9 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 ***Multiattack***. The scout makes two melee attacks or two ranged attacks.
 
-***Shortsword***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+***Shortsword***. *Melee Weapon Attack:* +4 to hit, reach 1.5m, one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
-***Longbow***. *Ranged Weapon Attack:* +4 to hit, ranged 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+***Longbow***. *Ranged Weapon Attack:* +4 to hit, ranged 45.0m/180.0m, one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
 **Scouts** are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
 
@@ -658,7 +658,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 **Hit Points** 27 (6d8)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -674,15 +674,15 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 ***Cunning Action***. On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.
 
-***Sneak Attack (1/Turn)***. The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
+***Sneak Attack (1/Turn)***. The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 1.5m of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
 
 ###### Actions
 
 ***Multiattack***. The spy makes two melee attacks.
 
-***Shortsword***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+***Shortsword***. *Melee Weapon Attack:* +4 to hit, reach 1.5m, one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
-***Hand Crossbow***. *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+***Hand Crossbow***. *Ranged Weapon Attack:* +4 to hit, range 9.0m/36.0m, one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
 Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spies** to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers.
 
@@ -694,7 +694,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 **Hit Points** 32 (5d8 + 10)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -708,15 +708,15 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 **Challenge** 1/2 (100 XP)
 
-***Pack Tactics***. The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't incapacitated.
+***Pack Tactics***. The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 1.5m of the creature and the ally isn't incapacitated.
 
 ###### Actions
 
 ***Multiattack***. The thug makes two melee attacks.
 
-***Mace***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6 + 2) bludgeoning damage.
+***Mace***. *Melee Weapon Attack:* +4 to hit, reach 1.5m, one creature. *Hit:* 5 (1d6 + 2) bludgeoning damage.
 
-***Heavy Crossbow***. *Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:* 5 (1d10) piercing damage.
+***Heavy Crossbow***. *Ranged Weapon Attack:* +2 to hit, range 30.0m/120.0m, one target. *Hit:* 5 (1d10) piercing damage.
 
 **Thugs** are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
 
@@ -728,7 +728,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 **Hit Points** 11 (2d8 + 2)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -740,11 +740,11 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 **Challenge** 1/8 (25 XP)
 
-***Pack Tactics***. The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
+***Pack Tactics***. The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 1.5m of the creature and the ally isn't incapacitated.
 
 ###### Actions
 
-***Spear***. *Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+***Spear***. *Melee or Ranged Weapon Attack:* +3 to hit, reach 1.5m or range 6.0m/18.0m, one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 **Tribal warriors** live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods.
 
@@ -756,7 +756,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 **Hit Points** 58 (9d8 + 18)
 
-**Speed** 30 ft.
+**Speed** 9.0m
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -774,10 +774,10 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 ***Multiattack***. The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 
-***Longsword***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+***Longsword***. *Melee Weapon Attack:* +5 to hit, reach 1.5m, one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 
-***Shortsword***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
+***Shortsword***. *Melee Weapon Attack:* +5 to hit, reach 1.5m, one target. *Hit:* 6 (1d6 + 3) piercing damage.
 
-***Heavy Crossbow***. *Ranged Weapon Attack:* +3 to hit, range 100/400 ft., one target. *Hit:* 6 (1d10 + 1) piercing damage.
+***Heavy Crossbow***. *Ranged Weapon Attack:* +3 to hit, range 30.0m/120.0m, one target. *Hit:* 6 (1d10 + 1) piercing damage.
 
 **Veterans** are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.

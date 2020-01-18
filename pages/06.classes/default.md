@@ -111,7 +111,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 ### Fast Movement
 
-Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor.
+Starting at 5th level, your speed increases by 3m while you aren't wearing heavy armor.
 
 ### Feral Instinct
 
@@ -159,13 +159,13 @@ Beginning at 6th level, you can't be charmed or frightened while raging. If you 
 
 ##### Intimidating Presence
 
-Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.
+Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 9m of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 18m away from you.
 
 If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours.
 
 ##### Retaliation
 
-Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
+Starting at 14th level, when you take damage from a creature that is within 1.5m of you, you can use your reaction to make a melee weapon attack against that creature.
 
 # Bard
 
@@ -272,7 +272,7 @@ You can use a musical instrument (see chapter 5, "Equipment") as a spellcasting 
 
 ### Bardic Inspiration
 
-You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.
+You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 18m of you who can hear you. That creature gains one Bardic Inspiration die, a d6.
 
 Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.
 
@@ -310,7 +310,7 @@ Beginning when you reach 5th level, you regain all of your expended uses of Bard
 
 ### Countercharm
 
-At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
+At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 9m of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
 
 ### Magical Secrets
 
@@ -340,7 +340,7 @@ When you join the College of Lore at 3rd level, you gain proficiency with three 
 
 ##### Cutting Words
 
-Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can't hear you or if it's immune to being charmed.
+Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 18m of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can't hear you or if it's immune to being charmed.
 
 ##### Additional Magical Secrets
 
@@ -471,9 +471,9 @@ Beginning at 6th level, you can use your Channel Divinity twice between rests, a
 
 #### Channel Divinity: Turn Undead
 
-As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
+As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 9m of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 9m of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ### Ability Score Improvement
 
@@ -531,7 +531,7 @@ Also starting at 1st level, your healing spells are more effective. Whenever you
 
 Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
 
-As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
+As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 9m of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
 
 ##### Blessed Healer
 
@@ -892,7 +892,7 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 
 #### Protection
 
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+When a creature you can see attacks a target other than you that is within 1.5m of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
 #### Two-Weapon Fighting
 
@@ -944,7 +944,7 @@ Beginning when you choose this archetype at 3rd level, your weapon attacks score
 
 Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
 
-In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
+In addition, when you make a running long jump, the distance you can cover increases by 0.3m times your Strength modifier.
 
 ##### Additional Fighting Style
 
@@ -999,25 +999,25 @@ You start with the following equipment, in addition to the equipment granted by 
 | **Level** | **Proficiency Bonus** | **Martial Arts** | **Ki Points** | **Unarmored Movement** | **Features**                                     |
 | --------- | --------------------- | ---------------- | ------------- | ---------------------- | ------------------------------------------------ |
 | 1st       | +2                    | 1d4              | -             | -                      | Unarmored Defense, Martial Arts                  |
-| 2nd       | +2                    | 1d4              | 2             | +10 ft.                | Ki, Unarmored Movement                           |
-| 3rd       | +2                    | 1d4              | 3             | +10 ft.                | Monastic Tradition, Deflect Missiles             |
-| 4th       | +2                    | 1d4              | 4             | +10 ft.                | Ability Score Improvement, Slow Fall             |
-| 5th       | +3                    | 1d6              | 5             | +10 ft.                | Extra Attack, Stunning Strike                    |
-| 6th       | +3                    | 1d6              | 6             | +15 ft.                | Ki-Empowered Strikes, Monastic Tradition Feature |
-| 7th       | +3                    | 1d6              | 7             | +15 ft.                | Evasion, Stillness of Mind                       |
-| 8th       | +3                    | 1d6              | 8             | +15 ft.                | Ability Score Improvement                        |
-| 9th       | +4                    | 1d6              | 9             | +15 ft.                | Unarmored Movement improvement                   |
-| 10th      | +4                    | 1d6              | 10            | +20 ft.                | Purity of Body                                   |
-| 11th      | +4                    | 1d8              | 11            | +20 ft.                | Monastic Tradition Feature                       |
-| 12th      | +4                    | 1d8              | 12            | +20 ft.                | Ability Score Improvement                        |
-| 13th      | +5                    | 1d8              | 13            | +20 ft.                | Tongue of the Sun and Moon                       |
-| 14th      | +5                    | 1d8              | 14            | +25 ft.                | Diamond Soul                                     |
-| 15th      | +5                    | 1d8              | 15            | +25 ft.                | Timeless Body                                    |
-| 16th      | +5                    | 1d8              | 16            | +25 ft.                | Ability Score Improvement                        |
-| 17th      | +6                    | 1d10             | 17            | +25 ft.                | Monastic Tradition Feature                       |
-| 18th      | +6                    | 1d10             | 18            | +30 ft.                | Empty Body                                       |
-| 19th      | +6                    | 1d10             | 19            | +30 ft.                | Ability Score Improvement                        |
-| 20th      | +6                    | 1d10             | 20            | +30 ft.                | Perfect Self                                     |
+| 2nd       | +2                    | 1d4              | 2             | +3m                    | Ki, Unarmored Movement                           |
+| 3rd       | +2                    | 1d4              | 3             | +3m                    | Monastic Tradition, Deflect Missiles             |
+| 4th       | +2                    | 1d4              | 4             | +3m                    | Ability Score Improvement, Slow Fall             |
+| 5th       | +3                    | 1d6              | 5             | +3m                    | Extra Attack, Stunning Strike                    |
+| 6th       | +3                    | 1d6              | 6             | +4.5m                  | Ki-Empowered Strikes, Monastic Tradition Feature |
+| 7th       | +3                    | 1d6              | 7             | +4.5m                  | Evasion, Stillness of Mind                       |
+| 8th       | +3                    | 1d6              | 8             | +4.5m                  | Ability Score Improvement                        |
+| 9th       | +4                    | 1d6              | 9             | +4.5m                  | Unarmored Movement improvement                   |
+| 10th      | +4                    | 1d6              | 10            | +6m                    | Purity of Body                                   |
+| 11th      | +4                    | 1d8              | 11            | +6m                    | Monastic Tradition Feature                       |
+| 12th      | +4                    | 1d8              | 12            | +6m                    | Ability Score Improvement                        |
+| 13th      | +5                    | 1d8              | 13            | +6m                    | Tongue of the Sun and Moon                       |
+| 14th      | +5                    | 1d8              | 14            | +7.5m                  | Diamond Soul                                     |
+| 15th      | +5                    | 1d8              | 15            | +7.5m                  | Timeless Body                                    |
+| 16th      | +5                    | 1d8              | 16            | +7.5m                  | Ability Score Improvement                        |
+| 17th      | +6                    | 1d10             | 17            | +7.5m                  | Monastic Tradition Feature                       |
+| 18th      | +6                    | 1d10             | 18            | +9m                    | Empty Body                                       |
+| 19th      | +6                    | 1d10             | 19            | +9m                    | Ability Score Improvement                        |
+| 20th      | +6                    | 1d10             | 20            | +9m                    | Perfect Self                                     |
 
 ### Unarmored Defense
 
@@ -1063,7 +1063,7 @@ You can spend 1 ki point to take the Disengage or Dash action as a bonus action 
 
 ### Unarmored Movement
 
-Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.
+Starting at 2nd level, your speed increases by 3m while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.
 
 At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
 
@@ -1075,7 +1075,7 @@ When you reach 3rd level, you commit yourself to a monastic tradition: the Way o
 
 Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.
 
-If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet.
+If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 6m and a long range of 18m.
 
 ### Ability Score Improvement
 
@@ -1147,7 +1147,7 @@ Starting when you choose this tradition at 3rd level, you can manipulate your en
 
   - It must succeed on a Dexterity saving throw or be knocked prone.
 
-  - It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
+  - It must make a Strength saving throw. If it fails, you can push it up to 4.5m away from you.
 
   - It can't take reactions until the end of your next turn.
 
@@ -1230,7 +1230,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Divine Sense
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *hallow* spell.
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 18m of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *hallow* spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
@@ -1262,7 +1262,7 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 
 #### Protection
 
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+When a creature you can see attacks a target other than you that is within 1.5m of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
 ### Spellcasting
 
@@ -1328,15 +1328,15 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 ### Aura of Protection
 
-Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.
+Starting at 6th level, whenever you or a friendly creature within 3m of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.
 
-At 18th level, the range of this aura increases to 30 feet.
+At 18th level, the range of this aura increases to 9m.
 
 ### Aura of Courage
 
-Starting at 10th level, you and friendly creatures within 10 feet of you can't be frightened while you are conscious.
+Starting at 10th level, you and friendly creatures within 3m of you can't be frightened while you are conscious.
 
-At 18th level, the range of this aura increases to 30 feet.
+At 18th level, the range of this aura increases to 9m.
 
 ### Improved Divine Smite
 
@@ -1388,19 +1388,19 @@ You gain oath spells at the paladin levels listed.
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-***Sacred Weapon***. As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.
+***Sacred Weapon***. As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 6m radius and dim light 6m beyond that. If the weapon is not already magical, it becomes magical for the duration.
 
 You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
 
-***Turn the Unholy***. As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
+***Turn the Unholy***. As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 9m of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 9m of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ##### Aura of Devotion
 
-Starting at 7th level, you and friendly creatures within 10 feet of you can't be charmed while you are conscious.
+Starting at 7th level, you and friendly creatures within 3m of you can't be charmed while you are conscious.
 
-At 18th level, the range of this aura increases to 30 feet.
+At 18th level, the range of this aura increases to 9m.
 
 ##### Purity of Spirit
 
@@ -1408,7 +1408,7 @@ Beginning at 15th level, you are always under the effects of a *protection from 
 
 ##### Holy Nimbus
 
-At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.
+At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 9m radius, and dim light shines 9m beyond that.
 
 Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.
 
@@ -1571,7 +1571,7 @@ At 3rd level, you choose an archetype that you strive to emulate: Hunter or Beas
 
 ### Primeval Awareness
 
-Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.
+Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1.6km of you (or within up to 9.6km if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.
 
 ### Ability Score Improvement
 
@@ -1601,7 +1601,7 @@ Starting at 14th level, you can use the Hide action as a bonus action on your tu
 
 At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.
 
-You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.
+You are also aware of the location of any invisible creature within 9m of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.
 
 ### Foe Slayer
 
@@ -1621,9 +1621,9 @@ At 3rd level, you gain one of the following features of your choice.
 
 ***Colossus Slayer***. Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.
 
-***Giant Killer***. When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
+***Giant Killer***. When a Large or larger creature within 1.5m of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
 
-***Horde Breaker***. Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
+***Horde Breaker***. Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 1.5m of the original target and within range of your weapon.
 
 ##### Defensive Tactics
 
@@ -1639,9 +1639,9 @@ At 7th level, you gain one of the following features of your choice.
 
 At 11th level, you gain one of the following features of your choice.
 
-***Volley***. You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
+***Volley***. You can use your action to make a ranged attack against any number of creatures within 3m of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
 
-***Whirlwind Attack***. You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
+***Whirlwind Attack***. You can use your action to make a melee attack against any number of creatures within 1.5m of you, with a separate attack roll for each target.
 
 ##### Superior Hunter's Defense
 
@@ -1726,7 +1726,7 @@ At 6th level, you can choose two more of your proficiencies (in skills or with t
 
 Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
+You don't need advantage on the attack roll if another enemy of the target is within 1.5m of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
 
@@ -1762,7 +1762,7 @@ By 11th level, you have refined your chosen skills until they approach perfectio
 
 ### Blindsense
 
-Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
+Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 3m of you.
 
 ### Slippery Mind
 
@@ -1794,7 +1794,7 @@ Starting at 3rd level, you can use the bonus action granted by your Cunning Acti
 
 When you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement.
 
-In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.
+In addition, when you make a running jump, the distance you cover increases by 0.3m times your Dexterity modifier.
 
 ##### Supreme Sneak
 
@@ -1951,9 +1951,9 @@ When you cast a spell that forces other creatures to make a saving throw, you ca
 
 #### Distant Spell
 
-When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.
+When you cast a spell that has a range of 1.5m or greater, you can spend 1 sorcery point to double the range of the spell.
 
-When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.
+When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 9m.
 
 #### Empowered Spell
 
@@ -2038,7 +2038,7 @@ You can't manifest your wings while wearing armor unless the armor is made to ac
 
 ##### Draconic Presence
 
-Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 18m. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
 
 # Warlock
 
@@ -2165,7 +2165,7 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 
 You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
-Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
+Your pact weapon disappears if it is more than 1.5m away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
 
 You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 
@@ -2251,7 +2251,7 @@ You can cast *hold monster* at will-targeting a celestial, fiend, or elemental-w
 
 #### Devil's Sight
 
-You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+You can see normally in darkness, both magical and nonmagical, to a distance of 36m.
 
 #### Dreadful Word
 
@@ -2267,7 +2267,7 @@ You can cast *detect magic* at will, without expending a spell slot.
 
 *Prerequisite: Eldritch Blast cantrip*
 
-When you cast *eldritch blast*, its range is 300 feet.
+When you cast *eldritch blast*, its range is 90m.
 
 #### Eyes of the Rune Keeper
 
@@ -2329,7 +2329,7 @@ You can cast *jump* on yourself at will, without expending a spell slot or mater
 
 *Prerequisite: Eldritch Blast cantrip*
 
-When you hit a creature with *eldritch blast*, you can push the creature up to 10 feet away from you in a straight line.
+When you hit a creature with *eldritch blast*, you can push the creature up to 3m away from you in a straight line.
 
 #### Sculptor of Flesh
 
@@ -2375,7 +2375,7 @@ You can cast *speak with dead* at will, without expending a spell slot.
 
 *Prerequisite: 15th level*
 
-You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
+You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 9m of you and within line of sight.
 
 ## Otherworldly Patrons
 
